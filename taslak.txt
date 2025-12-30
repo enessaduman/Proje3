@@ -1,0 +1,28 @@
+WEB SCRAPING and DATA COLLECTING
+    - Web Scraping yarısı bitti, kodu temizleme, okunabilir ve robust hale getirme kaldı.
+    - Solar Radyasyon ve Rüzgar hızı alınacak "https://www.visualcrossing.com/weather-query-builder/"den (Konya tamam)
+        * Kayseri
+        * Şanlıurfa
+        * Ankara
+        * İzmir
+        * Balıkesir
+        * Çanakkale
+        * Manisa
+        ^ Bu yukarısı elle indirilecek!
+
+DATA CLEANING AND ANALYSING
+    - Fonksiyonları Koda geçir
+    - Sütünları temizle
+    - Tarih eşitleme
+    - Birim Dönüşümü
+
+DATABASE SETUP:
+    -For re-run a SQL database
+    -Birimi çevrilmiş ve temizlenmiş datasetleri tarih/saat indeksli depolama
+    -Data Cleaning ve analysis partından gelen json dosyasını depolıycak!
+
+USER INTERFACE!
+
+    - Seaborn (emin değilim) ya da ReactJS kullanarak bir arayüz tasarlama
+    - Kullanıcıdan input alma yöntemleri
+    - RANGE SLIDER!! Grafikte tarih aralığı belirlemeli zaten fonksiyon input olarak tarih/ssaat alıyor
