@@ -8,7 +8,7 @@ WEB SCRAPING and DATA COLLECTING
         * Balıkesir
         * Çanakkale
         * Manisa
-        ^ Bu yukarısı elle indirilecek!
+        ^ Bu yukarısı elle indirilecek! JSON TEK DOSYAYA BİRLEŞTRİLİCEK! SAATLİK
 
 DATA CLEANING AND ANALYSING
     - Fonksiyonları Koda geçir
@@ -17,12 +17,11 @@ DATA CLEANING AND ANALYSING
     - Birim Dönüşümü
 
 DATABASE SETUP:
-    -For re-run a SQL database
+    -For re-run, a SQL database date, hour, city, solar_radiation, wind_speed, solar_energy_real, solar_energy_calculated, wind_energy_real, wind_energy_calculated, total_energy(all fuels)
     -Birimi çevrilmiş ve temizlenmiş datasetleri tarih/saat indeksli depolama
     -Data Cleaning ve analysis partından gelen json dosyasını depolıycak!
 
-USER INTERFACE!
-
+USER INTERFACE:
     - Seaborn (emin değilim) ya da ReactJS kullanarak bir arayüz tasarlama
     - Kullanıcıdan input alma yöntemleri
     - RANGE SLIDER!! Grafikte tarih aralığı belirlemeli zaten fonksiyon input olarak tarih/ssaat alıyor

@@ -32,7 +32,8 @@ with sync_playwright() as p:
     page.fill("input[name='endDate']", "15.11.2025")
     #Bringing the table
     page.get_by_role("button", name="Sorgula").click()
-
+    # table expand
+    page.locator("div[class='react-select__control css-13cymwt-control']").nth(-1).click()
     # NOW WE HAVE THE TABLE!
     while next_button_visibility:
         selector = Selector(text=page.content())
