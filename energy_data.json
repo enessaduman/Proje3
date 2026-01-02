@@ -168,174 +168,6 @@
     "Wind Energy": "9.301,35"
   },
   {
-    "Date": "15.08.2025",
-    "Hour": "00:00",
-    "Total Energy": "46.930,69",
-    "Solar Energy": "0,01",
-    "Wind Energy": "6.270,54"
-  },
-  {
-    "Date": "15.08.2025",
-    "Hour": "01:00",
-    "Total Energy": "44.939,70",
-    "Solar Energy": "0,01",
-    "Wind Energy": "6.039,83"
-  },
-  {
-    "Date": "15.08.2025",
-    "Hour": "02:00",
-    "Total Energy": "43.132,34",
-    "Solar Energy": "0,01",
-    "Wind Energy": "6.061,29"
-  },
-  {
-    "Date": "15.08.2025",
-    "Hour": "03:00",
-    "Total Energy": "41.894,37",
-    "Solar Energy": "0,01",
-    "Wind Energy": "6.079,25"
-  },
-  {
-    "Date": "15.08.2025",
-    "Hour": "04:00",
-    "Total Energy": "40.912,47",
-    "Solar Energy": "0,92",
-    "Wind Energy": "6.241,11"
-  },
-  {
-    "Date": "15.08.2025",
-    "Hour": "05:00",
-    "Total Energy": "40.299,94",
-    "Solar Energy": "9,67",
-    "Wind Energy": "6.450,70"
-  },
-  {
-    "Date": "15.08.2025",
-    "Hour": "06:00",
-    "Total Energy": "38.776,43",
-    "Solar Energy": "327,51",
-    "Wind Energy": "6.443,47"
-  },
-  {
-    "Date": "15.08.2025",
-    "Hour": "07:00",
-    "Total Energy": "38.521,54",
-    "Solar Energy": "1.509,98",
-    "Wind Energy": "6.518,79"
-  },
-  {
-    "Date": "15.08.2025",
-    "Hour": "08:00",
-    "Total Energy": "40.587,56",
-    "Solar Energy": "2.531,38",
-    "Wind Energy": "6.441,47"
-  },
-  {
-    "Date": "15.08.2025",
-    "Hour": "09:00",
-    "Total Energy": "40.558,44",
-    "Solar Energy": "2.900,29",
-    "Wind Energy": "6.434,52"
-  },
-  {
-    "Date": "15.08.2025",
-    "Hour": "10:00",
-    "Total Energy": "40.092,87",
-    "Solar Energy": "3.108,80",
-    "Wind Energy": "6.474,06"
-  },
-  {
-    "Date": "15.08.2025",
-    "Hour": "11:00",
-    "Total Energy": "39.837,14",
-    "Solar Energy": "3.204,88",
-    "Wind Energy": "6.379,84"
-  },
-  {
-    "Date": "15.08.2025",
-    "Hour": "12:00",
-    "Total Energy": "38.163,51",
-    "Solar Energy": "3.210,32",
-    "Wind Energy": "6.666,66"
-  },
-  {
-    "Date": "15.08.2025",
-    "Hour": "13:00",
-    "Total Energy": "38.419,92",
-    "Solar Energy": "3.203,77",
-    "Wind Energy": "7.006,19"
-  },
-  {
-    "Date": "15.08.2025",
-    "Hour": "14:00",
-    "Total Energy": "42.180,58",
-    "Solar Energy": "3.091,89",
-    "Wind Energy": "7.342,52"
-  },
-  {
-    "Date": "15.08.2025",
-    "Hour": "15:00",
-    "Total Energy": "43.867,24",
-    "Solar Energy": "2.918,86",
-    "Wind Energy": "7.770,15"
-  },
-  {
-    "Date": "15.08.2025",
-    "Hour": "16:00",
-    "Total Energy": "46.019,34",
-    "Solar Energy": "2.643,59",
-    "Wind Energy": "8.197,47"
-  },
-  {
-    "Date": "15.08.2025",
-    "Hour": "17:00",
-    "Total Energy": "48.940,40",
-    "Solar Energy": "1.929,31",
-    "Wind Energy": "8.630,93"
-  },
-  {
-    "Date": "15.08.2025",
-    "Hour": "18:00",
-    "Total Energy": "50.322,28",
-    "Solar Energy": "667,73",
-    "Wind Energy": "8.938,04"
-  },
-  {
-    "Date": "15.08.2025",
-    "Hour": "19:00",
-    "Total Energy": "51.889,10",
-    "Solar Energy": "41,28",
-    "Wind Energy": "9.124,96"
-  },
-  {
-    "Date": "15.08.2025",
-    "Hour": "20:00",
-    "Total Energy": "52.821,71",
-    "Solar Energy": "0,06",
-    "Wind Energy": "9.171,17"
-  },
-  {
-    "Date": "15.08.2025",
-    "Hour": "21:00",
-    "Total Energy": "51.550,93",
-    "Solar Energy": "0,01",
-    "Wind Energy": "9.187,91"
-  },
-  {
-    "Date": "15.08.2025",
-    "Hour": "22:00",
-    "Total Energy": "50.085,35",
-    "Solar Energy": "0,01",
-    "Wind Energy": "9.314,39"
-  },
-  {
-    "Date": "15.08.2025",
-    "Hour": "23:00",
-    "Total Energy": "48.050,15",
-    "Solar Energy": "0,01",
-    "Wind Energy": "9.301,35"
-  },
-  {
     "Date": "16.08.2025",
     "Hour": "00:00",
     "Total Energy": "45.873,37",
@@ -11088,4539 +10920,4707 @@
     "Wind Energy": "945,86"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "19.10.2025",
     "Hour": "00:00",
-    "Total Energy": "34.634,03",
-    "Solar Energy": "0,99",
-    "Wind Energy": "850,29"
+    "Total Energy": "32.960,05",
+    "Solar Energy": "0,79",
+    "Wind Energy": "1.177,62"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "19.10.2025",
     "Hour": "01:00",
-    "Total Energy": "33.097,18",
-    "Solar Energy": "0,99",
-    "Wind Energy": "915,69"
+    "Total Energy": "31.406,25",
+    "Solar Energy": "0,79",
+    "Wind Energy": "1.353,86"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "19.10.2025",
     "Hour": "02:00",
-    "Total Energy": "31.866,58",
-    "Solar Energy": "0,99",
-    "Wind Energy": "969,58"
+    "Total Energy": "29.873,41",
+    "Solar Energy": "0,67",
+    "Wind Energy": "1.483,63"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "19.10.2025",
     "Hour": "03:00",
-    "Total Energy": "31.054,56",
-    "Solar Energy": "0,99",
-    "Wind Energy": "952,15"
+    "Total Energy": "29.362,55",
+    "Solar Energy": "0,67",
+    "Wind Energy": "1.718,18"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "19.10.2025",
     "Hour": "04:00",
-    "Total Energy": "30.724,02",
-    "Solar Energy": "0,88",
-    "Wind Energy": "857,97"
+    "Total Energy": "28.940,14",
+    "Solar Energy": "0,67",
+    "Wind Energy": "1.987,70"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "19.10.2025",
     "Hour": "05:00",
-    "Total Energy": "30.757,71",
-    "Solar Energy": "2,60",
-    "Wind Energy": "725,08"
+    "Total Energy": "28.970,29",
+    "Solar Energy": "1,98",
+    "Wind Energy": "2.053,31"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "19.10.2025",
     "Hour": "06:00",
-    "Total Energy": "31.107,11",
-    "Solar Energy": "26,20",
-    "Wind Energy": "619,22"
+    "Total Energy": "28.738,31",
+    "Solar Energy": "27,06",
+    "Wind Energy": "2.180,11"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "19.10.2025",
     "Hour": "07:00",
-    "Total Energy": "29.968,61",
-    "Solar Energy": "512,68",
-    "Wind Energy": "616,61"
+    "Total Energy": "26.745,94",
+    "Solar Energy": "445,53",
+    "Wind Energy": "2.096,66"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "19.10.2025",
     "Hour": "08:00",
-    "Total Energy": "29.918,43",
-    "Solar Energy": "1.866,78",
-    "Wind Energy": "571,91"
+    "Total Energy": "24.419,12",
+    "Solar Energy": "1.639,90",
+    "Wind Energy": "1.981,33"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "19.10.2025",
     "Hour": "09:00",
-    "Total Energy": "28.661,89",
-    "Solar Energy": "2.631,98",
-    "Wind Energy": "555,38"
+    "Total Energy": "22.492,34",
+    "Solar Energy": "2.442,35",
+    "Wind Energy": "2.284,79"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "19.10.2025",
     "Hour": "10:00",
-    "Total Energy": "27.581,91",
-    "Solar Energy": "2.886,60",
-    "Wind Energy": "601,76"
+    "Total Energy": "22.017,98",
+    "Solar Energy": "2.625,51",
+    "Wind Energy": "2.544,98"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "19.10.2025",
     "Hour": "11:00",
-    "Total Energy": "26.933,05",
-    "Solar Energy": "2.929,27",
-    "Wind Energy": "692,30"
+    "Total Energy": "22.539,53",
+    "Solar Energy": "2.716,01",
+    "Wind Energy": "2.866,82"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "19.10.2025",
     "Hour": "12:00",
-    "Total Energy": "25.331,54",
-    "Solar Energy": "2.996,23",
-    "Wind Energy": "775,34"
+    "Total Energy": "23.073,43",
+    "Solar Energy": "2.622,75",
+    "Wind Energy": "3.106,55"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "19.10.2025",
     "Hour": "13:00",
-    "Total Energy": "26.746,33",
-    "Solar Energy": "2.922,51",
-    "Wind Energy": "932,13"
+    "Total Energy": "24.866,99",
+    "Solar Energy": "2.639,73",
+    "Wind Energy": "3.204,34"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "19.10.2025",
     "Hour": "14:00",
-    "Total Energy": "28.581,62",
-    "Solar Energy": "2.744,12",
-    "Wind Energy": "1.091,36"
+    "Total Energy": "26.833,25",
+    "Solar Energy": "2.491,62",
+    "Wind Energy": "3.383,57"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "19.10.2025",
     "Hour": "15:00",
-    "Total Energy": "30.938,07",
-    "Solar Energy": "2.321,04",
-    "Wind Energy": "1.053,58"
+    "Total Energy": "29.293,37",
+    "Solar Energy": "2.123,94",
+    "Wind Energy": "3.237,23"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "19.10.2025",
     "Hour": "16:00",
-    "Total Energy": "34.874,37",
-    "Solar Energy": "1.316,35",
-    "Wind Energy": "1.102,79"
+    "Total Energy": "32.342,68",
+    "Solar Energy": "1.099,86",
+    "Wind Energy": "3.071,37"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "19.10.2025",
     "Hour": "17:00",
-    "Total Energy": "38.585,23",
-    "Solar Energy": "240,74",
-    "Wind Energy": "1.179,97"
+    "Total Energy": "35.349,72",
+    "Solar Energy": "138,73",
+    "Wind Energy": "3.164,01"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "19.10.2025",
     "Hour": "18:00",
-    "Total Energy": "40.990,93",
-    "Solar Energy": "3,25",
-    "Wind Energy": "1.300,81"
+    "Total Energy": "38.019,49",
+    "Solar Energy": "3,09",
+    "Wind Energy": "3.212,29"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "19.10.2025",
     "Hour": "19:00",
-    "Total Energy": "40.182,16",
-    "Solar Energy": "0,89",
-    "Wind Energy": "1.193,78"
+    "Total Energy": "38.106,00",
+    "Solar Energy": "0,97",
+    "Wind Energy": "3.198,36"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "19.10.2025",
     "Hour": "20:00",
-    "Total Energy": "39.597,07",
-    "Solar Energy": "0,90",
-    "Wind Energy": "1.001,12"
+    "Total Energy": "37.195,90",
+    "Solar Energy": "0,97",
+    "Wind Energy": "3.070,88"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "19.10.2025",
     "Hour": "21:00",
-    "Total Energy": "38.447,89",
-    "Solar Energy": "0,89",
-    "Wind Energy": "957,38"
+    "Total Energy": "36.123,07",
+    "Solar Energy": "0,97",
+    "Wind Energy": "2.954,74"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "19.10.2025",
     "Hour": "22:00",
-    "Total Energy": "36.998,77",
-    "Solar Energy": "0,90",
-    "Wind Energy": "908,29"
+    "Total Energy": "34.854,10",
+    "Solar Energy": "0,97",
+    "Wind Energy": "2.745,64"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "19.10.2025",
     "Hour": "23:00",
-    "Total Energy": "35.090,94",
-    "Solar Energy": "0,81",
-    "Wind Energy": "945,86"
+    "Total Energy": "33.156,63",
+    "Solar Energy": "0,97",
+    "Wind Energy": "2.427,04"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "20.10.2025",
     "Hour": "00:00",
-    "Total Energy": "34.634,03",
-    "Solar Energy": "0,99",
-    "Wind Energy": "850,29"
+    "Total Energy": "31.537,32",
+    "Solar Energy": "0,91",
+    "Wind Energy": "2.369,47"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "20.10.2025",
     "Hour": "01:00",
-    "Total Energy": "33.097,18",
-    "Solar Energy": "0,99",
-    "Wind Energy": "915,69"
+    "Total Energy": "30.271,59",
+    "Solar Energy": "0,91",
+    "Wind Energy": "2.269,85"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "20.10.2025",
     "Hour": "02:00",
-    "Total Energy": "31.866,58",
-    "Solar Energy": "0,99",
-    "Wind Energy": "969,58"
+    "Total Energy": "29.349,12",
+    "Solar Energy": "0,90",
+    "Wind Energy": "2.244,24"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "20.10.2025",
     "Hour": "03:00",
-    "Total Energy": "31.054,56",
-    "Solar Energy": "0,99",
-    "Wind Energy": "952,15"
+    "Total Energy": "28.867,43",
+    "Solar Energy": "0,90",
+    "Wind Energy": "2.160,20"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "20.10.2025",
     "Hour": "04:00",
-    "Total Energy": "30.724,02",
-    "Solar Energy": "0,88",
-    "Wind Energy": "857,97"
+    "Total Energy": "28.569,65",
+    "Solar Energy": "0,90",
+    "Wind Energy": "2.028,04"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "20.10.2025",
     "Hour": "05:00",
-    "Total Energy": "30.757,71",
-    "Solar Energy": "2,60",
-    "Wind Energy": "725,08"
+    "Total Energy": "29.134,79",
+    "Solar Energy": "1,36",
+    "Wind Energy": "1.968,56"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "20.10.2025",
     "Hour": "06:00",
-    "Total Energy": "31.107,11",
-    "Solar Energy": "26,20",
-    "Wind Energy": "619,22"
+    "Total Energy": "30.169,08",
+    "Solar Energy": "10,87",
+    "Wind Energy": "1.835,04"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "20.10.2025",
     "Hour": "07:00",
-    "Total Energy": "29.968,61",
-    "Solar Energy": "512,68",
-    "Wind Energy": "616,61"
+    "Total Energy": "31.876,50",
+    "Solar Energy": "288,56",
+    "Wind Energy": "1.698,98"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "20.10.2025",
     "Hour": "08:00",
-    "Total Energy": "29.918,43",
-    "Solar Energy": "1.866,78",
-    "Wind Energy": "571,91"
+    "Total Energy": "35.374,59",
+    "Solar Energy": "1.001,09",
+    "Wind Energy": "1.526,51"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "20.10.2025",
     "Hour": "09:00",
-    "Total Energy": "28.661,89",
-    "Solar Energy": "2.631,98",
-    "Wind Energy": "555,38"
+    "Total Energy": "34.925,65",
+    "Solar Energy": "1.616,97",
+    "Wind Energy": "1.098,73"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "20.10.2025",
     "Hour": "10:00",
-    "Total Energy": "27.581,91",
-    "Solar Energy": "2.886,60",
-    "Wind Energy": "601,76"
+    "Total Energy": "33.360,44",
+    "Solar Energy": "2.128,29",
+    "Wind Energy": "940,01"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "20.10.2025",
     "Hour": "11:00",
-    "Total Energy": "26.933,05",
-    "Solar Energy": "2.929,27",
-    "Wind Energy": "692,30"
+    "Total Energy": "32.852,61",
+    "Solar Energy": "2.162,68",
+    "Wind Energy": "833,08"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "20.10.2025",
     "Hour": "12:00",
-    "Total Energy": "25.331,54",
-    "Solar Energy": "2.996,23",
-    "Wind Energy": "775,34"
+    "Total Energy": "31.177,68",
+    "Solar Energy": "2.216,83",
+    "Wind Energy": "872,97"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "20.10.2025",
     "Hour": "13:00",
-    "Total Energy": "26.746,33",
-    "Solar Energy": "2.922,51",
-    "Wind Energy": "932,13"
+    "Total Energy": "32.383,74",
+    "Solar Energy": "2.315,93",
+    "Wind Energy": "1.056,45"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "20.10.2025",
     "Hour": "14:00",
-    "Total Energy": "28.581,62",
-    "Solar Energy": "2.744,12",
-    "Wind Energy": "1.091,36"
+    "Total Energy": "34.838,14",
+    "Solar Energy": "2.229,55",
+    "Wind Energy": "1.146,23"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "20.10.2025",
     "Hour": "15:00",
-    "Total Energy": "30.938,07",
-    "Solar Energy": "2.321,04",
-    "Wind Energy": "1.053,58"
+    "Total Energy": "36.846,97",
+    "Solar Energy": "1.866,35",
+    "Wind Energy": "1.194,28"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "20.10.2025",
     "Hour": "16:00",
-    "Total Energy": "34.874,37",
-    "Solar Energy": "1.316,35",
-    "Wind Energy": "1.102,79"
+    "Total Energy": "39.712,50",
+    "Solar Energy": "819,54",
+    "Wind Energy": "1.187,23"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "20.10.2025",
     "Hour": "17:00",
-    "Total Energy": "38.585,23",
-    "Solar Energy": "240,74",
-    "Wind Energy": "1.179,97"
+    "Total Energy": "42.686,29",
+    "Solar Energy": "130,87",
+    "Wind Energy": "1.299,43"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "20.10.2025",
     "Hour": "18:00",
-    "Total Energy": "40.990,93",
-    "Solar Energy": "3,25",
-    "Wind Energy": "1.300,81"
+    "Total Energy": "43.719,30",
+    "Solar Energy": "3,27",
+    "Wind Energy": "1.243,56"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "20.10.2025",
     "Hour": "19:00",
-    "Total Energy": "40.182,16",
-    "Solar Energy": "0,89",
-    "Wind Energy": "1.193,78"
+    "Total Energy": "43.049,93",
+    "Solar Energy": "0,76",
+    "Wind Energy": "1.176,97"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "20.10.2025",
     "Hour": "20:00",
-    "Total Energy": "39.597,07",
-    "Solar Energy": "0,90",
-    "Wind Energy": "1.001,12"
+    "Total Energy": "42.012,61",
+    "Solar Energy": "0,77",
+    "Wind Energy": "1.036,14"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "20.10.2025",
     "Hour": "21:00",
-    "Total Energy": "38.447,89",
-    "Solar Energy": "0,89",
-    "Wind Energy": "957,38"
+    "Total Energy": "40.575,67",
+    "Solar Energy": "2,78",
+    "Wind Energy": "902,50"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "20.10.2025",
     "Hour": "22:00",
-    "Total Energy": "36.998,77",
-    "Solar Energy": "0,90",
-    "Wind Energy": "908,29"
+    "Total Energy": "38.721,79",
+    "Solar Energy": "0,80",
+    "Wind Energy": "834,54"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "20.10.2025",
     "Hour": "23:00",
-    "Total Energy": "35.090,94",
-    "Solar Energy": "0,81",
-    "Wind Energy": "945,86"
+    "Total Energy": "36.826,18",
+    "Solar Energy": "0,80",
+    "Wind Energy": "700,24"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "21.10.2025",
     "Hour": "00:00",
-    "Total Energy": "34.634,03",
-    "Solar Energy": "0,99",
-    "Wind Energy": "850,29"
+    "Total Energy": "34.739,93",
+    "Solar Energy": "0,79",
+    "Wind Energy": "690,77"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "21.10.2025",
     "Hour": "01:00",
-    "Total Energy": "33.097,18",
-    "Solar Energy": "0,99",
-    "Wind Energy": "915,69"
+    "Total Energy": "33.327,40",
+    "Solar Energy": "0,80",
+    "Wind Energy": "743,58"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "21.10.2025",
     "Hour": "02:00",
-    "Total Energy": "31.866,58",
-    "Solar Energy": "0,99",
-    "Wind Energy": "969,58"
+    "Total Energy": "31.941,71",
+    "Solar Energy": "0,80",
+    "Wind Energy": "785,65"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "21.10.2025",
     "Hour": "03:00",
-    "Total Energy": "31.054,56",
-    "Solar Energy": "0,99",
-    "Wind Energy": "952,15"
+    "Total Energy": "31.257,49",
+    "Solar Energy": "0,78",
+    "Wind Energy": "796,58"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "21.10.2025",
     "Hour": "04:00",
-    "Total Energy": "30.724,02",
-    "Solar Energy": "0,88",
-    "Wind Energy": "857,97"
+    "Total Energy": "31.059,01",
+    "Solar Energy": "0,78",
+    "Wind Energy": "785,23"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "21.10.2025",
     "Hour": "05:00",
-    "Total Energy": "30.757,71",
-    "Solar Energy": "2,60",
-    "Wind Energy": "725,08"
+    "Total Energy": "31.375,31",
+    "Solar Energy": "1,89",
+    "Wind Energy": "829,77"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "21.10.2025",
     "Hour": "06:00",
-    "Total Energy": "31.107,11",
-    "Solar Energy": "26,20",
-    "Wind Energy": "619,22"
+    "Total Energy": "32.490,14",
+    "Solar Energy": "8,99",
+    "Wind Energy": "818,70"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "21.10.2025",
     "Hour": "07:00",
-    "Total Energy": "29.968,61",
-    "Solar Energy": "512,68",
-    "Wind Energy": "616,61"
+    "Total Energy": "33.813,69",
+    "Solar Energy": "174,22",
+    "Wind Energy": "761,01"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "21.10.2025",
     "Hour": "08:00",
-    "Total Energy": "29.918,43",
-    "Solar Energy": "1.866,78",
-    "Wind Energy": "571,91"
+    "Total Energy": "36.794,30",
+    "Solar Energy": "771,57",
+    "Wind Energy": "780,12"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "21.10.2025",
     "Hour": "09:00",
-    "Total Energy": "28.661,89",
-    "Solar Energy": "2.631,98",
-    "Wind Energy": "555,38"
+    "Total Energy": "36.104,69",
+    "Solar Energy": "1.306,33",
+    "Wind Energy": "728,70"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "21.10.2025",
     "Hour": "10:00",
-    "Total Energy": "27.581,91",
-    "Solar Energy": "2.886,60",
-    "Wind Energy": "601,76"
+    "Total Energy": "34.367,60",
+    "Solar Energy": "1.954,93",
+    "Wind Energy": "699,55"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "21.10.2025",
     "Hour": "11:00",
-    "Total Energy": "26.933,05",
-    "Solar Energy": "2.929,27",
-    "Wind Energy": "692,30"
+    "Total Energy": "32.896,85",
+    "Solar Energy": "2.047,25",
+    "Wind Energy": "694,10"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "21.10.2025",
     "Hour": "12:00",
-    "Total Energy": "25.331,54",
-    "Solar Energy": "2.996,23",
-    "Wind Energy": "775,34"
+    "Total Energy": "30.264,35",
+    "Solar Energy": "1.899,09",
+    "Wind Energy": "725,03"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "21.10.2025",
     "Hour": "13:00",
-    "Total Energy": "26.746,33",
-    "Solar Energy": "2.922,51",
-    "Wind Energy": "932,13"
+    "Total Energy": "31.467,48",
+    "Solar Energy": "1.791,42",
+    "Wind Energy": "726,62"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "21.10.2025",
     "Hour": "14:00",
-    "Total Energy": "28.581,62",
-    "Solar Energy": "2.744,12",
-    "Wind Energy": "1.091,36"
+    "Total Energy": "34.327,16",
+    "Solar Energy": "1.492,36",
+    "Wind Energy": "811,05"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "21.10.2025",
     "Hour": "15:00",
-    "Total Energy": "30.938,07",
-    "Solar Energy": "2.321,04",
-    "Wind Energy": "1.053,58"
+    "Total Energy": "37.172,60",
+    "Solar Energy": "930,17",
+    "Wind Energy": "877,27"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "21.10.2025",
     "Hour": "16:00",
-    "Total Energy": "34.874,37",
-    "Solar Energy": "1.316,35",
-    "Wind Energy": "1.102,79"
+    "Total Energy": "40.082,14",
+    "Solar Energy": "536,76",
+    "Wind Energy": "882,95"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "21.10.2025",
     "Hour": "17:00",
-    "Total Energy": "38.585,23",
-    "Solar Energy": "240,74",
-    "Wind Energy": "1.179,97"
+    "Total Energy": "42.761,43",
+    "Solar Energy": "109,67",
+    "Wind Energy": "978,10"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "21.10.2025",
     "Hour": "18:00",
-    "Total Energy": "40.990,93",
-    "Solar Energy": "3,25",
-    "Wind Energy": "1.300,81"
+    "Total Energy": "44.050,80",
+    "Solar Energy": "1,36",
+    "Wind Energy": "1.039,12"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "21.10.2025",
     "Hour": "19:00",
-    "Total Energy": "40.182,16",
-    "Solar Energy": "0,89",
-    "Wind Energy": "1.193,78"
+    "Total Energy": "42.766,74",
+    "Solar Energy": "0,77",
+    "Wind Energy": "1.095,73"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "21.10.2025",
     "Hour": "20:00",
-    "Total Energy": "39.597,07",
-    "Solar Energy": "0,90",
-    "Wind Energy": "1.001,12"
+    "Total Energy": "42.085,91",
+    "Solar Energy": "0,78",
+    "Wind Energy": "1.176,96"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "21.10.2025",
     "Hour": "21:00",
-    "Total Energy": "38.447,89",
-    "Solar Energy": "0,89",
-    "Wind Energy": "957,38"
+    "Total Energy": "40.870,19",
+    "Solar Energy": "0,77",
+    "Wind Energy": "1.251,01"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "21.10.2025",
     "Hour": "22:00",
-    "Total Energy": "36.998,77",
-    "Solar Energy": "0,90",
-    "Wind Energy": "908,29"
+    "Total Energy": "39.086,17",
+    "Solar Energy": "0,78",
+    "Wind Energy": "1.227,59"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "21.10.2025",
     "Hour": "23:00",
-    "Total Energy": "35.090,94",
-    "Solar Energy": "0,81",
-    "Wind Energy": "945,86"
+    "Total Energy": "36.708,64",
+    "Solar Energy": "0,77",
+    "Wind Energy": "1.368,07"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "22.10.2025",
     "Hour": "00:00",
-    "Total Energy": "34.634,03",
-    "Solar Energy": "0,99",
-    "Wind Energy": "850,29"
+    "Total Energy": "34.526,73",
+    "Solar Energy": "0,78",
+    "Wind Energy": "1.544,74"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "22.10.2025",
     "Hour": "01:00",
-    "Total Energy": "33.097,18",
-    "Solar Energy": "0,99",
-    "Wind Energy": "915,69"
+    "Total Energy": "33.003,79",
+    "Solar Energy": "0,78",
+    "Wind Energy": "1.665,24"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "22.10.2025",
     "Hour": "02:00",
-    "Total Energy": "31.866,58",
-    "Solar Energy": "0,99",
-    "Wind Energy": "969,58"
+    "Total Energy": "31.928,47",
+    "Solar Energy": "0,78",
+    "Wind Energy": "1.912,85"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "22.10.2025",
     "Hour": "03:00",
-    "Total Energy": "31.054,56",
-    "Solar Energy": "0,99",
-    "Wind Energy": "952,15"
+    "Total Energy": "31.237,88",
+    "Solar Energy": "0,78",
+    "Wind Energy": "2.036,61"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "22.10.2025",
     "Hour": "04:00",
-    "Total Energy": "30.724,02",
-    "Solar Energy": "0,88",
-    "Wind Energy": "857,97"
+    "Total Energy": "31.206,68",
+    "Solar Energy": "0,78",
+    "Wind Energy": "1.920,01"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "22.10.2025",
     "Hour": "05:00",
-    "Total Energy": "30.757,71",
-    "Solar Energy": "2,60",
-    "Wind Energy": "725,08"
+    "Total Energy": "31.093,03",
+    "Solar Energy": "1,14",
+    "Wind Energy": "1.935,06"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "22.10.2025",
     "Hour": "06:00",
-    "Total Energy": "31.107,11",
-    "Solar Energy": "26,20",
-    "Wind Energy": "619,22"
+    "Total Energy": "32.541,91",
+    "Solar Energy": "14,57",
+    "Wind Energy": "2.008,91"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "22.10.2025",
     "Hour": "07:00",
-    "Total Energy": "29.968,61",
-    "Solar Energy": "512,68",
-    "Wind Energy": "616,61"
+    "Total Energy": "33.607,51",
+    "Solar Energy": "318,95",
+    "Wind Energy": "2.072,23"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "22.10.2025",
     "Hour": "08:00",
-    "Total Energy": "29.918,43",
-    "Solar Energy": "1.866,78",
-    "Wind Energy": "571,91"
+    "Total Energy": "36.422,90",
+    "Solar Energy": "1.321,34",
+    "Wind Energy": "2.140,73"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "22.10.2025",
     "Hour": "09:00",
-    "Total Energy": "28.661,89",
-    "Solar Energy": "2.631,98",
-    "Wind Energy": "555,38"
+    "Total Energy": "35.663,28",
+    "Solar Energy": "1.863,83",
+    "Wind Energy": "2.040,47"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "22.10.2025",
     "Hour": "10:00",
-    "Total Energy": "27.581,91",
-    "Solar Energy": "2.886,60",
-    "Wind Energy": "601,76"
+    "Total Energy": "33.579,06",
+    "Solar Energy": "2.421,23",
+    "Wind Energy": "2.019,17"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "22.10.2025",
     "Hour": "11:00",
-    "Total Energy": "26.933,05",
-    "Solar Energy": "2.929,27",
-    "Wind Energy": "692,30"
+    "Total Energy": "33.049,12",
+    "Solar Energy": "2.394,21",
+    "Wind Energy": "2.168,74"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "22.10.2025",
     "Hour": "12:00",
-    "Total Energy": "25.331,54",
-    "Solar Energy": "2.996,23",
-    "Wind Energy": "775,34"
+    "Total Energy": "31.684,52",
+    "Solar Energy": "2.163,13",
+    "Wind Energy": "2.366,76"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "22.10.2025",
     "Hour": "13:00",
-    "Total Energy": "26.746,33",
-    "Solar Energy": "2.922,51",
-    "Wind Energy": "932,13"
+    "Total Energy": "33.287,97",
+    "Solar Energy": "1.751,34",
+    "Wind Energy": "2.660,91"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "22.10.2025",
     "Hour": "14:00",
-    "Total Energy": "28.581,62",
-    "Solar Energy": "2.744,12",
-    "Wind Energy": "1.091,36"
+    "Total Energy": "35.571,76",
+    "Solar Energy": "1.619,78",
+    "Wind Energy": "2.499,80"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "22.10.2025",
     "Hour": "15:00",
-    "Total Energy": "30.938,07",
-    "Solar Energy": "2.321,04",
-    "Wind Energy": "1.053,58"
+    "Total Energy": "37.346,05",
+    "Solar Energy": "1.122,48",
+    "Wind Energy": "2.466,52"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "22.10.2025",
     "Hour": "16:00",
-    "Total Energy": "34.874,37",
-    "Solar Energy": "1.316,35",
-    "Wind Energy": "1.102,79"
+    "Total Energy": "40.085,27",
+    "Solar Energy": "638,99",
+    "Wind Energy": "2.280,09"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "22.10.2025",
     "Hour": "17:00",
-    "Total Energy": "38.585,23",
-    "Solar Energy": "240,74",
-    "Wind Energy": "1.179,97"
+    "Total Energy": "42.872,72",
+    "Solar Energy": "106,76",
+    "Wind Energy": "1.988,77"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "22.10.2025",
     "Hour": "18:00",
-    "Total Energy": "40.990,93",
-    "Solar Energy": "3,25",
-    "Wind Energy": "1.300,81"
+    "Total Energy": "43.904,78",
+    "Solar Energy": "1,86",
+    "Wind Energy": "2.057,16"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "22.10.2025",
     "Hour": "19:00",
-    "Total Energy": "40.182,16",
-    "Solar Energy": "0,89",
-    "Wind Energy": "1.193,78"
+    "Total Energy": "42.964,76",
+    "Solar Energy": "1,08",
+    "Wind Energy": "2.196,48"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "22.10.2025",
     "Hour": "20:00",
-    "Total Energy": "39.597,07",
-    "Solar Energy": "0,90",
-    "Wind Energy": "1.001,12"
+    "Total Energy": "41.791,07",
+    "Solar Energy": "1,02",
+    "Wind Energy": "2.394,48"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "22.10.2025",
     "Hour": "21:00",
-    "Total Energy": "38.447,89",
-    "Solar Energy": "0,89",
-    "Wind Energy": "957,38"
+    "Total Energy": "40.499,87",
+    "Solar Energy": "1,07",
+    "Wind Energy": "2.639,77"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "22.10.2025",
     "Hour": "22:00",
-    "Total Energy": "36.998,77",
-    "Solar Energy": "0,90",
-    "Wind Energy": "908,29"
+    "Total Energy": "38.849,61",
+    "Solar Energy": "1,07",
+    "Wind Energy": "2.908,52"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "22.10.2025",
     "Hour": "23:00",
-    "Total Energy": "35.090,94",
-    "Solar Energy": "0,81",
-    "Wind Energy": "945,86"
+    "Total Energy": "36.842,16",
+    "Solar Energy": "1,07",
+    "Wind Energy": "3.164,33"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "23.10.2025",
     "Hour": "00:00",
-    "Total Energy": "34.634,03",
-    "Solar Energy": "0,99",
-    "Wind Energy": "850,29"
+    "Total Energy": "34.799,32",
+    "Solar Energy": "1,07",
+    "Wind Energy": "3.552,81"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "23.10.2025",
     "Hour": "01:00",
-    "Total Energy": "33.097,18",
-    "Solar Energy": "0,99",
-    "Wind Energy": "915,69"
+    "Total Energy": "33.276,43",
+    "Solar Energy": "1,07",
+    "Wind Energy": "3.792,05"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "23.10.2025",
     "Hour": "02:00",
-    "Total Energy": "31.866,58",
-    "Solar Energy": "0,99",
-    "Wind Energy": "969,58"
+    "Total Energy": "32.102,56",
+    "Solar Energy": "1,07",
+    "Wind Energy": "3.858,92"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "23.10.2025",
     "Hour": "03:00",
-    "Total Energy": "31.054,56",
-    "Solar Energy": "0,99",
-    "Wind Energy": "952,15"
+    "Total Energy": "31.452,60",
+    "Solar Energy": "1,08",
+    "Wind Energy": "3.899,39"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "23.10.2025",
     "Hour": "04:00",
-    "Total Energy": "30.724,02",
-    "Solar Energy": "0,88",
-    "Wind Energy": "857,97"
+    "Total Energy": "31.219,80",
+    "Solar Energy": "0,77",
+    "Wind Energy": "4.122,83"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "23.10.2025",
     "Hour": "05:00",
-    "Total Energy": "30.757,71",
-    "Solar Energy": "2,60",
-    "Wind Energy": "725,08"
+    "Total Energy": "31.674,22",
+    "Solar Energy": "1,10",
+    "Wind Energy": "4.027,11"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "23.10.2025",
     "Hour": "06:00",
-    "Total Energy": "31.107,11",
-    "Solar Energy": "26,20",
-    "Wind Energy": "619,22"
+    "Total Energy": "32.809,04",
+    "Solar Energy": "12,01",
+    "Wind Energy": "4.135,00"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "23.10.2025",
     "Hour": "07:00",
-    "Total Energy": "29.968,61",
-    "Solar Energy": "512,68",
-    "Wind Energy": "616,61"
+    "Total Energy": "33.671,30",
+    "Solar Energy": "382,15",
+    "Wind Energy": "4.251,76"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "23.10.2025",
     "Hour": "08:00",
-    "Total Energy": "29.918,43",
-    "Solar Energy": "1.866,78",
-    "Wind Energy": "571,91"
+    "Total Energy": "36.124,20",
+    "Solar Energy": "1.574,42",
+    "Wind Energy": "4.364,93"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "23.10.2025",
     "Hour": "09:00",
-    "Total Energy": "28.661,89",
-    "Solar Energy": "2.631,98",
-    "Wind Energy": "555,38"
+    "Total Energy": "35.643,23",
+    "Solar Energy": "2.341,56",
+    "Wind Energy": "4.363,26"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "23.10.2025",
     "Hour": "10:00",
-    "Total Energy": "27.581,91",
-    "Solar Energy": "2.886,60",
-    "Wind Energy": "601,76"
+    "Total Energy": "34.734,03",
+    "Solar Energy": "2.335,46",
+    "Wind Energy": "4.492,64"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "23.10.2025",
     "Hour": "11:00",
-    "Total Energy": "26.933,05",
-    "Solar Energy": "2.929,27",
-    "Wind Energy": "692,30"
+    "Total Energy": "34.640,78",
+    "Solar Energy": "2.255,10",
+    "Wind Energy": "4.652,85"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "23.10.2025",
     "Hour": "12:00",
-    "Total Energy": "25.331,54",
-    "Solar Energy": "2.996,23",
-    "Wind Energy": "775,34"
+    "Total Energy": "32.984,69",
+    "Solar Energy": "2.224,97",
+    "Wind Energy": "4.768,18"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "23.10.2025",
     "Hour": "13:00",
-    "Total Energy": "26.746,33",
-    "Solar Energy": "2.922,51",
-    "Wind Energy": "932,13"
+    "Total Energy": "34.507,92",
+    "Solar Energy": "1.916,47",
+    "Wind Energy": "4.771,80"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "23.10.2025",
     "Hour": "14:00",
-    "Total Energy": "28.581,62",
-    "Solar Energy": "2.744,12",
-    "Wind Energy": "1.091,36"
+    "Total Energy": "37.206,20",
+    "Solar Energy": "1.701,62",
+    "Wind Energy": "5.249,34"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "23.10.2025",
     "Hour": "15:00",
-    "Total Energy": "30.938,07",
-    "Solar Energy": "2.321,04",
-    "Wind Energy": "1.053,58"
+    "Total Energy": "39.047,35",
+    "Solar Energy": "1.287,96",
+    "Wind Energy": "5.278,55"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "23.10.2025",
     "Hour": "16:00",
-    "Total Energy": "34.874,37",
-    "Solar Energy": "1.316,35",
-    "Wind Energy": "1.102,79"
+    "Total Energy": "41.817,35",
+    "Solar Energy": "654,54",
+    "Wind Energy": "5.210,01"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "23.10.2025",
     "Hour": "17:00",
-    "Total Energy": "38.585,23",
-    "Solar Energy": "240,74",
-    "Wind Energy": "1.179,97"
+    "Total Energy": "43.524,65",
+    "Solar Energy": "114,55",
+    "Wind Energy": "5.225,64"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "23.10.2025",
     "Hour": "18:00",
-    "Total Energy": "40.990,93",
-    "Solar Energy": "3,25",
-    "Wind Energy": "1.300,81"
+    "Total Energy": "44.132,82",
+    "Solar Energy": "1,40",
+    "Wind Energy": "5.246,98"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "23.10.2025",
     "Hour": "19:00",
-    "Total Energy": "40.182,16",
-    "Solar Energy": "0,89",
-    "Wind Energy": "1.193,78"
+    "Total Energy": "43.372,53",
+    "Solar Energy": "1,00",
+    "Wind Energy": "5.311,83"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "23.10.2025",
     "Hour": "20:00",
-    "Total Energy": "39.597,07",
-    "Solar Energy": "0,90",
-    "Wind Energy": "1.001,12"
+    "Total Energy": "42.071,92",
+    "Solar Energy": "0,99",
+    "Wind Energy": "5.510,31"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "23.10.2025",
     "Hour": "21:00",
-    "Total Energy": "38.447,89",
-    "Solar Energy": "0,89",
-    "Wind Energy": "957,38"
+    "Total Energy": "40.771,54",
+    "Solar Energy": "1,00",
+    "Wind Energy": "5.855,82"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "23.10.2025",
     "Hour": "22:00",
-    "Total Energy": "36.998,77",
-    "Solar Energy": "0,90",
-    "Wind Energy": "908,29"
+    "Total Energy": "39.180,61",
+    "Solar Energy": "0,98",
+    "Wind Energy": "6.444,32"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "23.10.2025",
     "Hour": "23:00",
-    "Total Energy": "35.090,94",
-    "Solar Energy": "0,81",
-    "Wind Energy": "945,86"
+    "Total Energy": "37.036,18",
+    "Solar Energy": "0,96",
+    "Wind Energy": "6.647,46"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "24.10.2025",
     "Hour": "00:00",
-    "Total Energy": "34.634,03",
-    "Solar Energy": "0,99",
-    "Wind Energy": "850,29"
+    "Total Energy": "34.802,34",
+    "Solar Energy": "0,98",
+    "Wind Energy": "7.012,64"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "24.10.2025",
     "Hour": "01:00",
-    "Total Energy": "33.097,18",
-    "Solar Energy": "0,99",
-    "Wind Energy": "915,69"
+    "Total Energy": "33.377,67",
+    "Solar Energy": "0,98",
+    "Wind Energy": "7.146,91"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "24.10.2025",
     "Hour": "02:00",
-    "Total Energy": "31.866,58",
-    "Solar Energy": "0,99",
-    "Wind Energy": "969,58"
+    "Total Energy": "32.148,99",
+    "Solar Energy": "0,98",
+    "Wind Energy": "7.267,38"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "24.10.2025",
     "Hour": "03:00",
-    "Total Energy": "31.054,56",
-    "Solar Energy": "0,99",
-    "Wind Energy": "952,15"
+    "Total Energy": "31.502,53",
+    "Solar Energy": "0,97",
+    "Wind Energy": "7.356,87"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "24.10.2025",
     "Hour": "04:00",
-    "Total Energy": "30.724,02",
-    "Solar Energy": "0,88",
-    "Wind Energy": "857,97"
+    "Total Energy": "31.317,87",
+    "Solar Energy": "0,76",
+    "Wind Energy": "7.292,97"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "24.10.2025",
     "Hour": "05:00",
-    "Total Energy": "30.757,71",
-    "Solar Energy": "2,60",
-    "Wind Energy": "725,08"
+    "Total Energy": "31.619,04",
+    "Solar Energy": "1,15",
+    "Wind Energy": "7.568,54"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "24.10.2025",
     "Hour": "06:00",
-    "Total Energy": "31.107,11",
-    "Solar Energy": "26,20",
-    "Wind Energy": "619,22"
+    "Total Energy": "32.518,97",
+    "Solar Energy": "10,52",
+    "Wind Energy": "7.742,93"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "24.10.2025",
     "Hour": "07:00",
-    "Total Energy": "29.968,61",
-    "Solar Energy": "512,68",
-    "Wind Energy": "616,61"
+    "Total Energy": "33.742,87",
+    "Solar Energy": "248,15",
+    "Wind Energy": "8.254,38"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "24.10.2025",
     "Hour": "08:00",
-    "Total Energy": "29.918,43",
-    "Solar Energy": "1.866,78",
-    "Wind Energy": "571,91"
+    "Total Energy": "36.022,07",
+    "Solar Energy": "1.055,43",
+    "Wind Energy": "8.486,10"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "24.10.2025",
     "Hour": "09:00",
-    "Total Energy": "28.661,89",
-    "Solar Energy": "2.631,98",
-    "Wind Energy": "555,38"
+    "Total Energy": "35.692,97",
+    "Solar Energy": "1.995,04",
+    "Wind Energy": "8.646,02"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "24.10.2025",
     "Hour": "10:00",
-    "Total Energy": "27.581,91",
-    "Solar Energy": "2.886,60",
-    "Wind Energy": "601,76"
+    "Total Energy": "33.972,36",
+    "Solar Energy": "2.428,76",
+    "Wind Energy": "9.054,50"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "24.10.2025",
     "Hour": "11:00",
-    "Total Energy": "26.933,05",
-    "Solar Energy": "2.929,27",
-    "Wind Energy": "692,30"
+    "Total Energy": "32.921,19",
+    "Solar Energy": "2.507,73",
+    "Wind Energy": "9.635,03"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "24.10.2025",
     "Hour": "12:00",
-    "Total Energy": "25.331,54",
-    "Solar Energy": "2.996,23",
-    "Wind Energy": "775,34"
+    "Total Energy": "29.747,65",
+    "Solar Energy": "2.338,65",
+    "Wind Energy": "9.497,48"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "24.10.2025",
     "Hour": "13:00",
-    "Total Energy": "26.746,33",
-    "Solar Energy": "2.922,51",
-    "Wind Energy": "932,13"
+    "Total Energy": "31.026,21",
+    "Solar Energy": "2.287,58",
+    "Wind Energy": "9.506,97"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "24.10.2025",
     "Hour": "14:00",
-    "Total Energy": "28.581,62",
-    "Solar Energy": "2.744,12",
-    "Wind Energy": "1.091,36"
+    "Total Energy": "34.781,88",
+    "Solar Energy": "2.179,31",
+    "Wind Energy": "10.036,84"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "24.10.2025",
     "Hour": "15:00",
-    "Total Energy": "30.938,07",
-    "Solar Energy": "2.321,04",
-    "Wind Energy": "1.053,58"
+    "Total Energy": "37.048,16",
+    "Solar Energy": "1.893,64",
+    "Wind Energy": "9.999,49"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "24.10.2025",
     "Hour": "16:00",
-    "Total Energy": "34.874,37",
-    "Solar Energy": "1.316,35",
-    "Wind Energy": "1.102,79"
+    "Total Energy": "40.239,04",
+    "Solar Energy": "1.102,06",
+    "Wind Energy": "9.772,84"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "24.10.2025",
     "Hour": "17:00",
-    "Total Energy": "38.585,23",
-    "Solar Energy": "240,74",
-    "Wind Energy": "1.179,97"
+    "Total Energy": "43.044,64",
+    "Solar Energy": "131,68",
+    "Wind Energy": "9.442,37"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "24.10.2025",
     "Hour": "18:00",
-    "Total Energy": "40.990,93",
-    "Solar Energy": "3,25",
-    "Wind Energy": "1.300,81"
+    "Total Energy": "43.535,54",
+    "Solar Energy": "0,75",
+    "Wind Energy": "8.960,57"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "24.10.2025",
     "Hour": "19:00",
-    "Total Energy": "40.182,16",
-    "Solar Energy": "0,89",
-    "Wind Energy": "1.193,78"
+    "Total Energy": "42.427,65",
+    "Solar Energy": "0,88",
+    "Wind Energy": "8.783,94"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "24.10.2025",
     "Hour": "20:00",
-    "Total Energy": "39.597,07",
-    "Solar Energy": "0,90",
-    "Wind Energy": "1.001,12"
+    "Total Energy": "41.369,95",
+    "Solar Energy": "1,28",
+    "Wind Energy": "8.126,94"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "24.10.2025",
     "Hour": "21:00",
-    "Total Energy": "38.447,89",
-    "Solar Energy": "0,89",
-    "Wind Energy": "957,38"
+    "Total Energy": "39.954,90",
+    "Solar Energy": "0,28",
+    "Wind Energy": "7.412,27"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "24.10.2025",
     "Hour": "22:00",
-    "Total Energy": "36.998,77",
-    "Solar Energy": "0,90",
-    "Wind Energy": "908,29"
+    "Total Energy": "38.431,06",
+    "Solar Energy": "1,27",
+    "Wind Energy": "6.962,51"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "24.10.2025",
     "Hour": "23:00",
-    "Total Energy": "35.090,94",
-    "Solar Energy": "0,81",
-    "Wind Energy": "945,86"
+    "Total Energy": "36.537,82",
+    "Solar Energy": "1,29",
+    "Wind Energy": "6.376,65"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "25.10.2025",
     "Hour": "00:00",
-    "Total Energy": "34.634,03",
-    "Solar Energy": "0,99",
-    "Wind Energy": "850,29"
+    "Total Energy": "34.757,36",
+    "Solar Energy": "1,27",
+    "Wind Energy": "6.129,10"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "25.10.2025",
     "Hour": "01:00",
-    "Total Energy": "33.097,18",
-    "Solar Energy": "0,99",
-    "Wind Energy": "915,69"
+    "Total Energy": "32.817,09",
+    "Solar Energy": "1,24",
+    "Wind Energy": "5.976,00"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "25.10.2025",
     "Hour": "02:00",
-    "Total Energy": "31.866,58",
-    "Solar Energy": "0,99",
-    "Wind Energy": "969,58"
+    "Total Energy": "31.675,38",
+    "Solar Energy": "1,20",
+    "Wind Energy": "5.933,41"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "25.10.2025",
     "Hour": "03:00",
-    "Total Energy": "31.054,56",
-    "Solar Energy": "0,99",
-    "Wind Energy": "952,15"
+    "Total Energy": "30.838,05",
+    "Solar Energy": "1,08",
+    "Wind Energy": "5.608,80"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "25.10.2025",
     "Hour": "04:00",
-    "Total Energy": "30.724,02",
-    "Solar Energy": "0,88",
-    "Wind Energy": "857,97"
+    "Total Energy": "30.435,67",
+    "Solar Energy": "0,74",
+    "Wind Energy": "5.208,84"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "25.10.2025",
     "Hour": "05:00",
-    "Total Energy": "30.757,71",
-    "Solar Energy": "2,60",
-    "Wind Energy": "725,08"
+    "Total Energy": "30.565,77",
+    "Solar Energy": "1,43",
+    "Wind Energy": "4.538,48"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "25.10.2025",
     "Hour": "06:00",
-    "Total Energy": "31.107,11",
-    "Solar Energy": "26,20",
-    "Wind Energy": "619,22"
+    "Total Energy": "30.933,65",
+    "Solar Energy": "15,30",
+    "Wind Energy": "3.647,85"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "25.10.2025",
     "Hour": "07:00",
-    "Total Energy": "29.968,61",
-    "Solar Energy": "512,68",
-    "Wind Energy": "616,61"
+    "Total Energy": "30.518,72",
+    "Solar Energy": "263,50",
+    "Wind Energy": "3.355,59"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "25.10.2025",
     "Hour": "08:00",
-    "Total Energy": "29.918,43",
-    "Solar Energy": "1.866,78",
-    "Wind Energy": "571,91"
+    "Total Energy": "31.502,55",
+    "Solar Energy": "1.261,40",
+    "Wind Energy": "2.994,61"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "25.10.2025",
     "Hour": "09:00",
-    "Total Energy": "28.661,89",
-    "Solar Energy": "2.631,98",
-    "Wind Energy": "555,38"
+    "Total Energy": "30.720,66",
+    "Solar Energy": "2.312,55",
+    "Wind Energy": "2.500,97"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "25.10.2025",
     "Hour": "10:00",
-    "Total Energy": "27.581,91",
-    "Solar Energy": "2.886,60",
-    "Wind Energy": "601,76"
+    "Total Energy": "29.654,35",
+    "Solar Energy": "2.516,54",
+    "Wind Energy": "2.370,61"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "25.10.2025",
     "Hour": "11:00",
-    "Total Energy": "26.933,05",
-    "Solar Energy": "2.929,27",
-    "Wind Energy": "692,30"
+    "Total Energy": "29.387,71",
+    "Solar Energy": "2.506,90",
+    "Wind Energy": "2.677,10"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "25.10.2025",
     "Hour": "12:00",
-    "Total Energy": "25.331,54",
-    "Solar Energy": "2.996,23",
-    "Wind Energy": "775,34"
+    "Total Energy": "28.525,53",
+    "Solar Energy": "2.535,54",
+    "Wind Energy": "2.788,67"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "25.10.2025",
     "Hour": "13:00",
-    "Total Energy": "26.746,33",
-    "Solar Energy": "2.922,51",
-    "Wind Energy": "932,13"
+    "Total Energy": "28.829,98",
+    "Solar Energy": "2.295,45",
+    "Wind Energy": "3.144,92"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "25.10.2025",
     "Hour": "14:00",
-    "Total Energy": "28.581,62",
-    "Solar Energy": "2.744,12",
-    "Wind Energy": "1.091,36"
+    "Total Energy": "31.102,05",
+    "Solar Energy": "2.099,72",
+    "Wind Energy": "3.172,64"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "25.10.2025",
     "Hour": "15:00",
-    "Total Energy": "30.938,07",
-    "Solar Energy": "2.321,04",
-    "Wind Energy": "1.053,58"
+    "Total Energy": "32.844,61",
+    "Solar Energy": "1.652,12",
+    "Wind Energy": "3.260,83"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "25.10.2025",
     "Hour": "16:00",
-    "Total Energy": "34.874,37",
-    "Solar Energy": "1.316,35",
-    "Wind Energy": "1.102,79"
+    "Total Energy": "35.967,08",
+    "Solar Energy": "1.039,13",
+    "Wind Energy": "3.167,65"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "25.10.2025",
     "Hour": "17:00",
-    "Total Energy": "38.585,23",
-    "Solar Energy": "240,74",
-    "Wind Energy": "1.179,97"
+    "Total Energy": "39.126,32",
+    "Solar Energy": "148,70",
+    "Wind Energy": "2.910,08"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "25.10.2025",
     "Hour": "18:00",
-    "Total Energy": "40.990,93",
-    "Solar Energy": "3,25",
-    "Wind Energy": "1.300,81"
+    "Total Energy": "41.299,82",
+    "Solar Energy": "2,99",
+    "Wind Energy": "2.725,15"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "25.10.2025",
     "Hour": "19:00",
-    "Total Energy": "40.182,16",
-    "Solar Energy": "0,89",
-    "Wind Energy": "1.193,78"
+    "Total Energy": "40.597,01",
+    "Solar Energy": "1,19",
+    "Wind Energy": "2.504,39"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "25.10.2025",
     "Hour": "20:00",
-    "Total Energy": "39.597,07",
-    "Solar Energy": "0,90",
-    "Wind Energy": "1.001,12"
+    "Total Energy": "39.495,40",
+    "Solar Energy": "1,15",
+    "Wind Energy": "2.197,26"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "25.10.2025",
     "Hour": "21:00",
-    "Total Energy": "38.447,89",
-    "Solar Energy": "0,89",
-    "Wind Energy": "957,38"
+    "Total Energy": "38.216,60",
+    "Solar Energy": "1,08",
+    "Wind Energy": "2.050,54"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "25.10.2025",
     "Hour": "22:00",
-    "Total Energy": "36.998,77",
-    "Solar Energy": "0,90",
-    "Wind Energy": "908,29"
+    "Total Energy": "36.792,32",
+    "Solar Energy": "1,07",
+    "Wind Energy": "2.093,17"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "25.10.2025",
     "Hour": "23:00",
-    "Total Energy": "35.090,94",
-    "Solar Energy": "0,81",
-    "Wind Energy": "945,86"
+    "Total Energy": "34.435,19",
+    "Solar Energy": "1,07",
+    "Wind Energy": "1.870,70"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "26.10.2025",
     "Hour": "00:00",
-    "Total Energy": "34.634,03",
-    "Solar Energy": "0,99",
-    "Wind Energy": "850,29"
+    "Total Energy": "33.111,26",
+    "Solar Energy": "1,06",
+    "Wind Energy": "1.831,10"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "26.10.2025",
     "Hour": "01:00",
-    "Total Energy": "33.097,18",
-    "Solar Energy": "0,99",
-    "Wind Energy": "915,69"
+    "Total Energy": "31.480,18",
+    "Solar Energy": "1,07",
+    "Wind Energy": "1.752,39"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "26.10.2025",
     "Hour": "02:00",
-    "Total Energy": "31.866,58",
-    "Solar Energy": "0,99",
-    "Wind Energy": "969,58"
+    "Total Energy": "30.072,20",
+    "Solar Energy": "1,07",
+    "Wind Energy": "1.792,66"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "26.10.2025",
     "Hour": "03:00",
-    "Total Energy": "31.054,56",
-    "Solar Energy": "0,99",
-    "Wind Energy": "952,15"
+    "Total Energy": "29.353,98",
+    "Solar Energy": "1,04",
+    "Wind Energy": "1.788,40"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "26.10.2025",
     "Hour": "04:00",
-    "Total Energy": "30.724,02",
-    "Solar Energy": "0,88",
-    "Wind Energy": "857,97"
+    "Total Energy": "28.857,38",
+    "Solar Energy": "1,05",
+    "Wind Energy": "1.949,31"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "26.10.2025",
     "Hour": "05:00",
-    "Total Energy": "30.757,71",
-    "Solar Energy": "2,60",
-    "Wind Energy": "725,08"
+    "Total Energy": "28.873,54",
+    "Solar Energy": "1,12",
+    "Wind Energy": "2.170,97"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "26.10.2025",
     "Hour": "06:00",
-    "Total Energy": "31.107,11",
-    "Solar Energy": "26,20",
-    "Wind Energy": "619,22"
+    "Total Energy": "28.802,02",
+    "Solar Energy": "9,60",
+    "Wind Energy": "2.424,96"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "26.10.2025",
     "Hour": "07:00",
-    "Total Energy": "29.968,61",
-    "Solar Energy": "512,68",
-    "Wind Energy": "616,61"
+    "Total Energy": "27.095,24",
+    "Solar Energy": "280,15",
+    "Wind Energy": "2.752,57"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "26.10.2025",
     "Hour": "08:00",
-    "Total Energy": "29.918,43",
-    "Solar Energy": "1.866,78",
-    "Wind Energy": "571,91"
+    "Total Energy": "24.725,26",
+    "Solar Energy": "1.315,17",
+    "Wind Energy": "3.017,09"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "26.10.2025",
     "Hour": "09:00",
-    "Total Energy": "28.661,89",
-    "Solar Energy": "2.631,98",
-    "Wind Energy": "555,38"
+    "Total Energy": "22.513,30",
+    "Solar Energy": "2.167,61",
+    "Wind Energy": "3.225,97"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "26.10.2025",
     "Hour": "10:00",
-    "Total Energy": "27.581,91",
-    "Solar Energy": "2.886,60",
-    "Wind Energy": "601,76"
+    "Total Energy": "21.922,49",
+    "Solar Energy": "2.205,28",
+    "Wind Energy": "3.097,59"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "26.10.2025",
     "Hour": "11:00",
-    "Total Energy": "26.933,05",
-    "Solar Energy": "2.929,27",
-    "Wind Energy": "692,30"
+    "Total Energy": "21.467,56",
+    "Solar Energy": "2.063,73",
+    "Wind Energy": "3.244,02"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "26.10.2025",
     "Hour": "12:00",
-    "Total Energy": "25.331,54",
-    "Solar Energy": "2.996,23",
-    "Wind Energy": "775,34"
+    "Total Energy": "21.259,24",
+    "Solar Energy": "1.845,53",
+    "Wind Energy": "3.731,53"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "26.10.2025",
     "Hour": "13:00",
-    "Total Energy": "26.746,33",
-    "Solar Energy": "2.922,51",
-    "Wind Energy": "932,13"
+    "Total Energy": "21.831,43",
+    "Solar Energy": "1.653,88",
+    "Wind Energy": "4.365,47"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "26.10.2025",
     "Hour": "14:00",
-    "Total Energy": "28.581,62",
-    "Solar Energy": "2.744,12",
-    "Wind Energy": "1.091,36"
+    "Total Energy": "23.441,39",
+    "Solar Energy": "1.780,07",
+    "Wind Energy": "5.092,02"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "26.10.2025",
     "Hour": "15:00",
-    "Total Energy": "30.938,07",
-    "Solar Energy": "2.321,04",
-    "Wind Energy": "1.053,58"
+    "Total Energy": "26.119,42",
+    "Solar Energy": "2.012,33",
+    "Wind Energy": "6.182,32"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "26.10.2025",
     "Hour": "16:00",
-    "Total Energy": "34.874,37",
-    "Solar Energy": "1.316,35",
-    "Wind Energy": "1.102,79"
+    "Total Energy": "30.148,76",
+    "Solar Energy": "1.087,79",
+    "Wind Energy": "6.610,40"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "26.10.2025",
     "Hour": "17:00",
-    "Total Energy": "38.585,23",
-    "Solar Energy": "240,74",
-    "Wind Energy": "1.179,97"
+    "Total Energy": "34.638,34",
+    "Solar Energy": "159,93",
+    "Wind Energy": "6.759,58"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "26.10.2025",
     "Hour": "18:00",
-    "Total Energy": "40.990,93",
-    "Solar Energy": "3,25",
-    "Wind Energy": "1.300,81"
+    "Total Energy": "37.636,64",
+    "Solar Energy": "1,90",
+    "Wind Energy": "7.006,91"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "26.10.2025",
     "Hour": "19:00",
-    "Total Energy": "40.182,16",
-    "Solar Energy": "0,89",
-    "Wind Energy": "1.193,78"
+    "Total Energy": "37.633,99",
+    "Solar Energy": "1,19",
+    "Wind Energy": "7.186,59"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "26.10.2025",
     "Hour": "20:00",
-    "Total Energy": "39.597,07",
-    "Solar Energy": "0,90",
-    "Wind Energy": "1.001,12"
+    "Total Energy": "36.962,13",
+    "Solar Energy": "1,20",
+    "Wind Energy": "7.391,99"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "26.10.2025",
     "Hour": "21:00",
-    "Total Energy": "38.447,89",
-    "Solar Energy": "0,89",
-    "Wind Energy": "957,38"
+    "Total Energy": "35.972,61",
+    "Solar Energy": "1,25",
+    "Wind Energy": "7.767,95"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "26.10.2025",
     "Hour": "22:00",
-    "Total Energy": "36.998,77",
-    "Solar Energy": "0,90",
-    "Wind Energy": "908,29"
+    "Total Energy": "34.578,78",
+    "Solar Energy": "1,26",
+    "Wind Energy": "7.968,15"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "26.10.2025",
     "Hour": "23:00",
-    "Total Energy": "35.090,94",
-    "Solar Energy": "0,81",
-    "Wind Energy": "945,86"
+    "Total Energy": "32.873,84",
+    "Solar Energy": "1,26",
+    "Wind Energy": "8.359,69"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "27.10.2025",
     "Hour": "00:00",
-    "Total Energy": "34.634,03",
-    "Solar Energy": "0,99",
-    "Wind Energy": "850,29"
+    "Total Energy": "31.255,96",
+    "Solar Energy": "1,26",
+    "Wind Energy": "8.723,20"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "27.10.2025",
     "Hour": "01:00",
-    "Total Energy": "33.097,18",
-    "Solar Energy": "0,99",
-    "Wind Energy": "915,69"
+    "Total Energy": "29.822,99",
+    "Solar Energy": "1,26",
+    "Wind Energy": "8.614,06"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "27.10.2025",
     "Hour": "02:00",
-    "Total Energy": "31.866,58",
-    "Solar Energy": "0,99",
-    "Wind Energy": "969,58"
+    "Total Energy": "28.670,56",
+    "Solar Energy": "1,26",
+    "Wind Energy": "8.737,49"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "27.10.2025",
     "Hour": "03:00",
-    "Total Energy": "31.054,56",
-    "Solar Energy": "0,99",
-    "Wind Energy": "952,15"
+    "Total Energy": "28.171,27",
+    "Solar Energy": "1,25",
+    "Wind Energy": "8.591,09"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "27.10.2025",
     "Hour": "04:00",
-    "Total Energy": "30.724,02",
-    "Solar Energy": "0,88",
-    "Wind Energy": "857,97"
+    "Total Energy": "27.883,34",
+    "Solar Energy": "1,24",
+    "Wind Energy": "8.625,43"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "27.10.2025",
     "Hour": "05:00",
-    "Total Energy": "30.757,71",
-    "Solar Energy": "2,60",
-    "Wind Energy": "725,08"
+    "Total Energy": "28.240,64",
+    "Solar Energy": "2,39",
+    "Wind Energy": "8.759,83"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "27.10.2025",
     "Hour": "06:00",
-    "Total Energy": "31.107,11",
-    "Solar Energy": "26,20",
-    "Wind Energy": "619,22"
+    "Total Energy": "29.391,37",
+    "Solar Energy": "19,00",
+    "Wind Energy": "8.918,01"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "27.10.2025",
     "Hour": "07:00",
-    "Total Energy": "29.968,61",
-    "Solar Energy": "512,68",
-    "Wind Energy": "616,61"
+    "Total Energy": "30.664,44",
+    "Solar Energy": "342,23",
+    "Wind Energy": "9.003,02"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "27.10.2025",
     "Hour": "08:00",
-    "Total Energy": "29.918,43",
-    "Solar Energy": "1.866,78",
-    "Wind Energy": "571,91"
+    "Total Energy": "32.295,36",
+    "Solar Energy": "1.587,49",
+    "Wind Energy": "8.898,76"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "27.10.2025",
     "Hour": "09:00",
-    "Total Energy": "28.661,89",
-    "Solar Energy": "2.631,98",
-    "Wind Energy": "555,38"
+    "Total Energy": "30.436,23",
+    "Solar Energy": "2.485,24",
+    "Wind Energy": "8.565,89"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "27.10.2025",
     "Hour": "10:00",
-    "Total Energy": "27.581,91",
-    "Solar Energy": "2.886,60",
-    "Wind Energy": "601,76"
+    "Total Energy": "28.276,47",
+    "Solar Energy": "2.741,71",
+    "Wind Energy": "8.638,72"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "27.10.2025",
     "Hour": "11:00",
-    "Total Energy": "26.933,05",
-    "Solar Energy": "2.929,27",
-    "Wind Energy": "692,30"
+    "Total Energy": "28.106,16",
+    "Solar Energy": "2.803,99",
+    "Wind Energy": "8.806,97"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "27.10.2025",
     "Hour": "12:00",
-    "Total Energy": "25.331,54",
-    "Solar Energy": "2.996,23",
-    "Wind Energy": "775,34"
+    "Total Energy": "26.401,42",
+    "Solar Energy": "2.319,55",
+    "Wind Energy": "8.555,28"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "27.10.2025",
     "Hour": "13:00",
-    "Total Energy": "26.746,33",
-    "Solar Energy": "2.922,51",
-    "Wind Energy": "932,13"
+    "Total Energy": "28.181,27",
+    "Solar Energy": "2.442,97",
+    "Wind Energy": "8.860,09"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "27.10.2025",
     "Hour": "14:00",
-    "Total Energy": "28.581,62",
-    "Solar Energy": "2.744,12",
-    "Wind Energy": "1.091,36"
+    "Total Energy": "30.812,79",
+    "Solar Energy": "2.523,00",
+    "Wind Energy": "9.339,50"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "27.10.2025",
     "Hour": "15:00",
-    "Total Energy": "30.938,07",
-    "Solar Energy": "2.321,04",
-    "Wind Energy": "1.053,58"
+    "Total Energy": "33.761,83",
+    "Solar Energy": "2.237,97",
+    "Wind Energy": "9.610,08"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "27.10.2025",
     "Hour": "16:00",
-    "Total Energy": "34.874,37",
-    "Solar Energy": "1.316,35",
-    "Wind Energy": "1.102,79"
+    "Total Energy": "37.764,66",
+    "Solar Energy": "1.149,35",
+    "Wind Energy": "9.389,97"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "27.10.2025",
     "Hour": "17:00",
-    "Total Energy": "38.585,23",
-    "Solar Energy": "240,74",
-    "Wind Energy": "1.179,97"
+    "Total Energy": "41.725,04",
+    "Solar Energy": "135,68",
+    "Wind Energy": "8.329,83"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "27.10.2025",
     "Hour": "18:00",
-    "Total Energy": "40.990,93",
-    "Solar Energy": "3,25",
-    "Wind Energy": "1.300,81"
+    "Total Energy": "42.377,60",
+    "Solar Energy": "1,32",
+    "Wind Energy": "7.139,58"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "27.10.2025",
     "Hour": "19:00",
-    "Total Energy": "40.182,16",
-    "Solar Energy": "0,89",
-    "Wind Energy": "1.193,78"
+    "Total Energy": "41.362,19",
+    "Solar Energy": "1,24",
+    "Wind Energy": "6.770,23"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "27.10.2025",
     "Hour": "20:00",
-    "Total Energy": "39.597,07",
-    "Solar Energy": "0,90",
-    "Wind Energy": "1.001,12"
+    "Total Energy": "40.351,84",
+    "Solar Energy": "1,28",
+    "Wind Energy": "6.379,09"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "27.10.2025",
     "Hour": "21:00",
-    "Total Energy": "38.447,89",
-    "Solar Energy": "0,89",
-    "Wind Energy": "957,38"
+    "Total Energy": "38.940,11",
+    "Solar Energy": "1,29",
+    "Wind Energy": "6.321,23"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "27.10.2025",
     "Hour": "22:00",
-    "Total Energy": "36.998,77",
-    "Solar Energy": "0,90",
-    "Wind Energy": "908,29"
+    "Total Energy": "37.320,21",
+    "Solar Energy": "0,40",
+    "Wind Energy": "5.879,90"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "27.10.2025",
     "Hour": "23:00",
-    "Total Energy": "35.090,94",
-    "Solar Energy": "0,81",
-    "Wind Energy": "945,86"
+    "Total Energy": "35.040,17",
+    "Solar Energy": "1,07",
+    "Wind Energy": "5.624,43"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "28.10.2025",
     "Hour": "00:00",
-    "Total Energy": "34.634,03",
-    "Solar Energy": "0,99",
-    "Wind Energy": "850,29"
+    "Total Energy": "33.566,02",
+    "Solar Energy": "1,28",
+    "Wind Energy": "5.698,18"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "28.10.2025",
     "Hour": "01:00",
-    "Total Energy": "33.097,18",
-    "Solar Energy": "0,99",
-    "Wind Energy": "915,69"
+    "Total Energy": "32.013,97",
+    "Solar Energy": "1,27",
+    "Wind Energy": "5.411,80"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "28.10.2025",
     "Hour": "02:00",
-    "Total Energy": "31.866,58",
-    "Solar Energy": "0,99",
-    "Wind Energy": "969,58"
+    "Total Energy": "30.829,77",
+    "Solar Energy": "1,27",
+    "Wind Energy": "5.031,22"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "28.10.2025",
     "Hour": "03:00",
-    "Total Energy": "31.054,56",
-    "Solar Energy": "0,99",
-    "Wind Energy": "952,15"
+    "Total Energy": "30.101,56",
+    "Solar Energy": "1,28",
+    "Wind Energy": "4.591,01"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "28.10.2025",
     "Hour": "04:00",
-    "Total Energy": "30.724,02",
-    "Solar Energy": "0,88",
-    "Wind Energy": "857,97"
+    "Total Energy": "29.863,89",
+    "Solar Energy": "1,28",
+    "Wind Energy": "4.538,72"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "28.10.2025",
     "Hour": "05:00",
-    "Total Energy": "30.757,71",
-    "Solar Energy": "2,60",
-    "Wind Energy": "725,08"
+    "Total Energy": "30.276,26",
+    "Solar Energy": "2,21",
+    "Wind Energy": "4.502,42"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "28.10.2025",
     "Hour": "06:00",
-    "Total Energy": "31.107,11",
-    "Solar Energy": "26,20",
-    "Wind Energy": "619,22"
+    "Total Energy": "30.911,96",
+    "Solar Energy": "16,26",
+    "Wind Energy": "4.542,43"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "28.10.2025",
     "Hour": "07:00",
-    "Total Energy": "29.968,61",
-    "Solar Energy": "512,68",
-    "Wind Energy": "616,61"
+    "Total Energy": "31.426,63",
+    "Solar Energy": "331,01",
+    "Wind Energy": "4.228,72"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "28.10.2025",
     "Hour": "08:00",
-    "Total Energy": "29.918,43",
-    "Solar Energy": "1.866,78",
-    "Wind Energy": "571,91"
+    "Total Energy": "32.910,46",
+    "Solar Energy": "1.640,51",
+    "Wind Energy": "4.318,93"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "28.10.2025",
     "Hour": "09:00",
-    "Total Energy": "28.661,89",
-    "Solar Energy": "2.631,98",
-    "Wind Energy": "555,38"
+    "Total Energy": "31.266,25",
+    "Solar Energy": "2.181,12",
+    "Wind Energy": "4.136,59"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "28.10.2025",
     "Hour": "10:00",
-    "Total Energy": "27.581,91",
-    "Solar Energy": "2.886,60",
-    "Wind Energy": "601,76"
+    "Total Energy": "29.841,44",
+    "Solar Energy": "2.365,49",
+    "Wind Energy": "4.092,49"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "28.10.2025",
     "Hour": "11:00",
-    "Total Energy": "26.933,05",
-    "Solar Energy": "2.929,27",
-    "Wind Energy": "692,30"
+    "Total Energy": "29.210,21",
+    "Solar Energy": "2.490,91",
+    "Wind Energy": "4.063,39"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "28.10.2025",
     "Hour": "12:00",
-    "Total Energy": "25.331,54",
-    "Solar Energy": "2.996,23",
-    "Wind Energy": "775,34"
+    "Total Energy": "27.204,11",
+    "Solar Energy": "2.207,56",
+    "Wind Energy": "4.163,48"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "28.10.2025",
     "Hour": "13:00",
-    "Total Energy": "26.746,33",
-    "Solar Energy": "2.922,51",
-    "Wind Energy": "932,13"
+    "Total Energy": "28.392,08",
+    "Solar Energy": "2.097,33",
+    "Wind Energy": "4.305,30"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "28.10.2025",
     "Hour": "14:00",
-    "Total Energy": "28.581,62",
-    "Solar Energy": "2.744,12",
-    "Wind Energy": "1.091,36"
+    "Total Energy": "31.056,79",
+    "Solar Energy": "1.941,75",
+    "Wind Energy": "4.503,38"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "28.10.2025",
     "Hour": "15:00",
-    "Total Energy": "30.938,07",
-    "Solar Energy": "2.321,04",
-    "Wind Energy": "1.053,58"
+    "Total Energy": "33.378,17",
+    "Solar Energy": "1.563,34",
+    "Wind Energy": "4.672,29"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "28.10.2025",
     "Hour": "16:00",
-    "Total Energy": "34.874,37",
-    "Solar Energy": "1.316,35",
-    "Wind Energy": "1.102,79"
+    "Total Energy": "36.449,78",
+    "Solar Energy": "529,77",
+    "Wind Energy": "4.964,88"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "28.10.2025",
     "Hour": "17:00",
-    "Total Energy": "38.585,23",
-    "Solar Energy": "240,74",
-    "Wind Energy": "1.179,97"
+    "Total Energy": "39.559,01",
+    "Solar Energy": "74,15",
+    "Wind Energy": "5.263,58"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "28.10.2025",
     "Hour": "18:00",
-    "Total Energy": "40.990,93",
-    "Solar Energy": "3,25",
-    "Wind Energy": "1.300,81"
+    "Total Energy": "40.411,75",
+    "Solar Energy": "1,53",
+    "Wind Energy": "5.383,91"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "28.10.2025",
     "Hour": "19:00",
-    "Total Energy": "40.182,16",
-    "Solar Energy": "0,89",
-    "Wind Energy": "1.193,78"
+    "Total Energy": "39.464,30",
+    "Solar Energy": "1,12",
+    "Wind Energy": "5.812,89"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "28.10.2025",
     "Hour": "20:00",
-    "Total Energy": "39.597,07",
-    "Solar Energy": "0,90",
-    "Wind Energy": "1.001,12"
+    "Total Energy": "38.062,72",
+    "Solar Energy": "1,12",
+    "Wind Energy": "5.672,30"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "28.10.2025",
     "Hour": "21:00",
-    "Total Energy": "38.447,89",
-    "Solar Energy": "0,89",
-    "Wind Energy": "957,38"
+    "Total Energy": "36.838,27",
+    "Solar Energy": "0,92",
+    "Wind Energy": "5.217,26"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "28.10.2025",
     "Hour": "22:00",
-    "Total Energy": "36.998,77",
-    "Solar Energy": "0,90",
-    "Wind Energy": "908,29"
+    "Total Energy": "35.305,75",
+    "Solar Energy": "1,16",
+    "Wind Energy": "4.913,75"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "28.10.2025",
     "Hour": "23:00",
-    "Total Energy": "35.090,94",
-    "Solar Energy": "0,81",
-    "Wind Energy": "945,86"
+    "Total Energy": "32.873,44",
+    "Solar Energy": "1,20",
+    "Wind Energy": "4.668,78"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "29.10.2025",
     "Hour": "00:00",
-    "Total Energy": "34.634,03",
-    "Solar Energy": "0,99",
-    "Wind Energy": "850,29"
+    "Total Energy": "31.293,94",
+    "Solar Energy": "1,19",
+    "Wind Energy": "4.530,72"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "29.10.2025",
     "Hour": "01:00",
-    "Total Energy": "33.097,18",
-    "Solar Energy": "0,99",
-    "Wind Energy": "915,69"
+    "Total Energy": "30.023,48",
+    "Solar Energy": "1,21",
+    "Wind Energy": "4.373,84"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "29.10.2025",
     "Hour": "02:00",
-    "Total Energy": "31.866,58",
-    "Solar Energy": "0,99",
-    "Wind Energy": "969,58"
+    "Total Energy": "28.758,51",
+    "Solar Energy": "1,21",
+    "Wind Energy": "3.777,10"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "29.10.2025",
     "Hour": "03:00",
-    "Total Energy": "31.054,56",
-    "Solar Energy": "0,99",
-    "Wind Energy": "952,15"
+    "Total Energy": "28.116,25",
+    "Solar Energy": "1,21",
+    "Wind Energy": "3.464,40"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "29.10.2025",
     "Hour": "04:00",
-    "Total Energy": "30.724,02",
-    "Solar Energy": "0,88",
-    "Wind Energy": "857,97"
+    "Total Energy": "27.740,37",
+    "Solar Energy": "1,19",
+    "Wind Energy": "3.211,85"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "29.10.2025",
     "Hour": "05:00",
-    "Total Energy": "30.757,71",
-    "Solar Energy": "2,60",
-    "Wind Energy": "725,08"
+    "Total Energy": "28.058,52",
+    "Solar Energy": "1,36",
+    "Wind Energy": "3.282,07"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "29.10.2025",
     "Hour": "06:00",
-    "Total Energy": "31.107,11",
-    "Solar Energy": "26,20",
-    "Wind Energy": "619,22"
+    "Total Energy": "27.221,92",
+    "Solar Energy": "10,42",
+    "Wind Energy": "3.164,62"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "29.10.2025",
     "Hour": "07:00",
-    "Total Energy": "29.968,61",
-    "Solar Energy": "512,68",
-    "Wind Energy": "616,61"
+    "Total Energy": "28.098,13",
+    "Solar Energy": "213,09",
+    "Wind Energy": "3.322,79"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "29.10.2025",
     "Hour": "08:00",
-    "Total Energy": "29.918,43",
-    "Solar Energy": "1.866,78",
-    "Wind Energy": "571,91"
+    "Total Energy": "28.126,36",
+    "Solar Energy": "923,27",
+    "Wind Energy": "3.435,81"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "29.10.2025",
     "Hour": "09:00",
-    "Total Energy": "28.661,89",
-    "Solar Energy": "2.631,98",
-    "Wind Energy": "555,38"
+    "Total Energy": "26.475,43",
+    "Solar Energy": "1.847,55",
+    "Wind Energy": "3.066,47"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "29.10.2025",
     "Hour": "10:00",
-    "Total Energy": "27.581,91",
-    "Solar Energy": "2.886,60",
-    "Wind Energy": "601,76"
+    "Total Energy": "25.020,43",
+    "Solar Energy": "2.361,81",
+    "Wind Energy": "2.689,54"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "29.10.2025",
     "Hour": "11:00",
-    "Total Energy": "26.933,05",
-    "Solar Energy": "2.929,27",
-    "Wind Energy": "692,30"
+    "Total Energy": "23.668,73",
+    "Solar Energy": "2.690,38",
+    "Wind Energy": "2.571,82"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "29.10.2025",
     "Hour": "12:00",
-    "Total Energy": "25.331,54",
-    "Solar Energy": "2.996,23",
-    "Wind Energy": "775,34"
+    "Total Energy": "22.523,30",
+    "Solar Energy": "2.724,08",
+    "Wind Energy": "2.526,85"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "29.10.2025",
     "Hour": "13:00",
-    "Total Energy": "26.746,33",
-    "Solar Energy": "2.922,51",
-    "Wind Energy": "932,13"
+    "Total Energy": "23.066,24",
+    "Solar Energy": "2.799,62",
+    "Wind Energy": "2.593,15"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "29.10.2025",
     "Hour": "14:00",
-    "Total Energy": "28.581,62",
-    "Solar Energy": "2.744,12",
-    "Wind Energy": "1.091,36"
+    "Total Energy": "25.304,65",
+    "Solar Energy": "2.687,11",
+    "Wind Energy": "2.697,88"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "29.10.2025",
     "Hour": "15:00",
-    "Total Energy": "30.938,07",
-    "Solar Energy": "2.321,04",
-    "Wind Energy": "1.053,58"
+    "Total Energy": "26.828,83",
+    "Solar Energy": "2.319,73",
+    "Wind Energy": "2.757,85"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "29.10.2025",
     "Hour": "16:00",
-    "Total Energy": "34.874,37",
-    "Solar Energy": "1.316,35",
-    "Wind Energy": "1.102,79"
+    "Total Energy": "31.015,01",
+    "Solar Energy": "1.232,73",
+    "Wind Energy": "2.926,36"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "29.10.2025",
     "Hour": "17:00",
-    "Total Energy": "38.585,23",
-    "Solar Energy": "240,74",
-    "Wind Energy": "1.179,97"
+    "Total Energy": "35.915,02",
+    "Solar Energy": "175,62",
+    "Wind Energy": "3.057,23"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "29.10.2025",
     "Hour": "18:00",
-    "Total Energy": "40.990,93",
-    "Solar Energy": "3,25",
-    "Wind Energy": "1.300,81"
+    "Total Energy": "38.097,30",
+    "Solar Energy": "1,83",
+    "Wind Energy": "3.171,05"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "29.10.2025",
     "Hour": "19:00",
-    "Total Energy": "40.182,16",
-    "Solar Energy": "0,89",
-    "Wind Energy": "1.193,78"
+    "Total Energy": "37.445,06",
+    "Solar Energy": "1,21",
+    "Wind Energy": "3.064,42"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "29.10.2025",
     "Hour": "20:00",
-    "Total Energy": "39.597,07",
-    "Solar Energy": "0,90",
-    "Wind Energy": "1.001,12"
+    "Total Energy": "36.589,38",
+    "Solar Energy": "1,17",
+    "Wind Energy": "3.057,54"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "29.10.2025",
     "Hour": "21:00",
-    "Total Energy": "38.447,89",
-    "Solar Energy": "0,89",
-    "Wind Energy": "957,38"
+    "Total Energy": "36.919,06",
+    "Solar Energy": "1,16",
+    "Wind Energy": "2.838,36"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "29.10.2025",
     "Hour": "22:00",
-    "Total Energy": "36.998,77",
-    "Solar Energy": "0,90",
-    "Wind Energy": "908,29"
+    "Total Energy": "35.447,92",
+    "Solar Energy": "1,15",
+    "Wind Energy": "2.304,30"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "29.10.2025",
     "Hour": "23:00",
-    "Total Energy": "35.090,94",
-    "Solar Energy": "0,81",
-    "Wind Energy": "945,86"
+    "Total Energy": "33.415,60",
+    "Solar Energy": "1,16",
+    "Wind Energy": "1.923,63"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "30.10.2025",
     "Hour": "00:00",
-    "Total Energy": "34.634,03",
-    "Solar Energy": "0,99",
-    "Wind Energy": "850,29"
+    "Total Energy": "32.369,84",
+    "Solar Energy": "1,16",
+    "Wind Energy": "1.909,15"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "30.10.2025",
     "Hour": "01:00",
-    "Total Energy": "33.097,18",
-    "Solar Energy": "0,99",
-    "Wind Energy": "915,69"
+    "Total Energy": "31.059,79",
+    "Solar Energy": "1,15",
+    "Wind Energy": "1.817,89"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "30.10.2025",
     "Hour": "02:00",
-    "Total Energy": "31.866,58",
-    "Solar Energy": "0,99",
-    "Wind Energy": "969,58"
+    "Total Energy": "30.188,43",
+    "Solar Energy": "1,11",
+    "Wind Energy": "1.795,62"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "30.10.2025",
     "Hour": "03:00",
-    "Total Energy": "31.054,56",
-    "Solar Energy": "0,99",
-    "Wind Energy": "952,15"
+    "Total Energy": "29.576,00",
+    "Solar Energy": "1,11",
+    "Wind Energy": "1.723,74"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "30.10.2025",
     "Hour": "04:00",
-    "Total Energy": "30.724,02",
-    "Solar Energy": "0,88",
-    "Wind Energy": "857,97"
+    "Total Energy": "29.450,62",
+    "Solar Energy": "1,04",
+    "Wind Energy": "1.698,19"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "30.10.2025",
     "Hour": "05:00",
-    "Total Energy": "30.757,71",
-    "Solar Energy": "2,60",
-    "Wind Energy": "725,08"
+    "Total Energy": "29.854,88",
+    "Solar Energy": "2,00",
+    "Wind Energy": "1.695,96"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "30.10.2025",
     "Hour": "06:00",
-    "Total Energy": "31.107,11",
-    "Solar Energy": "26,20",
-    "Wind Energy": "619,22"
+    "Total Energy": "30.926,44",
+    "Solar Energy": "16,58",
+    "Wind Energy": "1.679,12"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "30.10.2025",
     "Hour": "07:00",
-    "Total Energy": "29.968,61",
-    "Solar Energy": "512,68",
-    "Wind Energy": "616,61"
+    "Total Energy": "31.717,92",
+    "Solar Energy": "371,56",
+    "Wind Energy": "1.837,37"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "30.10.2025",
     "Hour": "08:00",
-    "Total Energy": "29.918,43",
-    "Solar Energy": "1.866,78",
-    "Wind Energy": "571,91"
+    "Total Energy": "33.839,61",
+    "Solar Energy": "1.606,82",
+    "Wind Energy": "1.947,51"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "30.10.2025",
     "Hour": "09:00",
-    "Total Energy": "28.661,89",
-    "Solar Energy": "2.631,98",
-    "Wind Energy": "555,38"
+    "Total Energy": "31.035,75",
+    "Solar Energy": "2.723,86",
+    "Wind Energy": "1.822,21"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "30.10.2025",
     "Hour": "10:00",
-    "Total Energy": "27.581,91",
-    "Solar Energy": "2.886,60",
-    "Wind Energy": "601,76"
+    "Total Energy": "29.088,51",
+    "Solar Energy": "3.035,30",
+    "Wind Energy": "1.447,59"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "30.10.2025",
     "Hour": "11:00",
-    "Total Energy": "26.933,05",
-    "Solar Energy": "2.929,27",
-    "Wind Energy": "692,30"
+    "Total Energy": "27.914,34",
+    "Solar Energy": "3.125,61",
+    "Wind Energy": "1.202,34"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "30.10.2025",
     "Hour": "12:00",
-    "Total Energy": "25.331,54",
-    "Solar Energy": "2.996,23",
-    "Wind Energy": "775,34"
+    "Total Energy": "25.442,87",
+    "Solar Energy": "3.144,38",
+    "Wind Energy": "1.081,86"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "30.10.2025",
     "Hour": "13:00",
-    "Total Energy": "26.746,33",
-    "Solar Energy": "2.922,51",
-    "Wind Energy": "932,13"
+    "Total Energy": "26.476,29",
+    "Solar Energy": "3.135,91",
+    "Wind Energy": "1.047,13"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "30.10.2025",
     "Hour": "14:00",
-    "Total Energy": "28.581,62",
-    "Solar Energy": "2.744,12",
-    "Wind Energy": "1.091,36"
+    "Total Energy": "28.981,60",
+    "Solar Energy": "3.045,62",
+    "Wind Energy": "992,04"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "30.10.2025",
     "Hour": "15:00",
-    "Total Energy": "30.938,07",
-    "Solar Energy": "2.321,04",
-    "Wind Energy": "1.053,58"
+    "Total Energy": "31.625,35",
+    "Solar Energy": "2.645,23",
+    "Wind Energy": "922,25"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "30.10.2025",
     "Hour": "16:00",
-    "Total Energy": "34.874,37",
-    "Solar Energy": "1.316,35",
-    "Wind Energy": "1.102,79"
+    "Total Energy": "37.242,15",
+    "Solar Energy": "1.282,24",
+    "Wind Energy": "823,88"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "30.10.2025",
     "Hour": "17:00",
-    "Total Energy": "38.585,23",
-    "Solar Energy": "240,74",
-    "Wind Energy": "1.179,97"
+    "Total Energy": "42.376,03",
+    "Solar Energy": "152,29",
+    "Wind Energy": "870,12"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "30.10.2025",
     "Hour": "18:00",
-    "Total Energy": "40.990,93",
-    "Solar Energy": "3,25",
-    "Wind Energy": "1.300,81"
+    "Total Energy": "43.506,04",
+    "Solar Energy": "1,14",
+    "Wind Energy": "977,16"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "30.10.2025",
     "Hour": "19:00",
-    "Total Energy": "40.182,16",
-    "Solar Energy": "0,89",
-    "Wind Energy": "1.193,78"
+    "Total Energy": "42.661,42",
+    "Solar Energy": "0,91",
+    "Wind Energy": "1.059,28"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "30.10.2025",
     "Hour": "20:00",
-    "Total Energy": "39.597,07",
-    "Solar Energy": "0,90",
-    "Wind Energy": "1.001,12"
+    "Total Energy": "41.440,12",
+    "Solar Energy": "0,92",
+    "Wind Energy": "1.223,81"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "30.10.2025",
     "Hour": "21:00",
-    "Total Energy": "38.447,89",
-    "Solar Energy": "0,89",
-    "Wind Energy": "957,38"
+    "Total Energy": "40.293,25",
+    "Solar Energy": "1,14",
+    "Wind Energy": "1.398,50"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "30.10.2025",
     "Hour": "22:00",
-    "Total Energy": "36.998,77",
-    "Solar Energy": "0,90",
-    "Wind Energy": "908,29"
+    "Total Energy": "38.678,88",
+    "Solar Energy": "1,16",
+    "Wind Energy": "1.536,86"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "30.10.2025",
     "Hour": "23:00",
-    "Total Energy": "35.090,94",
-    "Solar Energy": "0,81",
-    "Wind Energy": "945,86"
+    "Total Energy": "36.604,40",
+    "Solar Energy": "1,09",
+    "Wind Energy": "1.709,59"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "31.10.2025",
     "Hour": "00:00",
-    "Total Energy": "34.634,03",
-    "Solar Energy": "0,99",
-    "Wind Energy": "850,29"
+    "Total Energy": "34.443,76",
+    "Solar Energy": "1,05",
+    "Wind Energy": "2.097,66"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "31.10.2025",
     "Hour": "01:00",
-    "Total Energy": "33.097,18",
-    "Solar Energy": "0,99",
-    "Wind Energy": "915,69"
+    "Total Energy": "32.153,90",
+    "Solar Energy": "1,07",
+    "Wind Energy": "2.427,78"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "31.10.2025",
     "Hour": "02:00",
-    "Total Energy": "31.866,58",
-    "Solar Energy": "0,99",
-    "Wind Energy": "969,58"
+    "Total Energy": "31.742,42",
+    "Solar Energy": "1,06",
+    "Wind Energy": "2.529,20"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "31.10.2025",
     "Hour": "03:00",
-    "Total Energy": "31.054,56",
-    "Solar Energy": "0,99",
-    "Wind Energy": "952,15"
+    "Total Energy": "31.081,35",
+    "Solar Energy": "1,07",
+    "Wind Energy": "2.489,31"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "31.10.2025",
     "Hour": "04:00",
-    "Total Energy": "30.724,02",
-    "Solar Energy": "0,88",
-    "Wind Energy": "857,97"
+    "Total Energy": "30.938,05",
+    "Solar Energy": "1,06",
+    "Wind Energy": "2.334,67"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "31.10.2025",
     "Hour": "05:00",
-    "Total Energy": "30.757,71",
-    "Solar Energy": "2,60",
-    "Wind Energy": "725,08"
+    "Total Energy": "31.176,70",
+    "Solar Energy": "1,96",
+    "Wind Energy": "2.018,77"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "31.10.2025",
     "Hour": "06:00",
-    "Total Energy": "31.107,11",
-    "Solar Energy": "26,20",
-    "Wind Energy": "619,22"
+    "Total Energy": "32.438,59",
+    "Solar Energy": "18,30",
+    "Wind Energy": "1.867,68"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "31.10.2025",
     "Hour": "07:00",
-    "Total Energy": "29.968,61",
-    "Solar Energy": "512,68",
-    "Wind Energy": "616,61"
+    "Total Energy": "33.369,20",
+    "Solar Energy": "373,36",
+    "Wind Energy": "1.692,72"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "31.10.2025",
     "Hour": "08:00",
-    "Total Energy": "29.918,43",
-    "Solar Energy": "1.866,78",
-    "Wind Energy": "571,91"
+    "Total Energy": "34.592,05",
+    "Solar Energy": "1.762,35",
+    "Wind Energy": "1.421,06"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "31.10.2025",
     "Hour": "09:00",
-    "Total Energy": "28.661,89",
-    "Solar Energy": "2.631,98",
-    "Wind Energy": "555,38"
+    "Total Energy": "32.177,97",
+    "Solar Energy": "2.775,03",
+    "Wind Energy": "1.069,66"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "31.10.2025",
     "Hour": "10:00",
-    "Total Energy": "27.581,91",
-    "Solar Energy": "2.886,60",
-    "Wind Energy": "601,76"
+    "Total Energy": "29.425,21",
+    "Solar Energy": "2.996,65",
+    "Wind Energy": "822,53"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "31.10.2025",
     "Hour": "11:00",
-    "Total Energy": "26.933,05",
-    "Solar Energy": "2.929,27",
-    "Wind Energy": "692,30"
+    "Total Energy": "28.029,69",
+    "Solar Energy": "3.057,15",
+    "Wind Energy": "714,74"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "31.10.2025",
     "Hour": "12:00",
-    "Total Energy": "25.331,54",
-    "Solar Energy": "2.996,23",
-    "Wind Energy": "775,34"
+    "Total Energy": "25.491,02",
+    "Solar Energy": "3.052,78",
+    "Wind Energy": "623,37"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "31.10.2025",
     "Hour": "13:00",
-    "Total Energy": "26.746,33",
-    "Solar Energy": "2.922,51",
-    "Wind Energy": "932,13"
+    "Total Energy": "26.314,96",
+    "Solar Energy": "3.036,27",
+    "Wind Energy": "645,01"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "31.10.2025",
     "Hour": "14:00",
-    "Total Energy": "28.581,62",
-    "Solar Energy": "2.744,12",
-    "Wind Energy": "1.091,36"
+    "Total Energy": "30.075,51",
+    "Solar Energy": "2.888,81",
+    "Wind Energy": "569,29"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "31.10.2025",
     "Hour": "15:00",
-    "Total Energy": "30.938,07",
-    "Solar Energy": "2.321,04",
-    "Wind Energy": "1.053,58"
+    "Total Energy": "33.277,91",
+    "Solar Energy": "2.496,57",
+    "Wind Energy": "528,86"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "31.10.2025",
     "Hour": "16:00",
-    "Total Energy": "34.874,37",
-    "Solar Energy": "1.316,35",
-    "Wind Energy": "1.102,79"
+    "Total Energy": "38.461,74",
+    "Solar Energy": "1.016,54",
+    "Wind Energy": "415,95"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "31.10.2025",
     "Hour": "17:00",
-    "Total Energy": "38.585,23",
-    "Solar Energy": "240,74",
-    "Wind Energy": "1.179,97"
+    "Total Energy": "42.734,61",
+    "Solar Energy": "105,65",
+    "Wind Energy": "467,01"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "31.10.2025",
     "Hour": "18:00",
-    "Total Energy": "40.990,93",
-    "Solar Energy": "3,25",
-    "Wind Energy": "1.300,81"
+    "Total Energy": "43.613,04",
+    "Solar Energy": "1,77",
+    "Wind Energy": "505,86"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "31.10.2025",
     "Hour": "19:00",
-    "Total Energy": "40.182,16",
-    "Solar Energy": "0,89",
-    "Wind Energy": "1.193,78"
+    "Total Energy": "42.638,28",
+    "Solar Energy": "1,04",
+    "Wind Energy": "427,29"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "31.10.2025",
     "Hour": "20:00",
-    "Total Energy": "39.597,07",
-    "Solar Energy": "0,90",
-    "Wind Energy": "1.001,12"
+    "Total Energy": "41.445,18",
+    "Solar Energy": "1,04",
+    "Wind Energy": "392,26"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "31.10.2025",
     "Hour": "21:00",
-    "Total Energy": "38.447,89",
-    "Solar Energy": "0,89",
-    "Wind Energy": "957,38"
+    "Total Energy": "39.814,24",
+    "Solar Energy": "1,04",
+    "Wind Energy": "326,76"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "31.10.2025",
     "Hour": "22:00",
-    "Total Energy": "36.998,77",
-    "Solar Energy": "0,90",
-    "Wind Energy": "908,29"
+    "Total Energy": "38.391,68",
+    "Solar Energy": "1,12",
+    "Wind Energy": "288,26"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "31.10.2025",
     "Hour": "23:00",
-    "Total Energy": "35.090,94",
-    "Solar Energy": "0,81",
-    "Wind Energy": "945,86"
+    "Total Energy": "36.539,57",
+    "Solar Energy": "1,11",
+    "Wind Energy": "273,64"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "01.11.2025",
     "Hour": "00:00",
-    "Total Energy": "34.634,03",
-    "Solar Energy": "0,99",
-    "Wind Energy": "850,29"
+    "Total Energy": "34.560,45",
+    "Solar Energy": "1,12",
+    "Wind Energy": "290,46"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "01.11.2025",
     "Hour": "01:00",
-    "Total Energy": "33.097,18",
-    "Solar Energy": "0,99",
-    "Wind Energy": "915,69"
+    "Total Energy": "32.822,70",
+    "Solar Energy": "1,13",
+    "Wind Energy": "301,43"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "01.11.2025",
     "Hour": "02:00",
-    "Total Energy": "31.866,58",
-    "Solar Energy": "0,99",
-    "Wind Energy": "969,58"
+    "Total Energy": "31.646,58",
+    "Solar Energy": "1,12",
+    "Wind Energy": "365,98"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "01.11.2025",
     "Hour": "03:00",
-    "Total Energy": "31.054,56",
-    "Solar Energy": "0,99",
-    "Wind Energy": "952,15"
+    "Total Energy": "30.671,22",
+    "Solar Energy": "1,12",
+    "Wind Energy": "402,34"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "01.11.2025",
     "Hour": "04:00",
-    "Total Energy": "30.724,02",
-    "Solar Energy": "0,88",
-    "Wind Energy": "857,97"
+    "Total Energy": "30.311,15",
+    "Solar Energy": "1,12",
+    "Wind Energy": "449,92"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "01.11.2025",
     "Hour": "05:00",
-    "Total Energy": "30.757,71",
-    "Solar Energy": "2,60",
-    "Wind Energy": "725,08"
+    "Total Energy": "30.574,47",
+    "Solar Energy": "1,34",
+    "Wind Energy": "542,44"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "01.11.2025",
     "Hour": "06:00",
-    "Total Energy": "31.107,11",
-    "Solar Energy": "26,20",
-    "Wind Energy": "619,22"
+    "Total Energy": "30.980,14",
+    "Solar Energy": "14,49",
+    "Wind Energy": "624,93"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "01.11.2025",
     "Hour": "07:00",
-    "Total Energy": "29.968,61",
-    "Solar Energy": "512,68",
-    "Wind Energy": "616,61"
+    "Total Energy": "30.621,98",
+    "Solar Energy": "312,02",
+    "Wind Energy": "630,79"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "01.11.2025",
     "Hour": "08:00",
-    "Total Energy": "29.918,43",
-    "Solar Energy": "1.866,78",
-    "Wind Energy": "571,91"
+    "Total Energy": "30.590,28",
+    "Solar Energy": "1.170,97",
+    "Wind Energy": "617,26"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "01.11.2025",
     "Hour": "09:00",
-    "Total Energy": "28.661,89",
-    "Solar Energy": "2.631,98",
-    "Wind Energy": "555,38"
+    "Total Energy": "29.059,25",
+    "Solar Energy": "1.995,34",
+    "Wind Energy": "574,69"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "01.11.2025",
     "Hour": "10:00",
-    "Total Energy": "27.581,91",
-    "Solar Energy": "2.886,60",
-    "Wind Energy": "601,76"
+    "Total Energy": "27.317,44",
+    "Solar Energy": "2.272,70",
+    "Wind Energy": "468,91"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "01.11.2025",
     "Hour": "11:00",
-    "Total Energy": "26.933,05",
-    "Solar Energy": "2.929,27",
-    "Wind Energy": "692,30"
+    "Total Energy": "26.346,36",
+    "Solar Energy": "2.686,17",
+    "Wind Energy": "386,79"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "01.11.2025",
     "Hour": "12:00",
-    "Total Energy": "25.331,54",
-    "Solar Energy": "2.996,23",
-    "Wind Energy": "775,34"
+    "Total Energy": "24.919,25",
+    "Solar Energy": "2.846,93",
+    "Wind Energy": "414,02"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "01.11.2025",
     "Hour": "13:00",
-    "Total Energy": "26.746,33",
-    "Solar Energy": "2.922,51",
-    "Wind Energy": "932,13"
+    "Total Energy": "25.698,83",
+    "Solar Energy": "2.834,31",
+    "Wind Energy": "477,01"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "01.11.2025",
     "Hour": "14:00",
-    "Total Energy": "28.581,62",
-    "Solar Energy": "2.744,12",
-    "Wind Energy": "1.091,36"
+    "Total Energy": "27.966,99",
+    "Solar Energy": "2.641,40",
+    "Wind Energy": "651,47"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "01.11.2025",
     "Hour": "15:00",
-    "Total Energy": "30.938,07",
-    "Solar Energy": "2.321,04",
-    "Wind Energy": "1.053,58"
+    "Total Energy": "30.863,51",
+    "Solar Energy": "2.162,29",
+    "Wind Energy": "757,13"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "01.11.2025",
     "Hour": "16:00",
-    "Total Energy": "34.874,37",
-    "Solar Energy": "1.316,35",
-    "Wind Energy": "1.102,79"
+    "Total Energy": "34.853,11",
+    "Solar Energy": "999,12",
+    "Wind Energy": "952,20"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "01.11.2025",
     "Hour": "17:00",
-    "Total Energy": "38.585,23",
-    "Solar Energy": "240,74",
-    "Wind Energy": "1.179,97"
+    "Total Energy": "38.990,53",
+    "Solar Energy": "104,58",
+    "Wind Energy": "1.294,83"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "01.11.2025",
     "Hour": "18:00",
-    "Total Energy": "40.990,93",
-    "Solar Energy": "3,25",
-    "Wind Energy": "1.300,81"
+    "Total Energy": "41.344,83",
+    "Solar Energy": "2,88",
+    "Wind Energy": "1.729,90"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "01.11.2025",
     "Hour": "19:00",
-    "Total Energy": "40.182,16",
-    "Solar Energy": "0,89",
-    "Wind Energy": "1.193,78"
+    "Total Energy": "40.545,85",
+    "Solar Energy": "1,25",
+    "Wind Energy": "1.757,44"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "01.11.2025",
     "Hour": "20:00",
-    "Total Energy": "39.597,07",
-    "Solar Energy": "0,90",
-    "Wind Energy": "1.001,12"
+    "Total Energy": "39.480,95",
+    "Solar Energy": "1,25",
+    "Wind Energy": "1.801,67"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "01.11.2025",
     "Hour": "21:00",
-    "Total Energy": "38.447,89",
-    "Solar Energy": "0,89",
-    "Wind Energy": "957,38"
+    "Total Energy": "38.142,71",
+    "Solar Energy": "1,23",
+    "Wind Energy": "1.736,98"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "01.11.2025",
     "Hour": "22:00",
-    "Total Energy": "36.998,77",
-    "Solar Energy": "0,90",
-    "Wind Energy": "908,29"
+    "Total Energy": "36.605,62",
+    "Solar Energy": "1,23",
+    "Wind Energy": "1.694,83"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "01.11.2025",
     "Hour": "23:00",
-    "Total Energy": "35.090,94",
-    "Solar Energy": "0,81",
-    "Wind Energy": "945,86"
+    "Total Energy": "34.813,25",
+    "Solar Energy": "1,27",
+    "Wind Energy": "1.672,51"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "02.11.2025",
     "Hour": "00:00",
-    "Total Energy": "34.634,03",
-    "Solar Energy": "0,99",
-    "Wind Energy": "850,29"
+    "Total Energy": "32.702,58",
+    "Solar Energy": "1,26",
+    "Wind Energy": "1.963,23"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "02.11.2025",
     "Hour": "01:00",
-    "Total Energy": "33.097,18",
-    "Solar Energy": "0,99",
-    "Wind Energy": "915,69"
+    "Total Energy": "31.260,60",
+    "Solar Energy": "1,19",
+    "Wind Energy": "2.005,64"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "02.11.2025",
     "Hour": "02:00",
-    "Total Energy": "31.866,58",
-    "Solar Energy": "0,99",
-    "Wind Energy": "969,58"
+    "Total Energy": "29.927,78",
+    "Solar Energy": "1,19",
+    "Wind Energy": "1.917,48"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "02.11.2025",
     "Hour": "03:00",
-    "Total Energy": "31.054,56",
-    "Solar Energy": "0,99",
-    "Wind Energy": "952,15"
+    "Total Energy": "29.128,15",
+    "Solar Energy": "1,13",
+    "Wind Energy": "1.922,57"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "02.11.2025",
     "Hour": "04:00",
-    "Total Energy": "30.724,02",
-    "Solar Energy": "0,88",
-    "Wind Energy": "857,97"
+    "Total Energy": "28.781,55",
+    "Solar Energy": "1,07",
+    "Wind Energy": "1.956,08"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "02.11.2025",
     "Hour": "05:00",
-    "Total Energy": "30.757,71",
-    "Solar Energy": "2,60",
-    "Wind Energy": "725,08"
+    "Total Energy": "28.794,16",
+    "Solar Energy": "1,70",
+    "Wind Energy": "1.957,84"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "02.11.2025",
     "Hour": "06:00",
-    "Total Energy": "31.107,11",
-    "Solar Energy": "26,20",
-    "Wind Energy": "619,22"
+    "Total Energy": "28.952,70",
+    "Solar Energy": "17,87",
+    "Wind Energy": "1.964,88"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "02.11.2025",
     "Hour": "07:00",
-    "Total Energy": "29.968,61",
-    "Solar Energy": "512,68",
-    "Wind Energy": "616,61"
+    "Total Energy": "27.246,56",
+    "Solar Energy": "315,57",
+    "Wind Energy": "1.977,52"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "02.11.2025",
     "Hour": "08:00",
-    "Total Energy": "29.918,43",
-    "Solar Energy": "1.866,78",
-    "Wind Energy": "571,91"
+    "Total Energy": "24.635,11",
+    "Solar Energy": "1.531,62",
+    "Wind Energy": "1.885,08"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "02.11.2025",
     "Hour": "09:00",
-    "Total Energy": "28.661,89",
-    "Solar Energy": "2.631,98",
-    "Wind Energy": "555,38"
+    "Total Energy": "22.070,22",
+    "Solar Energy": "2.381,25",
+    "Wind Energy": "1.709,96"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "02.11.2025",
     "Hour": "10:00",
-    "Total Energy": "27.581,91",
-    "Solar Energy": "2.886,60",
-    "Wind Energy": "601,76"
+    "Total Energy": "20.890,53",
+    "Solar Energy": "2.581,43",
+    "Wind Energy": "1.425,29"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "02.11.2025",
     "Hour": "11:00",
-    "Total Energy": "26.933,05",
-    "Solar Energy": "2.929,27",
-    "Wind Energy": "692,30"
+    "Total Energy": "20.387,45",
+    "Solar Energy": "2.494,39",
+    "Wind Energy": "1.345,16"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "02.11.2025",
     "Hour": "12:00",
-    "Total Energy": "25.331,54",
-    "Solar Energy": "2.996,23",
-    "Wind Energy": "775,34"
+    "Total Energy": "19.712,06",
+    "Solar Energy": "2.443,23",
+    "Wind Energy": "1.348,75"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "02.11.2025",
     "Hour": "13:00",
-    "Total Energy": "26.746,33",
-    "Solar Energy": "2.922,51",
-    "Wind Energy": "932,13"
+    "Total Energy": "21.114,48",
+    "Solar Energy": "2.499,85",
+    "Wind Energy": "1.198,32"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "02.11.2025",
     "Hour": "14:00",
-    "Total Energy": "28.581,62",
-    "Solar Energy": "2.744,12",
-    "Wind Energy": "1.091,36"
+    "Total Energy": "23.011,42",
+    "Solar Energy": "2.461,45",
+    "Wind Energy": "1.125,32"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "02.11.2025",
     "Hour": "15:00",
-    "Total Energy": "30.938,07",
-    "Solar Energy": "2.321,04",
-    "Wind Energy": "1.053,58"
+    "Total Energy": "26.577,72",
+    "Solar Energy": "1.869,77",
+    "Wind Energy": "1.198,39"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "02.11.2025",
     "Hour": "16:00",
-    "Total Energy": "34.874,37",
-    "Solar Energy": "1.316,35",
-    "Wind Energy": "1.102,79"
+    "Total Energy": "30.818,98",
+    "Solar Energy": "918,74",
+    "Wind Energy": "1.278,68"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "02.11.2025",
     "Hour": "17:00",
-    "Total Energy": "38.585,23",
-    "Solar Energy": "240,74",
-    "Wind Energy": "1.179,97"
+    "Total Energy": "35.277,38",
+    "Solar Energy": "98,97",
+    "Wind Energy": "1.454,09"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "02.11.2025",
     "Hour": "18:00",
-    "Total Energy": "40.990,93",
-    "Solar Energy": "3,25",
-    "Wind Energy": "1.300,81"
+    "Total Energy": "37.963,41",
+    "Solar Energy": "1,36",
+    "Wind Energy": "1.638,09"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "02.11.2025",
     "Hour": "19:00",
-    "Total Energy": "40.182,16",
-    "Solar Energy": "0,89",
-    "Wind Energy": "1.193,78"
+    "Total Energy": "37.785,31",
+    "Solar Energy": "1,03",
+    "Wind Energy": "1.628,06"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "02.11.2025",
     "Hour": "20:00",
-    "Total Energy": "39.597,07",
-    "Solar Energy": "0,90",
-    "Wind Energy": "1.001,12"
+    "Total Energy": "36.773,51",
+    "Solar Energy": "1,07",
+    "Wind Energy": "1.628,04"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "02.11.2025",
     "Hour": "21:00",
-    "Total Energy": "38.447,89",
-    "Solar Energy": "0,89",
-    "Wind Energy": "957,38"
+    "Total Energy": "36.058,74",
+    "Solar Energy": "1,07",
+    "Wind Energy": "1.545,69"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "02.11.2025",
     "Hour": "22:00",
-    "Total Energy": "36.998,77",
-    "Solar Energy": "0,90",
-    "Wind Energy": "908,29"
+    "Total Energy": "34.833,52",
+    "Solar Energy": "1,07",
+    "Wind Energy": "1.458,18"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "02.11.2025",
     "Hour": "23:00",
-    "Total Energy": "35.090,94",
-    "Solar Energy": "0,81",
-    "Wind Energy": "945,86"
+    "Total Energy": "33.234,49",
+    "Solar Energy": "1,08",
+    "Wind Energy": "1.357,18"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "03.11.2025",
     "Hour": "00:00",
-    "Total Energy": "34.634,03",
-    "Solar Energy": "0,99",
-    "Wind Energy": "850,29"
+    "Total Energy": "31.694,74",
+    "Solar Energy": "1,07",
+    "Wind Energy": "1.411,89"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "03.11.2025",
     "Hour": "01:00",
-    "Total Energy": "33.097,18",
-    "Solar Energy": "0,99",
-    "Wind Energy": "915,69"
+    "Total Energy": "30.046,22",
+    "Solar Energy": "1,07",
+    "Wind Energy": "1.375,82"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "03.11.2025",
     "Hour": "02:00",
-    "Total Energy": "31.866,58",
-    "Solar Energy": "0,99",
-    "Wind Energy": "969,58"
+    "Total Energy": "29.111,03",
+    "Solar Energy": "1,07",
+    "Wind Energy": "1.217,30"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "03.11.2025",
     "Hour": "03:00",
-    "Total Energy": "31.054,56",
-    "Solar Energy": "0,99",
-    "Wind Energy": "952,15"
+    "Total Energy": "28.599,78",
+    "Solar Energy": "1,07",
+    "Wind Energy": "1.156,73"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "03.11.2025",
     "Hour": "04:00",
-    "Total Energy": "30.724,02",
-    "Solar Energy": "0,88",
-    "Wind Energy": "857,97"
+    "Total Energy": "28.408,81",
+    "Solar Energy": "1,07",
+    "Wind Energy": "1.105,82"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "03.11.2025",
     "Hour": "05:00",
-    "Total Energy": "30.757,71",
-    "Solar Energy": "2,60",
-    "Wind Energy": "725,08"
+    "Total Energy": "28.841,72",
+    "Solar Energy": "1,50",
+    "Wind Energy": "1.143,88"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "03.11.2025",
     "Hour": "06:00",
-    "Total Energy": "31.107,11",
-    "Solar Energy": "26,20",
-    "Wind Energy": "619,22"
+    "Total Energy": "30.075,80",
+    "Solar Energy": "16,31",
+    "Wind Energy": "1.153,50"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "03.11.2025",
     "Hour": "07:00",
-    "Total Energy": "29.968,61",
-    "Solar Energy": "512,68",
-    "Wind Energy": "616,61"
+    "Total Energy": "31.783,59",
+    "Solar Energy": "293,85",
+    "Wind Energy": "1.210,86"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "03.11.2025",
     "Hour": "08:00",
-    "Total Energy": "29.918,43",
-    "Solar Energy": "1.866,78",
-    "Wind Energy": "571,91"
+    "Total Energy": "34.413,03",
+    "Solar Energy": "1.501,76",
+    "Wind Energy": "1.218,49"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "03.11.2025",
     "Hour": "09:00",
-    "Total Energy": "28.661,89",
-    "Solar Energy": "2.631,98",
-    "Wind Energy": "555,38"
+    "Total Energy": "33.139,25",
+    "Solar Energy": "2.474,11",
+    "Wind Energy": "1.151,78"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "03.11.2025",
     "Hour": "10:00",
-    "Total Energy": "27.581,91",
-    "Solar Energy": "2.886,60",
-    "Wind Energy": "601,76"
+    "Total Energy": "31.176,59",
+    "Solar Energy": "2.696,94",
+    "Wind Energy": "1.016,54"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "03.11.2025",
     "Hour": "11:00",
-    "Total Energy": "26.933,05",
-    "Solar Energy": "2.929,27",
-    "Wind Energy": "692,30"
+    "Total Energy": "30.066,76",
+    "Solar Energy": "2.732,32",
+    "Wind Energy": "1.071,16"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "03.11.2025",
     "Hour": "12:00",
-    "Total Energy": "25.331,54",
-    "Solar Energy": "2.996,23",
-    "Wind Energy": "775,34"
+    "Total Energy": "27.982,53",
+    "Solar Energy": "2.599,79",
+    "Wind Energy": "1.037,70"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "03.11.2025",
     "Hour": "13:00",
-    "Total Energy": "26.746,33",
-    "Solar Energy": "2.922,51",
-    "Wind Energy": "932,13"
+    "Total Energy": "29.602,53",
+    "Solar Energy": "2.561,97",
+    "Wind Energy": "980,78"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "03.11.2025",
     "Hour": "14:00",
-    "Total Energy": "28.581,62",
-    "Solar Energy": "2.744,12",
-    "Wind Energy": "1.091,36"
+    "Total Energy": "32.765,07",
+    "Solar Energy": "1.923,72",
+    "Wind Energy": "878,57"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "03.11.2025",
     "Hour": "15:00",
-    "Total Energy": "30.938,07",
-    "Solar Energy": "2.321,04",
-    "Wind Energy": "1.053,58"
+    "Total Energy": "36.019,81",
+    "Solar Energy": "1.502,38",
+    "Wind Energy": "757,79"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "03.11.2025",
     "Hour": "16:00",
-    "Total Energy": "34.874,37",
-    "Solar Energy": "1.316,35",
-    "Wind Energy": "1.102,79"
+    "Total Energy": "39.871,56",
+    "Solar Energy": "570,08",
+    "Wind Energy": "644,10"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "03.11.2025",
     "Hour": "17:00",
-    "Total Energy": "38.585,23",
-    "Solar Energy": "240,74",
-    "Wind Energy": "1.179,97"
+    "Total Energy": "43.272,68",
+    "Solar Energy": "65,82",
+    "Wind Energy": "672,23"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "03.11.2025",
     "Hour": "18:00",
-    "Total Energy": "40.990,93",
-    "Solar Energy": "3,25",
-    "Wind Energy": "1.300,81"
+    "Total Energy": "43.858,48",
+    "Solar Energy": "1,05",
+    "Wind Energy": "781,62"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "03.11.2025",
     "Hour": "19:00",
-    "Total Energy": "40.182,16",
-    "Solar Energy": "0,89",
-    "Wind Energy": "1.193,78"
+    "Total Energy": "42.718,92",
+    "Solar Energy": "0,93",
+    "Wind Energy": "873,91"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "03.11.2025",
     "Hour": "20:00",
-    "Total Energy": "39.597,07",
-    "Solar Energy": "0,90",
-    "Wind Energy": "1.001,12"
+    "Total Energy": "41.611,63",
+    "Solar Energy": "0,92",
+    "Wind Energy": "985,46"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "03.11.2025",
     "Hour": "21:00",
-    "Total Energy": "38.447,89",
-    "Solar Energy": "0,89",
-    "Wind Energy": "957,38"
+    "Total Energy": "40.315,88",
+    "Solar Energy": "0,95",
+    "Wind Energy": "1.073,16"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "03.11.2025",
     "Hour": "22:00",
-    "Total Energy": "36.998,77",
-    "Solar Energy": "0,90",
-    "Wind Energy": "908,29"
+    "Total Energy": "38.740,83",
+    "Solar Energy": "0,96",
+    "Wind Energy": "1.095,39"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "03.11.2025",
     "Hour": "23:00",
-    "Total Energy": "35.090,94",
-    "Solar Energy": "0,81",
-    "Wind Energy": "945,86"
+    "Total Energy": "36.747,79",
+    "Solar Energy": "0,97",
+    "Wind Energy": "1.165,52"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "04.11.2025",
     "Hour": "00:00",
-    "Total Energy": "34.634,03",
-    "Solar Energy": "0,99",
-    "Wind Energy": "850,29"
+    "Total Energy": "34.551,67",
+    "Solar Energy": "0,96",
+    "Wind Energy": "1.205,40"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "04.11.2025",
     "Hour": "01:00",
-    "Total Energy": "33.097,18",
-    "Solar Energy": "0,99",
-    "Wind Energy": "915,69"
+    "Total Energy": "32.885,97",
+    "Solar Energy": "0,95",
+    "Wind Energy": "1.165,60"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "04.11.2025",
     "Hour": "02:00",
-    "Total Energy": "31.866,58",
-    "Solar Energy": "0,99",
-    "Wind Energy": "969,58"
+    "Total Energy": "31.886,09",
+    "Solar Energy": "0,95",
+    "Wind Energy": "962,18"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "04.11.2025",
     "Hour": "03:00",
-    "Total Energy": "31.054,56",
-    "Solar Energy": "0,99",
-    "Wind Energy": "952,15"
+    "Total Energy": "31.210,27",
+    "Solar Energy": "0,95",
+    "Wind Energy": "827,97"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "04.11.2025",
     "Hour": "04:00",
-    "Total Energy": "30.724,02",
-    "Solar Energy": "0,88",
-    "Wind Energy": "857,97"
+    "Total Energy": "31.043,00",
+    "Solar Energy": "0,95",
+    "Wind Energy": "694,07"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "04.11.2025",
     "Hour": "05:00",
-    "Total Energy": "30.757,71",
-    "Solar Energy": "2,60",
-    "Wind Energy": "725,08"
+    "Total Energy": "31.251,14",
+    "Solar Energy": "1,32",
+    "Wind Energy": "560,36"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "04.11.2025",
     "Hour": "06:00",
-    "Total Energy": "31.107,11",
-    "Solar Energy": "26,20",
-    "Wind Energy": "619,22"
+    "Total Energy": "32.505,77",
+    "Solar Energy": "11,80",
+    "Wind Energy": "441,59"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "04.11.2025",
     "Hour": "07:00",
-    "Total Energy": "29.968,61",
-    "Solar Energy": "512,68",
-    "Wind Energy": "616,61"
+    "Total Energy": "34.057,11",
+    "Solar Energy": "164,91",
+    "Wind Energy": "346,94"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "04.11.2025",
     "Hour": "08:00",
-    "Total Energy": "29.918,43",
-    "Solar Energy": "1.866,78",
-    "Wind Energy": "571,91"
+    "Total Energy": "37.095,32",
+    "Solar Energy": "1.160,08",
+    "Wind Energy": "186,23"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "04.11.2025",
     "Hour": "09:00",
-    "Total Energy": "28.661,89",
-    "Solar Energy": "2.631,98",
-    "Wind Energy": "555,38"
+    "Total Energy": "35.891,48",
+    "Solar Energy": "2.089,10",
+    "Wind Energy": "211,74"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "04.11.2025",
     "Hour": "10:00",
-    "Total Energy": "27.581,91",
-    "Solar Energy": "2.886,60",
-    "Wind Energy": "601,76"
+    "Total Energy": "33.036,52",
+    "Solar Energy": "2.522,26",
+    "Wind Energy": "260,51"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "04.11.2025",
     "Hour": "11:00",
-    "Total Energy": "26.933,05",
-    "Solar Energy": "2.929,27",
-    "Wind Energy": "692,30"
+    "Total Energy": "31.749,12",
+    "Solar Energy": "2.597,54",
+    "Wind Energy": "303,00"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "04.11.2025",
     "Hour": "12:00",
-    "Total Energy": "25.331,54",
-    "Solar Energy": "2.996,23",
-    "Wind Energy": "775,34"
+    "Total Energy": "29.258,84",
+    "Solar Energy": "2.656,91",
+    "Wind Energy": "294,82"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "04.11.2025",
     "Hour": "13:00",
-    "Total Energy": "26.746,33",
-    "Solar Energy": "2.922,51",
-    "Wind Energy": "932,13"
+    "Total Energy": "30.259,97",
+    "Solar Energy": "2.564,64",
+    "Wind Energy": "412,85"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "04.11.2025",
     "Hour": "14:00",
-    "Total Energy": "28.581,62",
-    "Solar Energy": "2.744,12",
-    "Wind Energy": "1.091,36"
+    "Total Energy": "32.791,27",
+    "Solar Energy": "2.356,42",
+    "Wind Energy": "634,07"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "04.11.2025",
     "Hour": "15:00",
-    "Total Energy": "30.938,07",
-    "Solar Energy": "2.321,04",
-    "Wind Energy": "1.053,58"
+    "Total Energy": "35.449,25",
+    "Solar Energy": "2.007,12",
+    "Wind Energy": "984,63"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "04.11.2025",
     "Hour": "16:00",
-    "Total Energy": "34.874,37",
-    "Solar Energy": "1.316,35",
-    "Wind Energy": "1.102,79"
+    "Total Energy": "39.862,10",
+    "Solar Energy": "895,93",
+    "Wind Energy": "1.550,71"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "04.11.2025",
     "Hour": "17:00",
-    "Total Energy": "38.585,23",
-    "Solar Energy": "240,74",
-    "Wind Energy": "1.179,97"
+    "Total Energy": "43.543,30",
+    "Solar Energy": "75,06",
+    "Wind Energy": "2.172,87"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "04.11.2025",
     "Hour": "18:00",
-    "Total Energy": "40.990,93",
-    "Solar Energy": "3,25",
-    "Wind Energy": "1.300,81"
+    "Total Energy": "44.039,64",
+    "Solar Energy": "4,11",
+    "Wind Energy": "2.809,74"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "04.11.2025",
     "Hour": "19:00",
-    "Total Energy": "40.182,16",
-    "Solar Energy": "0,89",
-    "Wind Energy": "1.193,78"
+    "Total Energy": "42.933,52",
+    "Solar Energy": "1,05",
+    "Wind Energy": "3.272,44"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "04.11.2025",
     "Hour": "20:00",
-    "Total Energy": "39.597,07",
-    "Solar Energy": "0,90",
-    "Wind Energy": "1.001,12"
+    "Total Energy": "41.659,99",
+    "Solar Energy": "1,08",
+    "Wind Energy": "3.373,31"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "04.11.2025",
     "Hour": "21:00",
-    "Total Energy": "38.447,89",
-    "Solar Energy": "0,89",
-    "Wind Energy": "957,38"
+    "Total Energy": "40.524,79",
+    "Solar Energy": "1,11",
+    "Wind Energy": "3.339,55"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "04.11.2025",
     "Hour": "22:00",
-    "Total Energy": "36.998,77",
-    "Solar Energy": "0,90",
-    "Wind Energy": "908,29"
+    "Total Energy": "38.891,45",
+    "Solar Energy": "1,11",
+    "Wind Energy": "3.326,28"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "04.11.2025",
     "Hour": "23:00",
-    "Total Energy": "35.090,94",
-    "Solar Energy": "0,81",
-    "Wind Energy": "945,86"
+    "Total Energy": "36.782,43",
+    "Solar Energy": "1,07",
+    "Wind Energy": "3.302,83"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "05.11.2025",
     "Hour": "00:00",
-    "Total Energy": "34.634,03",
-    "Solar Energy": "0,99",
-    "Wind Energy": "850,29"
+    "Total Energy": "34.668,34",
+    "Solar Energy": "1,06",
+    "Wind Energy": "3.472,80"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "05.11.2025",
     "Hour": "01:00",
-    "Total Energy": "33.097,18",
-    "Solar Energy": "0,99",
-    "Wind Energy": "915,69"
+    "Total Energy": "32.995,75",
+    "Solar Energy": "1,07",
+    "Wind Energy": "3.495,63"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "05.11.2025",
     "Hour": "02:00",
-    "Total Energy": "31.866,58",
-    "Solar Energy": "0,99",
-    "Wind Energy": "969,58"
+    "Total Energy": "32.065,56",
+    "Solar Energy": "1,06",
+    "Wind Energy": "3.510,86"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "05.11.2025",
     "Hour": "03:00",
-    "Total Energy": "31.054,56",
-    "Solar Energy": "0,99",
-    "Wind Energy": "952,15"
+    "Total Energy": "31.513,91",
+    "Solar Energy": "1,06",
+    "Wind Energy": "3.651,13"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "05.11.2025",
     "Hour": "04:00",
-    "Total Energy": "30.724,02",
-    "Solar Energy": "0,88",
-    "Wind Energy": "857,97"
+    "Total Energy": "31.211,73",
+    "Solar Energy": "1,04",
+    "Wind Energy": "3.974,20"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "05.11.2025",
     "Hour": "05:00",
-    "Total Energy": "30.757,71",
-    "Solar Energy": "2,60",
-    "Wind Energy": "725,08"
+    "Total Energy": "31.462,60",
+    "Solar Energy": "1,44",
+    "Wind Energy": "4.392,44"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "05.11.2025",
     "Hour": "06:00",
-    "Total Energy": "31.107,11",
-    "Solar Energy": "26,20",
-    "Wind Energy": "619,22"
+    "Total Energy": "32.566,61",
+    "Solar Energy": "12,62",
+    "Wind Energy": "4.682,81"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "05.11.2025",
     "Hour": "07:00",
-    "Total Energy": "29.968,61",
-    "Solar Energy": "512,68",
-    "Wind Energy": "616,61"
+    "Total Energy": "34.045,78",
+    "Solar Energy": "241,62",
+    "Wind Energy": "4.816,90"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "05.11.2025",
     "Hour": "08:00",
-    "Total Energy": "29.918,43",
-    "Solar Energy": "1.866,78",
-    "Wind Energy": "571,91"
+    "Total Energy": "36.017,73",
+    "Solar Energy": "1.368,81",
+    "Wind Energy": "4.944,21"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "05.11.2025",
     "Hour": "09:00",
-    "Total Energy": "28.661,89",
-    "Solar Energy": "2.631,98",
-    "Wind Energy": "555,38"
+    "Total Energy": "34.172,12",
+    "Solar Energy": "2.374,78",
+    "Wind Energy": "4.879,02"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "05.11.2025",
     "Hour": "10:00",
-    "Total Energy": "27.581,91",
-    "Solar Energy": "2.886,60",
-    "Wind Energy": "601,76"
+    "Total Energy": "31.632,41",
+    "Solar Energy": "2.597,74",
+    "Wind Energy": "4.997,71"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "05.11.2025",
     "Hour": "11:00",
-    "Total Energy": "26.933,05",
-    "Solar Energy": "2.929,27",
-    "Wind Energy": "692,30"
+    "Total Energy": "30.545,52",
+    "Solar Energy": "2.642,51",
+    "Wind Energy": "5.037,55"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "05.11.2025",
     "Hour": "12:00",
-    "Total Energy": "25.331,54",
-    "Solar Energy": "2.996,23",
-    "Wind Energy": "775,34"
+    "Total Energy": "28.271,19",
+    "Solar Energy": "2.632,44",
+    "Wind Energy": "5.025,57"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "05.11.2025",
     "Hour": "13:00",
-    "Total Energy": "26.746,33",
-    "Solar Energy": "2.922,51",
-    "Wind Energy": "932,13"
+    "Total Energy": "29.506,70",
+    "Solar Energy": "2.603,96",
+    "Wind Energy": "5.142,24"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "05.11.2025",
     "Hour": "14:00",
-    "Total Energy": "28.581,62",
-    "Solar Energy": "2.744,12",
-    "Wind Energy": "1.091,36"
+    "Total Energy": "32.294,74",
+    "Solar Energy": "2.489,93",
+    "Wind Energy": "5.374,46"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "05.11.2025",
     "Hour": "15:00",
-    "Total Energy": "30.938,07",
-    "Solar Energy": "2.321,04",
-    "Wind Energy": "1.053,58"
+    "Total Energy": "35.382,29",
+    "Solar Energy": "1.982,21",
+    "Wind Energy": "5.622,31"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "05.11.2025",
     "Hour": "16:00",
-    "Total Energy": "34.874,37",
-    "Solar Energy": "1.316,35",
-    "Wind Energy": "1.102,79"
+    "Total Energy": "40.053,37",
+    "Solar Energy": "770,52",
+    "Wind Energy": "5.700,37"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "05.11.2025",
     "Hour": "17:00",
-    "Total Energy": "38.585,23",
-    "Solar Energy": "240,74",
-    "Wind Energy": "1.179,97"
+    "Total Energy": "43.843,93",
+    "Solar Energy": "55,21",
+    "Wind Energy": "5.804,37"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "05.11.2025",
     "Hour": "18:00",
-    "Total Energy": "40.990,93",
-    "Solar Energy": "3,25",
-    "Wind Energy": "1.300,81"
+    "Total Energy": "43.958,44",
+    "Solar Energy": "0,18",
+    "Wind Energy": "5.842,92"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "05.11.2025",
     "Hour": "19:00",
-    "Total Energy": "40.182,16",
-    "Solar Energy": "0,89",
-    "Wind Energy": "1.193,78"
+    "Total Energy": "42.771,50",
+    "Solar Energy": "0,13",
+    "Wind Energy": "5.711,82"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "05.11.2025",
     "Hour": "20:00",
-    "Total Energy": "39.597,07",
-    "Solar Energy": "0,90",
-    "Wind Energy": "1.001,12"
+    "Total Energy": "41.705,59",
+    "Solar Energy": "1,24",
+    "Wind Energy": "5.710,03"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "05.11.2025",
     "Hour": "21:00",
-    "Total Energy": "38.447,89",
-    "Solar Energy": "0,89",
-    "Wind Energy": "957,38"
+    "Total Energy": "40.464,47",
+    "Solar Energy": "1,26",
+    "Wind Energy": "5.771,49"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "05.11.2025",
     "Hour": "22:00",
-    "Total Energy": "36.998,77",
-    "Solar Energy": "0,90",
-    "Wind Energy": "908,29"
+    "Total Energy": "38.918,63",
+    "Solar Energy": "1,26",
+    "Wind Energy": "5.842,76"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "05.11.2025",
     "Hour": "23:00",
-    "Total Energy": "35.090,94",
-    "Solar Energy": "0,81",
-    "Wind Energy": "945,86"
+    "Total Energy": "37.187,81",
+    "Solar Energy": "1,27",
+    "Wind Energy": "6.019,35"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "06.11.2025",
     "Hour": "00:00",
-    "Total Energy": "34.634,03",
-    "Solar Energy": "0,99",
-    "Wind Energy": "850,29"
+    "Total Energy": "35.121,40",
+    "Solar Energy": "1,27",
+    "Wind Energy": "6.149,11"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "06.11.2025",
     "Hour": "01:00",
-    "Total Energy": "33.097,18",
-    "Solar Energy": "0,99",
-    "Wind Energy": "915,69"
+    "Total Energy": "33.415,08",
+    "Solar Energy": "1,27",
+    "Wind Energy": "6.155,56"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "06.11.2025",
     "Hour": "02:00",
-    "Total Energy": "31.866,58",
-    "Solar Energy": "0,99",
-    "Wind Energy": "969,58"
+    "Total Energy": "32.234,62",
+    "Solar Energy": "1,26",
+    "Wind Energy": "6.128,36"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "06.11.2025",
     "Hour": "03:00",
-    "Total Energy": "31.054,56",
-    "Solar Energy": "0,99",
-    "Wind Energy": "952,15"
+    "Total Energy": "31.516,32",
+    "Solar Energy": "1,27",
+    "Wind Energy": "6.213,05"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "06.11.2025",
     "Hour": "04:00",
-    "Total Energy": "30.724,02",
-    "Solar Energy": "0,88",
-    "Wind Energy": "857,97"
+    "Total Energy": "31.011,90",
+    "Solar Energy": "1,27",
+    "Wind Energy": "6.212,05"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "06.11.2025",
     "Hour": "05:00",
-    "Total Energy": "30.757,71",
-    "Solar Energy": "2,60",
-    "Wind Energy": "725,08"
+    "Total Energy": "31.365,91",
+    "Solar Energy": "1,31",
+    "Wind Energy": "6.221,59"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "06.11.2025",
     "Hour": "06:00",
-    "Total Energy": "31.107,11",
-    "Solar Energy": "26,20",
-    "Wind Energy": "619,22"
+    "Total Energy": "32.560,59",
+    "Solar Energy": "9,02",
+    "Wind Energy": "6.172,73"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "06.11.2025",
     "Hour": "07:00",
-    "Total Energy": "29.968,61",
-    "Solar Energy": "512,68",
-    "Wind Energy": "616,61"
+    "Total Energy": "34.317,39",
+    "Solar Energy": "169,22",
+    "Wind Energy": "6.026,43"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "06.11.2025",
     "Hour": "08:00",
-    "Total Energy": "29.918,43",
-    "Solar Energy": "1.866,78",
-    "Wind Energy": "571,91"
+    "Total Energy": "37.547,93",
+    "Solar Energy": "901,98",
+    "Wind Energy": "5.834,05"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "06.11.2025",
     "Hour": "09:00",
-    "Total Energy": "28.661,89",
-    "Solar Energy": "2.631,98",
-    "Wind Energy": "555,38"
+    "Total Energy": "37.369,47",
+    "Solar Energy": "1.590,81",
+    "Wind Energy": "5.430,19"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "06.11.2025",
     "Hour": "10:00",
-    "Total Energy": "27.581,91",
-    "Solar Energy": "2.886,60",
-    "Wind Energy": "601,76"
+    "Total Energy": "35.471,40",
+    "Solar Energy": "1.969,23",
+    "Wind Energy": "5.045,97"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "06.11.2025",
     "Hour": "11:00",
-    "Total Energy": "26.933,05",
-    "Solar Energy": "2.929,27",
-    "Wind Energy": "692,30"
+    "Total Energy": "34.241,86",
+    "Solar Energy": "2.084,76",
+    "Wind Energy": "4.661,51"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "06.11.2025",
     "Hour": "12:00",
-    "Total Energy": "25.331,54",
-    "Solar Energy": "2.996,23",
-    "Wind Energy": "775,34"
+    "Total Energy": "32.112,52",
+    "Solar Energy": "2.115,08",
+    "Wind Energy": "4.596,59"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "06.11.2025",
     "Hour": "13:00",
-    "Total Energy": "26.746,33",
-    "Solar Energy": "2.922,51",
-    "Wind Energy": "932,13"
+    "Total Energy": "32.908,91",
+    "Solar Energy": "2.056,65",
+    "Wind Energy": "4.460,48"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "06.11.2025",
     "Hour": "14:00",
-    "Total Energy": "28.581,62",
-    "Solar Energy": "2.744,12",
-    "Wind Energy": "1.091,36"
+    "Total Energy": "35.846,95",
+    "Solar Energy": "1.719,15",
+    "Wind Energy": "4.297,46"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "06.11.2025",
     "Hour": "15:00",
-    "Total Energy": "30.938,07",
-    "Solar Energy": "2.321,04",
-    "Wind Energy": "1.053,58"
+    "Total Energy": "38.276,39",
+    "Solar Energy": "1.102,16",
+    "Wind Energy": "4.478,36"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "06.11.2025",
     "Hour": "16:00",
-    "Total Energy": "34.874,37",
-    "Solar Energy": "1.316,35",
-    "Wind Energy": "1.102,79"
+    "Total Energy": "41.595,52",
+    "Solar Energy": "410,83",
+    "Wind Energy": "4.883,50"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "06.11.2025",
     "Hour": "17:00",
-    "Total Energy": "38.585,23",
-    "Solar Energy": "240,74",
-    "Wind Energy": "1.179,97"
+    "Total Energy": "44.301,06",
+    "Solar Energy": "45,60",
+    "Wind Energy": "5.050,00"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "06.11.2025",
     "Hour": "18:00",
-    "Total Energy": "40.990,93",
-    "Solar Energy": "3,25",
-    "Wind Energy": "1.300,81"
+    "Total Energy": "44.309,31",
+    "Solar Energy": "1,23",
+    "Wind Energy": "5.505,09"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "06.11.2025",
     "Hour": "19:00",
-    "Total Energy": "40.182,16",
-    "Solar Energy": "0,89",
-    "Wind Energy": "1.193,78"
+    "Total Energy": "43.070,23",
+    "Solar Energy": "0,95",
+    "Wind Energy": "5.573,22"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "06.11.2025",
     "Hour": "20:00",
-    "Total Energy": "39.597,07",
-    "Solar Energy": "0,90",
-    "Wind Energy": "1.001,12"
+    "Total Energy": "41.902,34",
+    "Solar Energy": "1,13",
+    "Wind Energy": "5.806,58"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "06.11.2025",
     "Hour": "21:00",
-    "Total Energy": "38.447,89",
-    "Solar Energy": "0,89",
-    "Wind Energy": "957,38"
+    "Total Energy": "40.669,19",
+    "Solar Energy": "1,07",
+    "Wind Energy": "5.442,29"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "06.11.2025",
     "Hour": "22:00",
-    "Total Energy": "36.998,77",
-    "Solar Energy": "0,90",
-    "Wind Energy": "908,29"
+    "Total Energy": "39.128,49",
+    "Solar Energy": "1,05",
+    "Wind Energy": "5.271,13"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "06.11.2025",
     "Hour": "23:00",
-    "Total Energy": "35.090,94",
-    "Solar Energy": "0,81",
-    "Wind Energy": "945,86"
+    "Total Energy": "37.003,73",
+    "Solar Energy": "0,01",
+    "Wind Energy": "4.621,53"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "07.11.2025",
     "Hour": "00:00",
-    "Total Energy": "34.634,03",
-    "Solar Energy": "0,99",
-    "Wind Energy": "850,29"
+    "Total Energy": "35.061,83",
+    "Solar Energy": "1,06",
+    "Wind Energy": "4.503,88"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "07.11.2025",
     "Hour": "01:00",
-    "Total Energy": "33.097,18",
-    "Solar Energy": "0,99",
-    "Wind Energy": "915,69"
+    "Total Energy": "33.237,02",
+    "Solar Energy": "1,07",
+    "Wind Energy": "4.342,10"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "07.11.2025",
     "Hour": "02:00",
-    "Total Energy": "31.866,58",
-    "Solar Energy": "0,99",
-    "Wind Energy": "969,58"
+    "Total Energy": "32.154,70",
+    "Solar Energy": "1,06",
+    "Wind Energy": "4.014,11"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "07.11.2025",
     "Hour": "03:00",
-    "Total Energy": "31.054,56",
-    "Solar Energy": "0,99",
-    "Wind Energy": "952,15"
+    "Total Energy": "31.384,01",
+    "Solar Energy": "1,07",
+    "Wind Energy": "3.863,27"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "07.11.2025",
     "Hour": "04:00",
-    "Total Energy": "30.724,02",
-    "Solar Energy": "0,88",
-    "Wind Energy": "857,97"
+    "Total Energy": "31.097,60",
+    "Solar Energy": "1,07",
+    "Wind Energy": "3.626,84"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "07.11.2025",
     "Hour": "05:00",
-    "Total Energy": "30.757,71",
-    "Solar Energy": "2,60",
-    "Wind Energy": "725,08"
+    "Total Energy": "31.476,78",
+    "Solar Energy": "1,19",
+    "Wind Energy": "3.486,18"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "07.11.2025",
     "Hour": "06:00",
-    "Total Energy": "31.107,11",
-    "Solar Energy": "26,20",
-    "Wind Energy": "619,22"
+    "Total Energy": "32.628,95",
+    "Solar Energy": "9,33",
+    "Wind Energy": "3.664,31"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "07.11.2025",
     "Hour": "07:00",
-    "Total Energy": "29.968,61",
-    "Solar Energy": "512,68",
-    "Wind Energy": "616,61"
+    "Total Energy": "34.121,78",
+    "Solar Energy": "146,83",
+    "Wind Energy": "3.685,66"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "07.11.2025",
     "Hour": "08:00",
-    "Total Energy": "29.918,43",
-    "Solar Energy": "1.866,78",
-    "Wind Energy": "571,91"
+    "Total Energy": "37.197,96",
+    "Solar Energy": "711,90",
+    "Wind Energy": "3.698,15"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "07.11.2025",
     "Hour": "09:00",
-    "Total Energy": "28.661,89",
-    "Solar Energy": "2.631,98",
-    "Wind Energy": "555,38"
+    "Total Energy": "36.422,37",
+    "Solar Energy": "1.408,33",
+    "Wind Energy": "3.455,98"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "07.11.2025",
     "Hour": "10:00",
-    "Total Energy": "27.581,91",
-    "Solar Energy": "2.886,60",
-    "Wind Energy": "601,76"
+    "Total Energy": "34.313,87",
+    "Solar Energy": "2.048,87",
+    "Wind Energy": "3.064,20"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "07.11.2025",
     "Hour": "11:00",
-    "Total Energy": "26.933,05",
-    "Solar Energy": "2.929,27",
-    "Wind Energy": "692,30"
+    "Total Energy": "33.538,96",
+    "Solar Energy": "2.090,29",
+    "Wind Energy": "2.948,38"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "07.11.2025",
     "Hour": "12:00",
-    "Total Energy": "25.331,54",
-    "Solar Energy": "2.996,23",
-    "Wind Energy": "775,34"
+    "Total Energy": "30.535,09",
+    "Solar Energy": "2.108,25",
+    "Wind Energy": "2.669,85"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "07.11.2025",
     "Hour": "13:00",
-    "Total Energy": "26.746,33",
-    "Solar Energy": "2.922,51",
-    "Wind Energy": "932,13"
+    "Total Energy": "31.320,85",
+    "Solar Energy": "2.002,85",
+    "Wind Energy": "2.470,85"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "07.11.2025",
     "Hour": "14:00",
-    "Total Energy": "28.581,62",
-    "Solar Energy": "2.744,12",
-    "Wind Energy": "1.091,36"
+    "Total Energy": "34.925,27",
+    "Solar Energy": "1.856,04",
+    "Wind Energy": "2.441,03"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "07.11.2025",
     "Hour": "15:00",
-    "Total Energy": "30.938,07",
-    "Solar Energy": "2.321,04",
-    "Wind Energy": "1.053,58"
+    "Total Energy": "37.393,73",
+    "Solar Energy": "1.220,86",
+    "Wind Energy": "2.451,22"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "07.11.2025",
     "Hour": "16:00",
-    "Total Energy": "34.874,37",
-    "Solar Energy": "1.316,35",
-    "Wind Energy": "1.102,79"
+    "Total Energy": "41.036,20",
+    "Solar Energy": "407,66",
+    "Wind Energy": "2.362,96"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "07.11.2025",
     "Hour": "17:00",
-    "Total Energy": "38.585,23",
-    "Solar Energy": "240,74",
-    "Wind Energy": "1.179,97"
+    "Total Energy": "43.867,37",
+    "Solar Energy": "43,11",
+    "Wind Energy": "2.301,00"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "07.11.2025",
     "Hour": "18:00",
-    "Total Energy": "40.990,93",
-    "Solar Energy": "3,25",
-    "Wind Energy": "1.300,81"
+    "Total Energy": "43.941,87",
+    "Solar Energy": "1,01",
+    "Wind Energy": "2.275,76"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "07.11.2025",
     "Hour": "19:00",
-    "Total Energy": "40.182,16",
-    "Solar Energy": "0,89",
-    "Wind Energy": "1.193,78"
+    "Total Energy": "42.639,08",
+    "Solar Energy": "0,82",
+    "Wind Energy": "2.040,55"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "07.11.2025",
     "Hour": "20:00",
-    "Total Energy": "39.597,07",
-    "Solar Energy": "0,90",
-    "Wind Energy": "1.001,12"
+    "Total Energy": "41.516,40",
+    "Solar Energy": "0,87",
+    "Wind Energy": "1.930,76"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "07.11.2025",
     "Hour": "21:00",
-    "Total Energy": "38.447,89",
-    "Solar Energy": "0,89",
-    "Wind Energy": "957,38"
+    "Total Energy": "40.088,62",
+    "Solar Energy": "0,88",
+    "Wind Energy": "2.113,21"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "07.11.2025",
     "Hour": "22:00",
-    "Total Energy": "36.998,77",
-    "Solar Energy": "0,90",
-    "Wind Energy": "908,29"
+    "Total Energy": "38.467,18",
+    "Solar Energy": "0,88",
+    "Wind Energy": "2.082,54"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "07.11.2025",
     "Hour": "23:00",
-    "Total Energy": "35.090,94",
-    "Solar Energy": "0,81",
-    "Wind Energy": "945,86"
+    "Total Energy": "36.933,12",
+    "Solar Energy": "0,88",
+    "Wind Energy": "1.917,45"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "08.11.2025",
     "Hour": "00:00",
-    "Total Energy": "34.634,03",
-    "Solar Energy": "0,99",
-    "Wind Energy": "850,29"
-  },
-  {
-    "Date": "18.10.2025",
-    "Hour": "01:00",
-    "Total Energy": "33.097,18",
-    "Solar Energy": "0,99",
-    "Wind Energy": "915,69"
-  },
-  {
-    "Date": "18.10.2025",
-    "Hour": "02:00",
-    "Total Energy": "31.866,58",
-    "Solar Energy": "0,99",
-    "Wind Energy": "969,58"
-  },
-  {
-    "Date": "18.10.2025",
-    "Hour": "03:00",
-    "Total Energy": "31.054,56",
-    "Solar Energy": "0,99",
-    "Wind Energy": "952,15"
-  },
-  {
-    "Date": "18.10.2025",
-    "Hour": "04:00",
-    "Total Energy": "30.724,02",
+    "Total Energy": "34.907,40",
     "Solar Energy": "0,88",
-    "Wind Energy": "857,97"
+    "Wind Energy": "1.811,96"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "08.11.2025",
+    "Hour": "01:00",
+    "Total Energy": "33.195,28",
+    "Solar Energy": "0,88",
+    "Wind Energy": "1.586,83"
+  },
+  {
+    "Date": "08.11.2025",
+    "Hour": "02:00",
+    "Total Energy": "31.864,77",
+    "Solar Energy": "0,88",
+    "Wind Energy": "1.498,66"
+  },
+  {
+    "Date": "08.11.2025",
+    "Hour": "03:00",
+    "Total Energy": "31.118,94",
+    "Solar Energy": "0,89",
+    "Wind Energy": "1.410,77"
+  },
+  {
+    "Date": "08.11.2025",
+    "Hour": "04:00",
+    "Total Energy": "30.692,76",
+    "Solar Energy": "1,19",
+    "Wind Energy": "1.425,34"
+  },
+  {
+    "Date": "08.11.2025",
     "Hour": "05:00",
-    "Total Energy": "30.757,71",
-    "Solar Energy": "2,60",
-    "Wind Energy": "725,08"
+    "Total Energy": "30.870,29",
+    "Solar Energy": "4,64",
+    "Wind Energy": "1.516,69"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "08.11.2025",
     "Hour": "06:00",
-    "Total Energy": "31.107,11",
-    "Solar Energy": "26,20",
-    "Wind Energy": "619,22"
+    "Total Energy": "31.373,91",
+    "Solar Energy": "13,87",
+    "Wind Energy": "1.613,32"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "08.11.2025",
     "Hour": "07:00",
-    "Total Energy": "29.968,61",
-    "Solar Energy": "512,68",
-    "Wind Energy": "616,61"
+    "Total Energy": "31.525,99",
+    "Solar Energy": "152,43",
+    "Wind Energy": "1.804,55"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "08.11.2025",
     "Hour": "08:00",
-    "Total Energy": "29.918,43",
-    "Solar Energy": "1.866,78",
-    "Wind Energy": "571,91"
+    "Total Energy": "32.217,99",
+    "Solar Energy": "1.082,98",
+    "Wind Energy": "2.051,72"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "08.11.2025",
     "Hour": "09:00",
-    "Total Energy": "28.661,89",
-    "Solar Energy": "2.631,98",
-    "Wind Energy": "555,38"
+    "Total Energy": "30.586,58",
+    "Solar Energy": "2.159,57",
+    "Wind Energy": "2.137,79"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "08.11.2025",
     "Hour": "10:00",
-    "Total Energy": "27.581,91",
-    "Solar Energy": "2.886,60",
-    "Wind Energy": "601,76"
+    "Total Energy": "28.573,12",
+    "Solar Energy": "2.515,67",
+    "Wind Energy": "2.136,45"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "08.11.2025",
     "Hour": "11:00",
-    "Total Energy": "26.933,05",
-    "Solar Energy": "2.929,27",
-    "Wind Energy": "692,30"
+    "Total Energy": "27.426,04",
+    "Solar Energy": "2.668,95",
+    "Wind Energy": "2.225,99"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "08.11.2025",
     "Hour": "12:00",
-    "Total Energy": "25.331,54",
-    "Solar Energy": "2.996,23",
-    "Wind Energy": "775,34"
+    "Total Energy": "25.984,69",
+    "Solar Energy": "2.645,94",
+    "Wind Energy": "2.296,42"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "08.11.2025",
     "Hour": "13:00",
-    "Total Energy": "26.746,33",
-    "Solar Energy": "2.922,51",
-    "Wind Energy": "932,13"
+    "Total Energy": "27.153,16",
+    "Solar Energy": "2.580,59",
+    "Wind Energy": "2.281,62"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "08.11.2025",
     "Hour": "14:00",
-    "Total Energy": "28.581,62",
-    "Solar Energy": "2.744,12",
-    "Wind Energy": "1.091,36"
+    "Total Energy": "29.257,57",
+    "Solar Energy": "2.411,27",
+    "Wind Energy": "2.188,44"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "08.11.2025",
     "Hour": "15:00",
-    "Total Energy": "30.938,07",
-    "Solar Energy": "2.321,04",
-    "Wind Energy": "1.053,58"
+    "Total Energy": "32.104,28",
+    "Solar Energy": "1.899,08",
+    "Wind Energy": "2.067,43"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "08.11.2025",
     "Hour": "16:00",
-    "Total Energy": "34.874,37",
-    "Solar Energy": "1.316,35",
-    "Wind Energy": "1.102,79"
+    "Total Energy": "35.905,78",
+    "Solar Energy": "759,81",
+    "Wind Energy": "1.897,31"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "08.11.2025",
     "Hour": "17:00",
-    "Total Energy": "38.585,23",
-    "Solar Energy": "240,74",
-    "Wind Energy": "1.179,97"
+    "Total Energy": "39.719,78",
+    "Solar Energy": "65,13",
+    "Wind Energy": "1.664,31"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "08.11.2025",
     "Hour": "18:00",
-    "Total Energy": "40.990,93",
-    "Solar Energy": "3,25",
-    "Wind Energy": "1.300,81"
+    "Total Energy": "41.540,98",
+    "Solar Energy": "0,03",
+    "Wind Energy": "1.943,70"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "08.11.2025",
     "Hour": "19:00",
-    "Total Energy": "40.182,16",
-    "Solar Energy": "0,89",
-    "Wind Energy": "1.193,78"
+    "Total Energy": "40.600,90",
+    "Solar Energy": "0,01",
+    "Wind Energy": "2.153,25"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "08.11.2025",
     "Hour": "20:00",
-    "Total Energy": "39.597,07",
-    "Solar Energy": "0,90",
-    "Wind Energy": "1.001,12"
+    "Total Energy": "39.517,42",
+    "Solar Energy": "0,01",
+    "Wind Energy": "2.426,27"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "08.11.2025",
     "Hour": "21:00",
-    "Total Energy": "38.447,89",
-    "Solar Energy": "0,89",
-    "Wind Energy": "957,38"
+    "Total Energy": "38.551,60",
+    "Solar Energy": "0,01",
+    "Wind Energy": "2.685,91"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "08.11.2025",
     "Hour": "22:00",
-    "Total Energy": "36.998,77",
-    "Solar Energy": "0,90",
-    "Wind Energy": "908,29"
+    "Total Energy": "37.039,14",
+    "Solar Energy": "0,01",
+    "Wind Energy": "2.937,60"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "08.11.2025",
     "Hour": "23:00",
-    "Total Energy": "35.090,94",
-    "Solar Energy": "0,81",
-    "Wind Energy": "945,86"
+    "Total Energy": "35.117,75",
+    "Solar Energy": "0,01",
+    "Wind Energy": "3.298,83"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "09.11.2025",
     "Hour": "00:00",
-    "Total Energy": "34.634,03",
-    "Solar Energy": "0,99",
-    "Wind Energy": "850,29"
+    "Total Energy": "33.087,18",
+    "Solar Energy": "0,01",
+    "Wind Energy": "3.656,57"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "09.11.2025",
     "Hour": "01:00",
-    "Total Energy": "33.097,18",
-    "Solar Energy": "0,99",
-    "Wind Energy": "915,69"
+    "Total Energy": "31.533,91",
+    "Solar Energy": "0,01",
+    "Wind Energy": "3.860,76"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "09.11.2025",
     "Hour": "02:00",
-    "Total Energy": "31.866,58",
-    "Solar Energy": "0,99",
-    "Wind Energy": "969,58"
+    "Total Energy": "30.101,07",
+    "Solar Energy": "0,01",
+    "Wind Energy": "3.984,49"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "09.11.2025",
     "Hour": "03:00",
-    "Total Energy": "31.054,56",
-    "Solar Energy": "0,99",
-    "Wind Energy": "952,15"
+    "Total Energy": "29.359,59",
+    "Solar Energy": "0,01",
+    "Wind Energy": "3.871,68"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "09.11.2025",
     "Hour": "04:00",
-    "Total Energy": "30.724,02",
-    "Solar Energy": "0,88",
-    "Wind Energy": "857,97"
+    "Total Energy": "28.900,35",
+    "Solar Energy": "0,01",
+    "Wind Energy": "3.710,31"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "09.11.2025",
     "Hour": "05:00",
-    "Total Energy": "30.757,71",
-    "Solar Energy": "2,60",
-    "Wind Energy": "725,08"
+    "Total Energy": "28.840,95",
+    "Solar Energy": "0,31",
+    "Wind Energy": "3.571,57"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "09.11.2025",
     "Hour": "06:00",
-    "Total Energy": "31.107,11",
-    "Solar Energy": "26,20",
-    "Wind Energy": "619,22"
+    "Total Energy": "28.998,26",
+    "Solar Energy": "7,86",
+    "Wind Energy": "3.358,75"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "09.11.2025",
     "Hour": "07:00",
-    "Total Energy": "29.968,61",
-    "Solar Energy": "512,68",
-    "Wind Energy": "616,61"
+    "Total Energy": "27.879,60",
+    "Solar Energy": "182,07",
+    "Wind Energy": "3.111,85"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "09.11.2025",
     "Hour": "08:00",
-    "Total Energy": "29.918,43",
-    "Solar Energy": "1.866,78",
-    "Wind Energy": "571,91"
+    "Total Energy": "25.282,87",
+    "Solar Energy": "1.211,13",
+    "Wind Energy": "3.020,38"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "09.11.2025",
     "Hour": "09:00",
-    "Total Energy": "28.661,89",
-    "Solar Energy": "2.631,98",
-    "Wind Energy": "555,38"
+    "Total Energy": "22.650,83",
+    "Solar Energy": "2.302,80",
+    "Wind Energy": "2.785,90"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "09.11.2025",
     "Hour": "10:00",
-    "Total Energy": "27.581,91",
-    "Solar Energy": "2.886,60",
-    "Wind Energy": "601,76"
+    "Total Energy": "21.097,36",
+    "Solar Energy": "2.423,61",
+    "Wind Energy": "2.553,64"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "09.11.2025",
     "Hour": "11:00",
-    "Total Energy": "26.933,05",
-    "Solar Energy": "2.929,27",
-    "Wind Energy": "692,30"
+    "Total Energy": "20.391,98",
+    "Solar Energy": "2.279,72",
+    "Wind Energy": "2.210,20"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "09.11.2025",
     "Hour": "12:00",
-    "Total Energy": "25.331,54",
-    "Solar Energy": "2.996,23",
-    "Wind Energy": "775,34"
+    "Total Energy": "20.123,04",
+    "Solar Energy": "2.042,56",
+    "Wind Energy": "1.927,49"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "09.11.2025",
     "Hour": "13:00",
-    "Total Energy": "26.746,33",
-    "Solar Energy": "2.922,51",
-    "Wind Energy": "932,13"
+    "Total Energy": "21.257,19",
+    "Solar Energy": "2.469,63",
+    "Wind Energy": "2.113,72"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "09.11.2025",
     "Hour": "14:00",
-    "Total Energy": "28.581,62",
-    "Solar Energy": "2.744,12",
-    "Wind Energy": "1.091,36"
+    "Total Energy": "22.902,24",
+    "Solar Energy": "2.489,19",
+    "Wind Energy": "2.130,76"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "09.11.2025",
     "Hour": "15:00",
-    "Total Energy": "30.938,07",
-    "Solar Energy": "2.321,04",
-    "Wind Energy": "1.053,58"
+    "Total Energy": "26.240,03",
+    "Solar Energy": "2.014,74",
+    "Wind Energy": "1.859,22"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "09.11.2025",
     "Hour": "16:00",
-    "Total Energy": "34.874,37",
-    "Solar Energy": "1.316,35",
-    "Wind Energy": "1.102,79"
+    "Total Energy": "30.562,16",
+    "Solar Energy": "789,07",
+    "Wind Energy": "1.421,42"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "09.11.2025",
     "Hour": "17:00",
-    "Total Energy": "38.585,23",
-    "Solar Energy": "240,74",
-    "Wind Energy": "1.179,97"
+    "Total Energy": "35.193,53",
+    "Solar Energy": "49,54",
+    "Wind Energy": "1.167,25"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "09.11.2025",
     "Hour": "18:00",
-    "Total Energy": "40.990,93",
-    "Solar Energy": "3,25",
-    "Wind Energy": "1.300,81"
+    "Total Energy": "37.598,88",
+    "Solar Energy": "1,19",
+    "Wind Energy": "1.167,77"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "09.11.2025",
     "Hour": "19:00",
-    "Total Energy": "40.182,16",
-    "Solar Energy": "0,89",
-    "Wind Energy": "1.193,78"
+    "Total Energy": "37.201,92",
+    "Solar Energy": "0,01",
+    "Wind Energy": "1.179,36"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "09.11.2025",
     "Hour": "20:00",
-    "Total Energy": "39.597,07",
-    "Solar Energy": "0,90",
-    "Wind Energy": "1.001,12"
+    "Total Energy": "36.300,47",
+    "Solar Energy": "0,01",
+    "Wind Energy": "1.246,57"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "09.11.2025",
     "Hour": "21:00",
-    "Total Energy": "38.447,89",
-    "Solar Energy": "0,89",
-    "Wind Energy": "957,38"
+    "Total Energy": "35.319,35",
+    "Solar Energy": "0,01",
+    "Wind Energy": "1.264,51"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "09.11.2025",
     "Hour": "22:00",
-    "Total Energy": "36.998,77",
-    "Solar Energy": "0,90",
-    "Wind Energy": "908,29"
+    "Total Energy": "34.241,01",
+    "Solar Energy": "0,01",
+    "Wind Energy": "1.431,23"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "09.11.2025",
     "Hour": "23:00",
-    "Total Energy": "35.090,94",
-    "Solar Energy": "0,81",
-    "Wind Energy": "945,86"
+    "Total Energy": "32.941,92",
+    "Solar Energy": "0,01",
+    "Wind Energy": "1.696,01"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "10.11.2025",
     "Hour": "00:00",
-    "Total Energy": "34.634,03",
-    "Solar Energy": "0,99",
-    "Wind Energy": "850,29"
+    "Total Energy": "31.483,49",
+    "Solar Energy": "0,01",
+    "Wind Energy": "1.829,29"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "10.11.2025",
     "Hour": "01:00",
-    "Total Energy": "33.097,18",
-    "Solar Energy": "0,99",
-    "Wind Energy": "915,69"
+    "Total Energy": "30.098,07",
+    "Solar Energy": "0,01",
+    "Wind Energy": "2.028,54"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "10.11.2025",
     "Hour": "02:00",
-    "Total Energy": "31.866,58",
-    "Solar Energy": "0,99",
-    "Wind Energy": "969,58"
+    "Total Energy": "28.971,64",
+    "Solar Energy": "0,01",
+    "Wind Energy": "2.001,16"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "10.11.2025",
     "Hour": "03:00",
-    "Total Energy": "31.054,56",
-    "Solar Energy": "0,99",
-    "Wind Energy": "952,15"
+    "Total Energy": "28.473,93",
+    "Solar Energy": "0,01",
+    "Wind Energy": "2.007,14"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "10.11.2025",
     "Hour": "04:00",
-    "Total Energy": "30.724,02",
-    "Solar Energy": "0,88",
-    "Wind Energy": "857,97"
+    "Total Energy": "28.412,10",
+    "Solar Energy": "0,01",
+    "Wind Energy": "2.171,81"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "10.11.2025",
     "Hour": "05:00",
-    "Total Energy": "30.757,71",
-    "Solar Energy": "2,60",
-    "Wind Energy": "725,08"
+    "Total Energy": "28.779,98",
+    "Solar Energy": "0,11",
+    "Wind Energy": "2.498,00"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "10.11.2025",
     "Hour": "06:00",
-    "Total Energy": "31.107,11",
-    "Solar Energy": "26,20",
-    "Wind Energy": "619,22"
+    "Total Energy": "29.931,56",
+    "Solar Energy": "6,45",
+    "Wind Energy": "2.838,34"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "10.11.2025",
     "Hour": "07:00",
-    "Total Energy": "29.968,61",
-    "Solar Energy": "512,68",
-    "Wind Energy": "616,61"
+    "Total Energy": "31.571,07",
+    "Solar Energy": "165,62",
+    "Wind Energy": "3.154,50"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "10.11.2025",
     "Hour": "08:00",
-    "Total Energy": "29.918,43",
-    "Solar Energy": "1.866,78",
-    "Wind Energy": "571,91"
+    "Total Energy": "34.870,79",
+    "Solar Energy": "1.115,23",
+    "Wind Energy": "3.322,58"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "10.11.2025",
     "Hour": "09:00",
-    "Total Energy": "28.661,89",
-    "Solar Energy": "2.631,98",
-    "Wind Energy": "555,38"
+    "Total Energy": "34.199,93",
+    "Solar Energy": "1.956,38",
+    "Wind Energy": "3.336,89"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "10.11.2025",
     "Hour": "10:00",
-    "Total Energy": "27.581,91",
-    "Solar Energy": "2.886,60",
-    "Wind Energy": "601,76"
+    "Total Energy": "32.858,96",
+    "Solar Energy": "2.260,95",
+    "Wind Energy": "3.067,73"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "10.11.2025",
     "Hour": "11:00",
-    "Total Energy": "26.933,05",
-    "Solar Energy": "2.929,27",
-    "Wind Energy": "692,30"
+    "Total Energy": "32.495,42",
+    "Solar Energy": "2.138,07",
+    "Wind Energy": "2.968,02"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "10.11.2025",
     "Hour": "12:00",
-    "Total Energy": "25.331,54",
-    "Solar Energy": "2.996,23",
-    "Wind Energy": "775,34"
+    "Total Energy": "30.778,72",
+    "Solar Energy": "2.090,26",
+    "Wind Energy": "2.860,57"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "10.11.2025",
     "Hour": "13:00",
-    "Total Energy": "26.746,33",
-    "Solar Energy": "2.922,51",
-    "Wind Energy": "932,13"
+    "Total Energy": "32.105,52",
+    "Solar Energy": "2.036,02",
+    "Wind Energy": "3.061,73"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "10.11.2025",
     "Hour": "14:00",
-    "Total Energy": "28.581,62",
-    "Solar Energy": "2.744,12",
-    "Wind Energy": "1.091,36"
+    "Total Energy": "34.509,64",
+    "Solar Energy": "1.929,76",
+    "Wind Energy": "3.157,19"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "10.11.2025",
     "Hour": "15:00",
-    "Total Energy": "30.938,07",
-    "Solar Energy": "2.321,04",
-    "Wind Energy": "1.053,58"
+    "Total Energy": "37.327,26",
+    "Solar Energy": "1.224,63",
+    "Wind Energy": "3.080,98"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "10.11.2025",
     "Hour": "16:00",
-    "Total Energy": "34.874,37",
-    "Solar Energy": "1.316,35",
-    "Wind Energy": "1.102,79"
+    "Total Energy": "40.987,25",
+    "Solar Energy": "465,35",
+    "Wind Energy": "3.157,59"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "10.11.2025",
     "Hour": "17:00",
-    "Total Energy": "38.585,23",
-    "Solar Energy": "240,74",
-    "Wind Energy": "1.179,97"
+    "Total Energy": "43.708,01",
+    "Solar Energy": "48,26",
+    "Wind Energy": "3.258,59"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "10.11.2025",
     "Hour": "18:00",
-    "Total Energy": "40.990,93",
-    "Solar Energy": "3,25",
-    "Wind Energy": "1.300,81"
+    "Total Energy": "43.780,79",
+    "Solar Energy": "1,69",
+    "Wind Energy": "3.461,11"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "10.11.2025",
     "Hour": "19:00",
-    "Total Energy": "40.182,16",
-    "Solar Energy": "0,89",
-    "Wind Energy": "1.193,78"
+    "Total Energy": "42.539,09",
+    "Solar Energy": "1,67",
+    "Wind Energy": "3.850,21"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "10.11.2025",
     "Hour": "20:00",
-    "Total Energy": "39.597,07",
-    "Solar Energy": "0,90",
-    "Wind Energy": "1.001,12"
+    "Total Energy": "41.403,32",
+    "Solar Energy": "1,62",
+    "Wind Energy": "3.940,72"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "10.11.2025",
     "Hour": "21:00",
-    "Total Energy": "38.447,89",
-    "Solar Energy": "0,89",
-    "Wind Energy": "957,38"
+    "Total Energy": "40.187,13",
+    "Solar Energy": "1,56",
+    "Wind Energy": "4.177,54"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "10.11.2025",
     "Hour": "22:00",
-    "Total Energy": "36.998,77",
-    "Solar Energy": "0,90",
-    "Wind Energy": "908,29"
+    "Total Energy": "38.631,63",
+    "Solar Energy": "1,56",
+    "Wind Energy": "4.402,53"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "10.11.2025",
     "Hour": "23:00",
-    "Total Energy": "35.090,94",
-    "Solar Energy": "0,81",
-    "Wind Energy": "945,86"
+    "Total Energy": "36.950,69",
+    "Solar Energy": "1,55",
+    "Wind Energy": "4.626,13"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "11.11.2025",
     "Hour": "00:00",
-    "Total Energy": "34.634,03",
-    "Solar Energy": "0,99",
-    "Wind Energy": "850,29"
+    "Total Energy": "34.972,22",
+    "Solar Energy": "1,53",
+    "Wind Energy": "4.871,10"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "11.11.2025",
     "Hour": "01:00",
-    "Total Energy": "33.097,18",
-    "Solar Energy": "0,99",
-    "Wind Energy": "915,69"
+    "Total Energy": "33.461,81",
+    "Solar Energy": "1,50",
+    "Wind Energy": "5.019,47"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "11.11.2025",
     "Hour": "02:00",
-    "Total Energy": "31.866,58",
-    "Solar Energy": "0,99",
-    "Wind Energy": "969,58"
+    "Total Energy": "32.176,91",
+    "Solar Energy": "1,51",
+    "Wind Energy": "5.041,97"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "11.11.2025",
     "Hour": "03:00",
-    "Total Energy": "31.054,56",
-    "Solar Energy": "0,99",
-    "Wind Energy": "952,15"
+    "Total Energy": "31.476,39",
+    "Solar Energy": "1,49",
+    "Wind Energy": "5.402,06"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "11.11.2025",
     "Hour": "04:00",
-    "Total Energy": "30.724,02",
-    "Solar Energy": "0,88",
-    "Wind Energy": "857,97"
+    "Total Energy": "31.018,79",
+    "Solar Energy": "1,49",
+    "Wind Energy": "5.039,19"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "11.11.2025",
     "Hour": "05:00",
-    "Total Energy": "30.757,71",
-    "Solar Energy": "2,60",
-    "Wind Energy": "725,08"
+    "Total Energy": "31.372,50",
+    "Solar Energy": "1,57",
+    "Wind Energy": "4.685,32"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "11.11.2025",
     "Hour": "06:00",
-    "Total Energy": "31.107,11",
-    "Solar Energy": "26,20",
-    "Wind Energy": "619,22"
+    "Total Energy": "32.269,94",
+    "Solar Energy": "6,90",
+    "Wind Energy": "4.652,88"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "11.11.2025",
     "Hour": "07:00",
-    "Total Energy": "29.968,61",
-    "Solar Energy": "512,68",
-    "Wind Energy": "616,61"
+    "Total Energy": "33.524,68",
+    "Solar Energy": "98,25",
+    "Wind Energy": "4.871,45"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "11.11.2025",
     "Hour": "08:00",
-    "Total Energy": "29.918,43",
-    "Solar Energy": "1.866,78",
-    "Wind Energy": "571,91"
+    "Total Energy": "37.100,25",
+    "Solar Energy": "521,31",
+    "Wind Energy": "4.593,85"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "11.11.2025",
     "Hour": "09:00",
-    "Total Energy": "28.661,89",
-    "Solar Energy": "2.631,98",
-    "Wind Energy": "555,38"
+    "Total Energy": "36.923,95",
+    "Solar Energy": "1.271,65",
+    "Wind Energy": "4.077,08"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "11.11.2025",
     "Hour": "10:00",
-    "Total Energy": "27.581,91",
-    "Solar Energy": "2.886,60",
-    "Wind Energy": "601,76"
+    "Total Energy": "35.719,81",
+    "Solar Energy": "1.867,37",
+    "Wind Energy": "4.299,15"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "11.11.2025",
     "Hour": "11:00",
-    "Total Energy": "26.933,05",
-    "Solar Energy": "2.929,27",
-    "Wind Energy": "692,30"
+    "Total Energy": "35.414,63",
+    "Solar Energy": "2.106,34",
+    "Wind Energy": "4.233,78"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "11.11.2025",
     "Hour": "12:00",
-    "Total Energy": "25.331,54",
-    "Solar Energy": "2.996,23",
-    "Wind Energy": "775,34"
+    "Total Energy": "33.434,71",
+    "Solar Energy": "2.077,96",
+    "Wind Energy": "4.077,59"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "11.11.2025",
     "Hour": "13:00",
-    "Total Energy": "26.746,33",
-    "Solar Energy": "2.922,51",
-    "Wind Energy": "932,13"
+    "Total Energy": "34.717,52",
+    "Solar Energy": "1.951,34",
+    "Wind Energy": "4.148,60"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "11.11.2025",
     "Hour": "14:00",
-    "Total Energy": "28.581,62",
-    "Solar Energy": "2.744,12",
-    "Wind Energy": "1.091,36"
+    "Total Energy": "37.103,85",
+    "Solar Energy": "1.746,21",
+    "Wind Energy": "4.203,92"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "11.11.2025",
     "Hour": "15:00",
-    "Total Energy": "30.938,07",
-    "Solar Energy": "2.321,04",
-    "Wind Energy": "1.053,58"
+    "Total Energy": "39.081,90",
+    "Solar Energy": "1.344,62",
+    "Wind Energy": "4.012,10"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "11.11.2025",
     "Hour": "16:00",
-    "Total Energy": "34.874,37",
-    "Solar Energy": "1.316,35",
-    "Wind Energy": "1.102,79"
+    "Total Energy": "41.973,11",
+    "Solar Energy": "478,77",
+    "Wind Energy": "4.072,24"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "11.11.2025",
     "Hour": "17:00",
-    "Total Energy": "38.585,23",
-    "Solar Energy": "240,74",
-    "Wind Energy": "1.179,97"
+    "Total Energy": "44.326,93",
+    "Solar Energy": "47,96",
+    "Wind Energy": "4.009,59"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "11.11.2025",
     "Hour": "18:00",
-    "Total Energy": "40.990,93",
-    "Solar Energy": "3,25",
-    "Wind Energy": "1.300,81"
+    "Total Energy": "44.040,47",
+    "Solar Energy": "2,07",
+    "Wind Energy": "3.696,99"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "11.11.2025",
     "Hour": "19:00",
-    "Total Energy": "40.182,16",
-    "Solar Energy": "0,89",
-    "Wind Energy": "1.193,78"
+    "Total Energy": "42.778,61",
+    "Solar Energy": "1,60",
+    "Wind Energy": "3.411,74"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "11.11.2025",
     "Hour": "20:00",
-    "Total Energy": "39.597,07",
-    "Solar Energy": "0,90",
-    "Wind Energy": "1.001,12"
+    "Total Energy": "41.572,16",
+    "Solar Energy": "1,56",
+    "Wind Energy": "3.231,11"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "11.11.2025",
     "Hour": "21:00",
-    "Total Energy": "38.447,89",
-    "Solar Energy": "0,89",
-    "Wind Energy": "957,38"
+    "Total Energy": "40.304,34",
+    "Solar Energy": "1,51",
+    "Wind Energy": "3.161,94"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "11.11.2025",
     "Hour": "22:00",
-    "Total Energy": "36.998,77",
-    "Solar Energy": "0,90",
-    "Wind Energy": "908,29"
+    "Total Energy": "38.867,60",
+    "Solar Energy": "1,50",
+    "Wind Energy": "3.163,79"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "11.11.2025",
     "Hour": "23:00",
-    "Total Energy": "35.090,94",
-    "Solar Energy": "0,81",
-    "Wind Energy": "945,86"
+    "Total Energy": "36.963,04",
+    "Solar Energy": "1,53",
+    "Wind Energy": "3.143,80"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "12.11.2025",
     "Hour": "00:00",
-    "Total Energy": "34.634,03",
-    "Solar Energy": "0,99",
-    "Wind Energy": "850,29"
+    "Total Energy": "35.063,93",
+    "Solar Energy": "1,52",
+    "Wind Energy": "3.145,82"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "12.11.2025",
     "Hour": "01:00",
-    "Total Energy": "33.097,18",
-    "Solar Energy": "0,99",
-    "Wind Energy": "915,69"
+    "Total Energy": "33.531,45",
+    "Solar Energy": "1,49",
+    "Wind Energy": "2.948,99"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "12.11.2025",
     "Hour": "02:00",
-    "Total Energy": "31.866,58",
-    "Solar Energy": "0,99",
-    "Wind Energy": "969,58"
+    "Total Energy": "32.298,50",
+    "Solar Energy": "1,48",
+    "Wind Energy": "2.966,19"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "12.11.2025",
     "Hour": "03:00",
-    "Total Energy": "31.054,56",
-    "Solar Energy": "0,99",
-    "Wind Energy": "952,15"
+    "Total Energy": "31.632,45",
+    "Solar Energy": "1,46",
+    "Wind Energy": "2.900,85"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "12.11.2025",
     "Hour": "04:00",
-    "Total Energy": "30.724,02",
-    "Solar Energy": "0,88",
-    "Wind Energy": "857,97"
+    "Total Energy": "31.297,74",
+    "Solar Energy": "1,48",
+    "Wind Energy": "2.682,13"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "12.11.2025",
     "Hour": "05:00",
-    "Total Energy": "30.757,71",
-    "Solar Energy": "2,60",
-    "Wind Energy": "725,08"
+    "Total Energy": "31.670,48",
+    "Solar Energy": "1,63",
+    "Wind Energy": "2.425,21"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "12.11.2025",
     "Hour": "06:00",
-    "Total Energy": "31.107,11",
-    "Solar Energy": "26,20",
-    "Wind Energy": "619,22"
+    "Total Energy": "32.408,59",
+    "Solar Energy": "7,89",
+    "Wind Energy": "2.413,00"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "12.11.2025",
     "Hour": "07:00",
-    "Total Energy": "29.968,61",
-    "Solar Energy": "512,68",
-    "Wind Energy": "616,61"
+    "Total Energy": "33.873,46",
+    "Solar Energy": "100,46",
+    "Wind Energy": "2.251,33"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "12.11.2025",
     "Hour": "08:00",
-    "Total Energy": "29.918,43",
-    "Solar Energy": "1.866,78",
-    "Wind Energy": "571,91"
+    "Total Energy": "37.087,29",
+    "Solar Energy": "760,07",
+    "Wind Energy": "2.136,69"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "12.11.2025",
     "Hour": "09:00",
-    "Total Energy": "28.661,89",
-    "Solar Energy": "2.631,98",
-    "Wind Energy": "555,38"
+    "Total Energy": "36.517,18",
+    "Solar Energy": "1.446,21",
+    "Wind Energy": "2.095,36"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "12.11.2025",
     "Hour": "10:00",
-    "Total Energy": "27.581,91",
-    "Solar Energy": "2.886,60",
-    "Wind Energy": "601,76"
+    "Total Energy": "34.641,67",
+    "Solar Energy": "2.088,98",
+    "Wind Energy": "1.875,05"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "12.11.2025",
     "Hour": "11:00",
-    "Total Energy": "26.933,05",
-    "Solar Energy": "2.929,27",
-    "Wind Energy": "692,30"
+    "Total Energy": "33.577,23",
+    "Solar Energy": "2.193,60",
+    "Wind Energy": "1.910,66"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "12.11.2025",
     "Hour": "12:00",
-    "Total Energy": "25.331,54",
-    "Solar Energy": "2.996,23",
-    "Wind Energy": "775,34"
+    "Total Energy": "31.619,97",
+    "Solar Energy": "2.218,67",
+    "Wind Energy": "1.865,78"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "12.11.2025",
     "Hour": "13:00",
-    "Total Energy": "26.746,33",
-    "Solar Energy": "2.922,51",
-    "Wind Energy": "932,13"
+    "Total Energy": "33.367,91",
+    "Solar Energy": "2.062,93",
+    "Wind Energy": "1.736,35"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "12.11.2025",
     "Hour": "14:00",
-    "Total Energy": "28.581,62",
-    "Solar Energy": "2.744,12",
-    "Wind Energy": "1.091,36"
+    "Total Energy": "35.728,87",
+    "Solar Energy": "1.918,09",
+    "Wind Energy": "1.631,26"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "12.11.2025",
     "Hour": "15:00",
-    "Total Energy": "30.938,07",
-    "Solar Energy": "2.321,04",
-    "Wind Energy": "1.053,58"
+    "Total Energy": "38.012,87",
+    "Solar Energy": "1.528,04",
+    "Wind Energy": "1.675,72"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "12.11.2025",
     "Hour": "16:00",
-    "Total Energy": "34.874,37",
-    "Solar Energy": "1.316,35",
-    "Wind Energy": "1.102,79"
+    "Total Energy": "41.565,08",
+    "Solar Energy": "555,57",
+    "Wind Energy": "1.711,26"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "12.11.2025",
     "Hour": "17:00",
-    "Total Energy": "38.585,23",
-    "Solar Energy": "240,74",
-    "Wind Energy": "1.179,97"
+    "Total Energy": "44.730,86",
+    "Solar Energy": "45,54",
+    "Wind Energy": "1.800,66"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "12.11.2025",
     "Hour": "18:00",
-    "Total Energy": "40.990,93",
-    "Solar Energy": "3,25",
-    "Wind Energy": "1.300,81"
+    "Total Energy": "44.502,18",
+    "Solar Energy": "2,27",
+    "Wind Energy": "2.244,13"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "12.11.2025",
     "Hour": "19:00",
-    "Total Energy": "40.182,16",
-    "Solar Energy": "0,89",
-    "Wind Energy": "1.193,78"
+    "Total Energy": "43.245,49",
+    "Solar Energy": "2,13",
+    "Wind Energy": "2.511,12"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "12.11.2025",
     "Hour": "20:00",
-    "Total Energy": "39.597,07",
-    "Solar Energy": "0,90",
-    "Wind Energy": "1.001,12"
+    "Total Energy": "42.054,03",
+    "Solar Energy": "2,09",
+    "Wind Energy": "2.543,74"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "12.11.2025",
     "Hour": "21:00",
-    "Total Energy": "38.447,89",
-    "Solar Energy": "0,89",
-    "Wind Energy": "957,38"
+    "Total Energy": "40.752,52",
+    "Solar Energy": "2,08",
+    "Wind Energy": "2.490,14"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "12.11.2025",
     "Hour": "22:00",
-    "Total Energy": "36.998,77",
-    "Solar Energy": "0,90",
-    "Wind Energy": "908,29"
+    "Total Energy": "39.241,95",
+    "Solar Energy": "2,05",
+    "Wind Energy": "2.272,13"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "12.11.2025",
     "Hour": "23:00",
-    "Total Energy": "35.090,94",
-    "Solar Energy": "0,81",
-    "Wind Energy": "945,86"
+    "Total Energy": "36.857,49",
+    "Solar Energy": "1,48",
+    "Wind Energy": "2.163,07"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "13.11.2025",
     "Hour": "00:00",
-    "Total Energy": "34.634,03",
-    "Solar Energy": "0,99",
-    "Wind Energy": "850,29"
+    "Total Energy": "35.557,57",
+    "Solar Energy": "1,47",
+    "Wind Energy": "2.142,62"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "13.11.2025",
     "Hour": "01:00",
-    "Total Energy": "33.097,18",
-    "Solar Energy": "0,99",
-    "Wind Energy": "915,69"
+    "Total Energy": "33.857,15",
+    "Solar Energy": "1,47",
+    "Wind Energy": "2.044,96"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "13.11.2025",
     "Hour": "02:00",
-    "Total Energy": "31.866,58",
-    "Solar Energy": "0,99",
-    "Wind Energy": "969,58"
+    "Total Energy": "32.684,56",
+    "Solar Energy": "1,46",
+    "Wind Energy": "2.058,32"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "13.11.2025",
     "Hour": "03:00",
-    "Total Energy": "31.054,56",
-    "Solar Energy": "0,99",
-    "Wind Energy": "952,15"
+    "Total Energy": "31.822,20",
+    "Solar Energy": "1,45",
+    "Wind Energy": "2.369,85"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "13.11.2025",
     "Hour": "04:00",
-    "Total Energy": "30.724,02",
-    "Solar Energy": "0,88",
-    "Wind Energy": "857,97"
+    "Total Energy": "31.616,83",
+    "Solar Energy": "1,49",
+    "Wind Energy": "2.631,44"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "13.11.2025",
     "Hour": "05:00",
-    "Total Energy": "30.757,71",
-    "Solar Energy": "2,60",
-    "Wind Energy": "725,08"
+    "Total Energy": "31.892,68",
+    "Solar Energy": "1,48",
+    "Wind Energy": "2.755,19"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "13.11.2025",
     "Hour": "06:00",
-    "Total Energy": "31.107,11",
-    "Solar Energy": "26,20",
-    "Wind Energy": "619,22"
+    "Total Energy": "32.771,39",
+    "Solar Energy": "3,73",
+    "Wind Energy": "2.925,36"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "13.11.2025",
     "Hour": "07:00",
-    "Total Energy": "29.968,61",
-    "Solar Energy": "512,68",
-    "Wind Energy": "616,61"
+    "Total Energy": "34.379,34",
+    "Solar Energy": "76,18",
+    "Wind Energy": "3.098,54"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "13.11.2025",
     "Hour": "08:00",
-    "Total Energy": "29.918,43",
-    "Solar Energy": "1.866,78",
-    "Wind Energy": "571,91"
+    "Total Energy": "38.440,75",
+    "Solar Energy": "395,40",
+    "Wind Energy": "3.314,62"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "13.11.2025",
     "Hour": "09:00",
-    "Total Energy": "28.661,89",
-    "Solar Energy": "2.631,98",
-    "Wind Energy": "555,38"
+    "Total Energy": "38.486,77",
+    "Solar Energy": "994,08",
+    "Wind Energy": "3.117,39"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "13.11.2025",
     "Hour": "10:00",
-    "Total Energy": "27.581,91",
-    "Solar Energy": "2.886,60",
-    "Wind Energy": "601,76"
+    "Total Energy": "37.507,15",
+    "Solar Energy": "1.490,75",
+    "Wind Energy": "2.673,13"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "13.11.2025",
     "Hour": "11:00",
-    "Total Energy": "26.933,05",
-    "Solar Energy": "2.929,27",
-    "Wind Energy": "692,30"
+    "Total Energy": "36.590,94",
+    "Solar Energy": "2.020,02",
+    "Wind Energy": "2.525,70"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "13.11.2025",
     "Hour": "12:00",
-    "Total Energy": "25.331,54",
-    "Solar Energy": "2.996,23",
-    "Wind Energy": "775,34"
+    "Total Energy": "34.473,74",
+    "Solar Energy": "1.841,86",
+    "Wind Energy": "2.493,71"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "13.11.2025",
     "Hour": "13:00",
-    "Total Energy": "26.746,33",
-    "Solar Energy": "2.922,51",
-    "Wind Energy": "932,13"
+    "Total Energy": "35.327,93",
+    "Solar Energy": "1.781,98",
+    "Wind Energy": "2.716,02"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "13.11.2025",
     "Hour": "14:00",
-    "Total Energy": "28.581,62",
-    "Solar Energy": "2.744,12",
-    "Wind Energy": "1.091,36"
+    "Total Energy": "37.183,32",
+    "Solar Energy": "1.461,38",
+    "Wind Energy": "2.839,53"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "13.11.2025",
     "Hour": "15:00",
-    "Total Energy": "30.938,07",
-    "Solar Energy": "2.321,04",
-    "Wind Energy": "1.053,58"
+    "Total Energy": "39.392,58",
+    "Solar Energy": "1.107,44",
+    "Wind Energy": "3.109,68"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "13.11.2025",
     "Hour": "16:00",
-    "Total Energy": "34.874,37",
-    "Solar Energy": "1.316,35",
-    "Wind Energy": "1.102,79"
+    "Total Energy": "42.379,20",
+    "Solar Energy": "491,02",
+    "Wind Energy": "3.373,13"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "13.11.2025",
     "Hour": "17:00",
-    "Total Energy": "38.585,23",
-    "Solar Energy": "240,74",
-    "Wind Energy": "1.179,97"
+    "Total Energy": "45.175,93",
+    "Solar Energy": "44,56",
+    "Wind Energy": "3.513,45"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "13.11.2025",
     "Hour": "18:00",
-    "Total Energy": "40.990,93",
-    "Solar Energy": "3,25",
-    "Wind Energy": "1.300,81"
+    "Total Energy": "45.027,18",
+    "Solar Energy": "3,13",
+    "Wind Energy": "3.844,23"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "13.11.2025",
     "Hour": "19:00",
-    "Total Energy": "40.182,16",
-    "Solar Energy": "0,89",
-    "Wind Energy": "1.193,78"
+    "Total Energy": "43.644,64",
+    "Solar Energy": "1,59",
+    "Wind Energy": "4.006,55"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "13.11.2025",
     "Hour": "20:00",
-    "Total Energy": "39.597,07",
-    "Solar Energy": "0,90",
-    "Wind Energy": "1.001,12"
+    "Total Energy": "42.546,24",
+    "Solar Energy": "1,62",
+    "Wind Energy": "3.757,03"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "13.11.2025",
     "Hour": "21:00",
-    "Total Energy": "38.447,89",
-    "Solar Energy": "0,89",
-    "Wind Energy": "957,38"
+    "Total Energy": "41.359,97",
+    "Solar Energy": "1,61",
+    "Wind Energy": "3.542,50"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "13.11.2025",
     "Hour": "22:00",
-    "Total Energy": "36.998,77",
-    "Solar Energy": "0,90",
-    "Wind Energy": "908,29"
+    "Total Energy": "39.879,74",
+    "Solar Energy": "1,59",
+    "Wind Energy": "3.433,25"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "13.11.2025",
     "Hour": "23:00",
-    "Total Energy": "35.090,94",
-    "Solar Energy": "0,81",
-    "Wind Energy": "945,86"
+    "Total Energy": "37.982,62",
+    "Solar Energy": "1,59",
+    "Wind Energy": "3.200,23"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "14.11.2025",
     "Hour": "00:00",
-    "Total Energy": "34.634,03",
-    "Solar Energy": "0,99",
-    "Wind Energy": "850,29"
+    "Total Energy": "35.747,42",
+    "Solar Energy": "2,53",
+    "Wind Energy": "3.001,96"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "14.11.2025",
     "Hour": "01:00",
-    "Total Energy": "33.097,18",
-    "Solar Energy": "0,99",
-    "Wind Energy": "915,69"
+    "Total Energy": "34.046,87",
+    "Solar Energy": "2,47",
+    "Wind Energy": "3.081,56"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "14.11.2025",
     "Hour": "02:00",
-    "Total Energy": "31.866,58",
-    "Solar Energy": "0,99",
-    "Wind Energy": "969,58"
+    "Total Energy": "32.799,57",
+    "Solar Energy": "2,42",
+    "Wind Energy": "3.246,51"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "14.11.2025",
     "Hour": "03:00",
-    "Total Energy": "31.054,56",
-    "Solar Energy": "0,99",
-    "Wind Energy": "952,15"
+    "Total Energy": "32.095,77",
+    "Solar Energy": "2,42",
+    "Wind Energy": "3.484,17"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "14.11.2025",
     "Hour": "04:00",
-    "Total Energy": "30.724,02",
-    "Solar Energy": "0,88",
-    "Wind Energy": "857,97"
+    "Total Energy": "31.791,05",
+    "Solar Energy": "2,43",
+    "Wind Energy": "3.574,68"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "14.11.2025",
     "Hour": "05:00",
-    "Total Energy": "30.757,71",
-    "Solar Energy": "2,60",
-    "Wind Energy": "725,08"
+    "Total Energy": "32.003,15",
+    "Solar Energy": "2,42",
+    "Wind Energy": "3.543,33"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "14.11.2025",
     "Hour": "06:00",
-    "Total Energy": "31.107,11",
-    "Solar Energy": "26,20",
-    "Wind Energy": "619,22"
+    "Total Energy": "33.112,26",
+    "Solar Energy": "5,96",
+    "Wind Energy": "3.545,66"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "14.11.2025",
     "Hour": "07:00",
-    "Total Energy": "29.968,61",
-    "Solar Energy": "512,68",
-    "Wind Energy": "616,61"
+    "Total Energy": "34.733,56",
+    "Solar Energy": "69,45",
+    "Wind Energy": "3.471,07"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "14.11.2025",
     "Hour": "08:00",
-    "Total Energy": "29.918,43",
-    "Solar Energy": "1.866,78",
-    "Wind Energy": "571,91"
+    "Total Energy": "38.268,64",
+    "Solar Energy": "550,57",
+    "Wind Energy": "3.521,50"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "14.11.2025",
     "Hour": "09:00",
-    "Total Energy": "28.661,89",
-    "Solar Energy": "2.631,98",
-    "Wind Energy": "555,38"
+    "Total Energy": "38.027,61",
+    "Solar Energy": "1.563,70",
+    "Wind Energy": "3.198,83"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "14.11.2025",
     "Hour": "10:00",
-    "Total Energy": "27.581,91",
-    "Solar Energy": "2.886,60",
-    "Wind Energy": "601,76"
+    "Total Energy": "36.613,91",
+    "Solar Energy": "1.840,03",
+    "Wind Energy": "2.997,18"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "14.11.2025",
     "Hour": "11:00",
-    "Total Energy": "26.933,05",
-    "Solar Energy": "2.929,27",
-    "Wind Energy": "692,30"
+    "Total Energy": "35.541,95",
+    "Solar Energy": "1.900,78",
+    "Wind Energy": "2.856,19"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "14.11.2025",
     "Hour": "12:00",
-    "Total Energy": "25.331,54",
-    "Solar Energy": "2.996,23",
-    "Wind Energy": "775,34"
+    "Total Energy": "32.817,21",
+    "Solar Energy": "1.949,22",
+    "Wind Energy": "2.954,10"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "14.11.2025",
     "Hour": "13:00",
-    "Total Energy": "26.746,33",
-    "Solar Energy": "2.922,51",
-    "Wind Energy": "932,13"
+    "Total Energy": "33.707,29",
+    "Solar Energy": "1.921,25",
+    "Wind Energy": "2.991,05"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "14.11.2025",
     "Hour": "14:00",
-    "Total Energy": "28.581,62",
-    "Solar Energy": "2.744,12",
-    "Wind Energy": "1.091,36"
+    "Total Energy": "36.787,83",
+    "Solar Energy": "1.885,55",
+    "Wind Energy": "2.950,93"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "14.11.2025",
     "Hour": "15:00",
-    "Total Energy": "30.938,07",
-    "Solar Energy": "2.321,04",
-    "Wind Energy": "1.053,58"
+    "Total Energy": "38.920,94",
+    "Solar Energy": "1.430,47",
+    "Wind Energy": "2.808,12"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "14.11.2025",
     "Hour": "16:00",
-    "Total Energy": "34.874,37",
-    "Solar Energy": "1.316,35",
-    "Wind Energy": "1.102,79"
+    "Total Energy": "41.998,75",
+    "Solar Energy": "587,64",
+    "Wind Energy": "3.101,64"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "14.11.2025",
     "Hour": "17:00",
-    "Total Energy": "38.585,23",
-    "Solar Energy": "240,74",
-    "Wind Energy": "1.179,97"
+    "Total Energy": "44.917,91",
+    "Solar Energy": "61,39",
+    "Wind Energy": "3.459,47"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "14.11.2025",
     "Hour": "18:00",
-    "Total Energy": "40.990,93",
-    "Solar Energy": "3,25",
-    "Wind Energy": "1.300,81"
+    "Total Energy": "44.749,78",
+    "Solar Energy": "3,22",
+    "Wind Energy": "3.764,63"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "14.11.2025",
     "Hour": "19:00",
-    "Total Energy": "40.182,16",
-    "Solar Energy": "0,89",
-    "Wind Energy": "1.193,78"
+    "Total Energy": "43.456,43",
+    "Solar Energy": "3,10",
+    "Wind Energy": "3.877,28"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "14.11.2025",
     "Hour": "20:00",
-    "Total Energy": "39.597,07",
-    "Solar Energy": "0,90",
-    "Wind Energy": "1.001,12"
+    "Total Energy": "42.187,71",
+    "Solar Energy": "3,07",
+    "Wind Energy": "4.285,98"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "14.11.2025",
     "Hour": "21:00",
-    "Total Energy": "38.447,89",
-    "Solar Energy": "0,89",
-    "Wind Energy": "957,38"
+    "Total Energy": "40.885,83",
+    "Solar Energy": "3,04",
+    "Wind Energy": "4.419,78"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "14.11.2025",
     "Hour": "22:00",
-    "Total Energy": "36.998,77",
-    "Solar Energy": "0,90",
-    "Wind Energy": "908,29"
+    "Total Energy": "39.413,50",
+    "Solar Energy": "3,04",
+    "Wind Energy": "4.277,00"
   },
   {
-    "Date": "18.10.2025",
+    "Date": "14.11.2025",
     "Hour": "23:00",
-    "Total Energy": "35.090,94",
-    "Solar Energy": "0,81",
-    "Wind Energy": "945,86"
+    "Total Energy": "37.761,47",
+    "Solar Energy": "2,51",
+    "Wind Energy": "4.088,01"
+  },
+  {
+    "Date": "15.11.2025",
+    "Hour": "00:00",
+    "Total Energy": "35.692,82",
+    "Solar Energy": "2,76",
+    "Wind Energy": "4.088,86"
+  },
+  {
+    "Date": "15.11.2025",
+    "Hour": "01:00",
+    "Total Energy": "33.853,94",
+    "Solar Energy": "2,34",
+    "Wind Energy": "4.146,26"
+  },
+  {
+    "Date": "15.11.2025",
+    "Hour": "02:00",
+    "Total Energy": "32.472,23",
+    "Solar Energy": "2,50",
+    "Wind Energy": "4.157,57"
+  },
+  {
+    "Date": "15.11.2025",
+    "Hour": "03:00",
+    "Total Energy": "31.590,71",
+    "Solar Energy": "2,49",
+    "Wind Energy": "4.095,80"
+  },
+  {
+    "Date": "15.11.2025",
+    "Hour": "04:00",
+    "Total Energy": "31.286,64",
+    "Solar Energy": "2,49",
+    "Wind Energy": "4.222,65"
+  },
+  {
+    "Date": "15.11.2025",
+    "Hour": "05:00",
+    "Total Energy": "31.436,42",
+    "Solar Energy": "2,52",
+    "Wind Energy": "4.228,09"
+  },
+  {
+    "Date": "15.11.2025",
+    "Hour": "06:00",
+    "Total Energy": "31.952,04",
+    "Solar Energy": "5,70",
+    "Wind Energy": "4.060,47"
+  },
+  {
+    "Date": "15.11.2025",
+    "Hour": "07:00",
+    "Total Energy": "32.662,19",
+    "Solar Energy": "46,35",
+    "Wind Energy": "4.172,02"
+  },
+  {
+    "Date": "15.11.2025",
+    "Hour": "08:00",
+    "Total Energy": "34.669,30",
+    "Solar Energy": "430,65",
+    "Wind Energy": "4.189,09"
+  },
+  {
+    "Date": "15.11.2025",
+    "Hour": "09:00",
+    "Total Energy": "34.627,40",
+    "Solar Energy": "872,82",
+    "Wind Energy": "4.005,43"
+  },
+  {
+    "Date": "15.11.2025",
+    "Hour": "10:00",
+    "Total Energy": "33.749,58",
+    "Solar Energy": "1.018,18",
+    "Wind Energy": "3.484,30"
+  },
+  {
+    "Date": "15.11.2025",
+    "Hour": "11:00",
+    "Total Energy": "33.248,36",
+    "Solar Energy": "1.113,15",
+    "Wind Energy": "3.113,98"
+  },
+  {
+    "Date": "15.11.2025",
+    "Hour": "12:00",
+    "Total Energy": "32.288,25",
+    "Solar Energy": "1.469,96",
+    "Wind Energy": "3.002,51"
+  },
+  {
+    "Date": "15.11.2025",
+    "Hour": "13:00",
+    "Total Energy": "32.871,99",
+    "Solar Energy": "1.346,97",
+    "Wind Energy": "2.838,03"
+  },
+  {
+    "Date": "15.11.2025",
+    "Hour": "14:00",
+    "Total Energy": "33.489,65",
+    "Solar Energy": "1.183,00",
+    "Wind Energy": "2.837,91"
+  },
+  {
+    "Date": "15.11.2025",
+    "Hour": "15:00",
+    "Total Energy": "35.228,83",
+    "Solar Energy": "837,15",
+    "Wind Energy": "2.599,33"
+  },
+  {
+    "Date": "15.11.2025",
+    "Hour": "16:00",
+    "Total Energy": "37.974,58",
+    "Solar Energy": "379,65",
+    "Wind Energy": "2.448,38"
+  },
+  {
+    "Date": "15.11.2025",
+    "Hour": "17:00",
+    "Total Energy": "41.559,00",
+    "Solar Energy": "46,59",
+    "Wind Energy": "2.355,17"
+  },
+  {
+    "Date": "15.11.2025",
+    "Hour": "18:00",
+    "Total Energy": "43.149,47",
+    "Solar Energy": "2,87",
+    "Wind Energy": "2.367,66"
+  },
+  {
+    "Date": "15.11.2025",
+    "Hour": "19:00",
+    "Total Energy": "42.332,06",
+    "Solar Energy": "2,64",
+    "Wind Energy": "2.331,31"
+  },
+  {
+    "Date": "15.11.2025",
+    "Hour": "20:00",
+    "Total Energy": "41.332,64",
+    "Solar Energy": "2,64",
+    "Wind Energy": "2.282,53"
+  },
+  {
+    "Date": "15.11.2025",
+    "Hour": "21:00",
+    "Total Energy": "40.344,24",
+    "Solar Energy": "2,76",
+    "Wind Energy": "2.107,14"
+  },
+  {
+    "Date": "15.11.2025",
+    "Hour": "22:00",
+    "Total Energy": "38.994,12",
+    "Solar Energy": "2,75",
+    "Wind Energy": "1.936,05"
+  },
+  {
+    "Date": "15.11.2025",
+    "Hour": "23:00",
+    "Total Energy": "36.552,23",
+    "Solar Energy": "1,10",
+    "Wind Energy": "1.843,72"
   }
 ]
