@@ -3,4 +3,3 @@ scrapy
 python-dotenv
 pandas
 numpy
-typing
